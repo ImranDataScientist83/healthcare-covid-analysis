@@ -6,7 +6,7 @@
 
 ## 🎯 Project Overview
 
-A production-ready REST API that assesses COVID-19 risk based on clinical symptoms using a rule-based clinical scoring algorithm. This project demonstrates **end-to-end ML system deployment** skills that top tech companies (ByteDance, TikTok, Shopee) look for.
+A production-ready REST API that assesses COVID-19 risk based on clinical symptoms using a rule-based clinical scoring algorithm. This project demonstrates **end-to-end ML system deployment** skills,
 
 ### 🔥 Key Features
 
@@ -46,3 +46,119 @@ A production-ready REST API that assesses COVID-19 risk based on clinical sympto
 ┌─────────────────┐
 │ JSON Response │
 └─────────────────┘
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Python 3.8+
+- pip package manager
+
+### Installation
+
+```bash
+# Clone repository
+git clone https://github.com/ImranDataScientist83/healthcare-covid-analysis.git
+cd healthcare-covid-analysis
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the API server
+uvicorn app:app --reload --port 8001
+```
+
+### Test the API
+Open your browser to: `http://127.0.0.1:8001/docs`
+
+## 📡 API Endpoints
+
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| GET | `/` | API information |
+| GET | `/health` | Health check |
+| GET | `/info` | Model details |
+| POST | `/predict` | Single patient prediction |
+| POST | `/predict/batch` | Batch predictions |
+
+## 💻 Usage Examples
+
+### Single Prediction
+
+```bash
+curl -X POST "http://127.0.0.1:8001/predict" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "age": 65,
+    "fever": true,
+    "cough": true,
+    "fatigue": true,
+    "difficulty_breathing": true,
+    "contact_with_confirmed": true,
+    "days_of_symptoms": 7
+  }'
+
+**Response:**
+```json
+{
+  "covid_risk": "High",
+  "confidence": 0.85,
+  "risk_score": 100,
+  "recommendation": "⚠️ Seek medical attention immediately",
+  "symptoms_checklist": {
+    "fever": true,
+    "cough": true,
+    "fatigue": true,
+    "breathing_difficulty": true
+  }
+}
+
+### Batch Prediction
+
+curl -X POST "http://127.0.0.1:8001/predict/batch" \
+  -H "Content-Type: application/json" \
+  -d '[
+    {"age": 25, "fever": false, "cough": false, "fatigue": false, "difficulty_breathing": false, "contact_with_confirmed": false, "days_of_symptoms": 0},
+    {"age": 70, "fever": true, "cough": true, "fatigue": true, "difficulty_breathing": true, "contact_with_confirmed": true, "days_of_symptoms": 5}
+  ]'
+
+## 📊 Risk Scoring Logic
+
+| Factor | Weight | Maximum |
+|--------|--------|---------|
+| Age > 60 | 30 pts | 30 |
+| Fever | 15 pts | 15 |
+| Cough | 15 pts | 15 |
+| Fatigue | 10 pts | 10 |
+| Breathing difficulty | 25 pts | 25 |
+| Contact with confirmed | 20 pts | 20 |
+| Days of symptoms | 2 pts/day | 20 |
+
+**Risk Levels:**
+- **High (70+ pts)**: Immediate medical attention required
+- **Medium (40-69 pts)**: Monitor symptoms, consider testing
+- **Low (0-39 pts)**: Continue standard precautions
+
+## 🛠️ Tech Stack
+
+- **Framework**: FastAPI
+- **Server**: Uvicorn
+- **Validation**: Pydantic v2
+- **Documentation**: OpenAPI/Swagger
+
+## 📸 Screenshots
+
+![API Documentation](screenshots/api-docs.png)
+*Interactive Swagger UI documentation*
+
+![Prediction Response](screenshots/prediction-response.png)
+*Sample API response*
+
+## 📝 License
+
+MIT License
+
+## 📧 Contact
+
+Imran - imranscar@hotmail.com
+
+Project Link: [https://github.com/ImranDataScientist83/healthcare-covid-analysis](https://github.com/ImranDataScientist83/healthcare-covid-analysis)
