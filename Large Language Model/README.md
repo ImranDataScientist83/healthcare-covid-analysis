@@ -84,7 +84,6 @@ Open your browser to: `http://127.0.0.1:8001/docs`
 
 ### Single Prediction
 
-```bash
 curl -X POST "http://127.0.0.1:8001/predict" \
   -H "Content-Type: application/json" \
   -d '{
@@ -98,7 +97,7 @@ curl -X POST "http://127.0.0.1:8001/predict" \
   }'
 
 **Response:**
-```json
+
 {
   "covid_risk": "High",
   "confidence": 0.85,
