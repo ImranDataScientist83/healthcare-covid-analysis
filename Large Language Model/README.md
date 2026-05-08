@@ -16,6 +16,7 @@ A production-ready REST API that assesses COVID-19 risk based on clinical sympto
 - ✅ **Clinical-grade logic** - Age-weighted, symptom-based scoring
 - ✅ **Production ready** - FastAPI with automatic validation
 
+```text
 ## 🏗️ Architecture
 ┌─────────────────┐
 │ Client/Frontend│
@@ -47,6 +48,7 @@ A production-ready REST API that assesses COVID-19 risk based on clinical sympto
 │ JSON Response │
 └─────────────────┘
 
+```
 ## 🚀 Quick Start
 
 ### Prerequisites
