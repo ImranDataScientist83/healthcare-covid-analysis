@@ -49,37 +49,37 @@ A production-ready REST API that assesses COVID-19 risk based on clinical sympto
 └─────────────────┘
 
 ```
-## 🚀 Quick Start
+``
+# 🚀 Quick Start
 
 ### Prerequisites
 - Python 3.8+
 - pip package manager
-
-```
-```
-### Installation
+``
+# Installation
 
 ``
-# Clone repository
+### Clone repository
+```
 git clone https://github.com/ImranDataScientist83/healthcare-covid-analysis.git
 cd healthcare-covid-analysis
-
 ```
+### Install dependencies
 ```
-# Install dependencies
 pip install -r requirements.txt
-
 ```
+``
+### Run the API server
 ```
-# Run the API server
 uvicorn app:app --reload --port 8001
 ```
-```
+``
 ### Test the API
 Open your browser to: `http://127.0.0.1:8001/docs`
-
+```
+```
 ## 📡 API Endpoints
-
+``
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | GET | `/` | API information |
