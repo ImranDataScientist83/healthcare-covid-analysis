@@ -1,0 +1,86 @@
+[
+  {
+    "doc_id":"KB-001",
+    "title":"TikTok Algorithm Guide 2025",
+    "content":"The TikTok algorithm prioritizes watch time (60%), completion rate (25%), and engagement (15%). For best results, post when your audience is active (7-9 PM local time).",
+    "tags":[
+      "tiktok",
+      "algorithm",
+      "growth"
+    ],
+    "language":"en",
+    "last_updated":"2025-01-15"
+  },
+  {
+    "doc_id":"KB-002",
+    "title":"Shadowban Resolution Process",
+    "content":"Shadowbans occur when content violates guidelines. To resolve: 1) Check account status in Settings > Report a Problem, 2) Remove violating content, 3) Wait 72 hours, 4) Contact support if persists.",
+    "tags":[
+      "tiktok",
+      "shadowban",
+      "account"
+    ],
+    "language":"en",
+    "last_updated":"2025-01-20"
+  },
+  {
+    "doc_id":"KB-003",
+    "title":"CapCut Login Troubleshooting",
+    "content":"CapCut login issues: Clear cache (Settings > Apps > CapCut > Clear Cache), update to latest version, check internet connection, or use 'Forgot Password' feature.",
+    "tags":[
+      "capcut",
+      "login",
+      "troubleshooting"
+    ],
+    "language":"en",
+    "last_updated":"2025-02-01"
+  },
+  {
+    "doc_id":"KB-004",
+    "title":"Panduan Pengguna TikTok Indonesia",
+    "content":"Untuk hasil terbaik di TikTok Indonesia, posting antara jam 7-9 malam WIB. Gunakan musik lokal dan caption dalam Bahasa Indonesia untuk engagement lebih tinggi.",
+    "tags":[
+      "tiktok",
+      "indonesia",
+      "tips"
+    ],
+    "language":"id",
+    "last_updated":"2025-01-10"
+  },
+  {
+    "doc_id":"KB-005",
+    "title":"Panduan CapCut Bahasa Melayu",
+    "content":"Cara atasi masalah eksport CapCut: Pastikan ruang storan mencukupi, tutup aplikasi lain, dan gunakan format eksport H.264 untuk hasil terbaik.",
+    "tags":[
+      "capcut",
+      "malaysia",
+      "export"
+    ],
+    "language":"ms",
+    "last_updated":"2025-01-25"
+  },
+  {
+    "doc_id":"KB-006",
+    "title":"Lark Administration Guide",
+    "content":"Lark supports SSO integration, audit logs, and role-based access control. Admins can configure security policies in Admin Console > Security Settings.",
+    "tags":[
+      "lark",
+      "admin",
+      "security"
+    ],
+    "language":"en",
+    "last_updated":"2025-02-05"
+  },
+  {
+    "doc_id":"KB-007",
+    "title":"Data Privacy at ByteDance",
+    "content":"ByteDance complies with GDPR, CCPA, and PDPA. User data is encrypted at rest (AES-256) and in transit (TLS 1.3). Data retention is 30 days for inactive accounts.",
+    "tags":[
+      "privacy",
+      "security",
+      "compliance"
+    ],
+    "language":"en",
+    "last_updated":"2025-01-30"
+  }
+]

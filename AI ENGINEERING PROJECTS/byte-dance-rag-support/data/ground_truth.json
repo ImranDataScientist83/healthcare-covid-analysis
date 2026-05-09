@@ -1,0 +1,402 @@
+[
+  {
+    "ticket_id":"TKT-202605-0001",
+    "query":"watermark issue with CapCut",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0002",
+    "query":"watermark issue with CapCut",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0003",
+    "query":"follower issue with TikTok",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0004",
+    "query":"notification issue with Lark",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0005",
+    "query":"follower issue with TikTok",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0006",
+    "query":"watermark issue with CapCut",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0007",
+    "query":"calendar issue with Lark",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0008",
+    "query":"crash issue with CapCut",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0009",
+    "query":"notification issue with Lark",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0010",
+    "query":"permission issue with Lark",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0011",
+    "query":"crash issue with CapCut",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0012",
+    "query":"My video views dropped from 10k to 100 overnight",
+    "relevant_doc_ids":[
+      "KB-001"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0013",
+    "query":"upload issue with TikTok",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0014",
+    "query":"calendar issue with Lark",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0015",
+    "query":"I think I'm shadowbanned, my content isn't showing on FYP",
+    "relevant_doc_ids":[
+      "KB-002"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0016",
+    "query":"sync issue with Lark",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0017",
+    "query":"permission issue with Lark",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0018",
+    "query":"crash issue with CapCut",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0019",
+    "query":"Export keeps failing at 50% on my CapCut project",
+    "relevant_doc_ids":[
+      "KB-005"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0020",
+    "query":"template issue with CapCut",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0021",
+    "query":"Meeting recordings not showing in Lark calendar",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0022",
+    "query":"upload issue with TikTok",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0023",
+    "query":"notification issue with Lark",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0024",
+    "query":"upload issue with TikTok",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0025",
+    "query":"crash issue with CapCut",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0026",
+    "query":"sync issue with Lark",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0027",
+    "query":"Meeting recordings not showing in Lark calendar",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0028",
+    "query":"watermark issue with CapCut",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0029",
+    "query":"How does the TikTok algorithm work now?",
+    "relevant_doc_ids":[
+      "KB-001"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0030",
+    "query":"watermark issue with CapCut",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0031",
+    "query":"watermark issue with CapCut",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0032",
+    "query":"calendar issue with Lark",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0033",
+    "query":"calendar issue with Lark",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0034",
+    "query":"I think I'm shadowbanned, my content isn't showing on FYP",
+    "relevant_doc_ids":[
+      "KB-002"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0035",
+    "query":"upload issue with TikTok",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0036",
+    "query":"template issue with CapCut",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0037",
+    "query":"permission issue with Lark",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0038",
+    "query":"calendar issue with Lark",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0039",
+    "query":"Meeting recordings not showing in Lark calendar",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0040",
+    "query":"template issue with CapCut",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0041",
+    "query":"watermark issue with CapCut",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0042",
+    "query":"watermark issue with CapCut",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0043",
+    "query":"Meeting recordings not showing in Lark calendar",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0044",
+    "query":"upload issue with TikTok",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0045",
+    "query":"Export keeps failing at 50% on my CapCut project",
+    "relevant_doc_ids":[
+      "KB-005"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0046",
+    "query":"Export keeps failing at 50% on my CapCut project",
+    "relevant_doc_ids":[
+      "KB-005"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0047",
+    "query":"follower issue with TikTok",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0048",
+    "query":"notification issue with Lark",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0049",
+    "query":"sound issue with TikTok",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  },
+  {
+    "ticket_id":"TKT-202605-0050",
+    "query":"Meeting recordings not showing in Lark calendar",
+    "relevant_doc_ids":[
+      "KB-006"
+    ],
+    "expected_confidence":0.9
+  }
+]
