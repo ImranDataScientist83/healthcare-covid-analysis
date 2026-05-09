@@ -1,5 +1,7 @@
 # 📓 ML Pipeline Development Notebooks
 
+**[← Back to Main Portfolio](../README.md)**
+
 This folder contains Jupyter notebooks documenting the complete development process for the Customer Churn Prediction project.
 
 ## 📊 Notebook Outputs Included
