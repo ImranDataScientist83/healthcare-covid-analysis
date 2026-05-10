@@ -1,4 +1,4 @@
-# ImranDataScientist83 – AI/ML/Algorithm Engineering Portfolio
+# MAS IMRAN'S – AI/ML/Algorithm Engineering Portfolio
 
 **Applied Machine Learning Engineer | Production-Oriented AI Systems**
 
@@ -21,6 +21,13 @@ Machine Learning Engineer with a completed Master's Degree in Computer Science (
 
 ---
 
+### [🧠 02-LARGE-LANGUAGE-MODEL-ENGINEERING](./02-LARGE-LANGUAGE-MODEL-ENGINEERING/)
+
+**LLM & GenAI Workflows** - Prompt engineering, RAG concepts, API integration
+
+---
+
+**LLM & GenAI Workflows** - Prompt engineering, RAG concepts, API integration
 ### [⚙️ 03-MACHINE-LEARNING-PIPELINE-PROJECTS](./03-MACHINE-LEARNING-PIPELINE-PROJECTS/)
 
 **End-to-End ML Pipelines** - Customer churn prediction & COVID-19 risk API
@@ -32,13 +39,7 @@ Machine Learning Engineer with a completed Master's Degree in Computer Science (
 
 ---
 
-### [🧠 Large Language Model](./Large%20Language%20Model/)
-
-**LLM & GenAI Workflows** - Prompt engineering, RAG concepts, API integration
-
----
-
-### [🏥 Healthcare COVID-19 Analysis](./notebooks/)
+### [🏥 04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS](./04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS/)
 
 Real-world healthcare dataset analysis to identify temporal infection patterns and outcome correlations
 
@@ -48,13 +49,19 @@ Real-world healthcare dataset analysis to identify temporal infection patterns a
 
 ---
 
-### [📊 Business Intelligence Dashboard](./powerbi/)
+### [📊 04-UNIVERSITY-POWER-BI-PROJECTS](./04-UNIVERSITY-POWER-BI-PROJECTS/)
 
 Power BI dashboards aligned to KPI tracking and stakeholder analysis
 
 - Structured relationships within datasets
 - Calculated measures aligned to business metrics
 - Dynamic self-service filtering and interactive reporting
+
+---
+
+### [📚 04-UNIVERSITY-FINAL-THESIS-REPORTS](./04-UNIVERSITY-FINAL-THESIS-REPORTS/)
+
+Master's thesis and academic research documentation
 
 ---
 
@@ -133,3 +140,42 @@ Power BI dashboards aligned to KPI tracking and stakeholder analysis
 ---
 
 ## 📂 Repository Structure
+
+---
+
+## 📂 Repository Structure
+
+```bash
+healthcare-covid-analysis/
+├── 01-AI-ENGINEERING-PROJECTS/ # ByteDance RAG system
+├── 02-LARGE-LANGUAGE-MODEL-ENGINEERING/ # LLM & GenAI workflows
+├── 03-MACHINE-LEARNING-PIPELINE-PROJECTS/ # ML pipelines & APIs
+├── 04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS/ # COVID-19 analysis
+├── 04-UNIVERSITY-FINAL-THESIS-REPORTS/ # Master's thesis
+├── 04-UNIVERSITY-POWER-BI-PROJECTS/ # Power BI dashboards
+├── Chapter 4 Final Thesis/ # Academic chapter
+├── WSQ Deep Learning/ # Deep learning coursework
+├── WSQ Generative AI (SF)/ # GenAI coursework
+├── WSQ Machine Learning Algorithms.../ # ML coursework
+└── app.py # API endpoint
+```
+
+
+---
+
+## 🔗 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-ImranDataScientist83-181717?logo=github)](https://github.com/ImranDataScientist83)
+[![Email](https://img.shields.io/badge/Email-imranscar@hotmail.com-red?logo=gmail)](mailto:imranscar@hotmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=ImranDataScientist83&color=blue)
+
+---
+
+*Open to Applied ML Engineer / AI Engineer / AI Algorithm Engineering roles starting Feb 2026*
+
+
