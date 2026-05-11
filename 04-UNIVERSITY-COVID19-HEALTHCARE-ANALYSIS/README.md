@@ -235,19 +235,19 @@ Master of Computer Science (Expected Feb 2026)
 ## 📸 Sample Visualizations
 
 ### Hospital Beds vs Fatality Rate
-![Hospital Beds Heatmap](04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS/SCREENSHOTS/hospital_beds_fatality_heatmap.png.png)
+![Hospital Beds Heatmap](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS/SCREENSHOTS/hospital_beds_fatality_heatmap.png.png)
 
 ### Global Vaccination Trend
-![Vaccination Trend](04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS/SCREENSHOTS/global_vaccination_trend.png.png)
+![Vaccination Trend](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS/SCREENSHOTS/global_vaccination_trend.png.png)
 
 ### Global Fatality Rate Trend
-![Fatality Rate](04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS/SCREENSHOTS/global_fatality_rate_trend.png.png)
+![Fatality Rate](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS/SCREENSHOTS/global_fatality_rate_trend.png.png)
 
 ### Positivity Rate vs Testing Volume
-![Positivity vs Testing](04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS/SCREENSHOTS/positivity_vs_testing_scatter.png.png)
+![Positivity vs Testing](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS/SCREENSHOTS/positivity_vs_testing_scatter.png.png)
 
 ### Distribution of Cases Across Continents
-![Continental Distribution](04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS/SCREENSHOTS/continent_cases_boxplot.png.png)
+![Continental Distribution](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS/SCREENSHOTS/continent_cases_boxplot.png.png)
 
 ### Smoking vs Fatality Relationship
-![Smoking Fatality](04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS/SCREENSHOTS/smoking_vs_fatality_analysis.png.png)
+![Smoking Fatality](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS/SCREENSHOTS/smoking_vs_fatality_analysis.png.png)
