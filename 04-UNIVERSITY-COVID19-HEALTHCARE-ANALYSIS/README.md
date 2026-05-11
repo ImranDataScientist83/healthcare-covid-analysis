@@ -208,7 +208,7 @@ The notebook includes fully executed outputs with:
 
 ## 📝 Author
 
-**ImranDataScientist83**  
+**MAS IMRAN**  
 Applied Machine Learning Engineer  
 Master of Computer Science (Expected Feb 2026)
 
