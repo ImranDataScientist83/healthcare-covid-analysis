@@ -235,19 +235,19 @@ Master of Computer Science (Expected Feb 2026)
 ## 📸 Sample Visualizations
 
 ### Hospital Beds vs Fatality Rate
-![Hospital Beds Heatmap](images/hospital_beds_fatality_heatmap.png)
+![Hospital Beds Heatmap](images/hospital_beds_fatality_heatmap.png.png)
 
 ### Global Vaccination Trend
-![Vaccination Trend](images/global_vaccination_trend.png)
+![Vaccination Trend](images/global_vaccination_trend.png.png)
 
 ### Global Fatality Rate Trend
-![Fatality Rate](images/global_fatality_rate_trend.png)
+![Fatality Rate](images/global_fatality_rate_trend.png.png)
 
 ### Positivity Rate vs Testing Volume
-![Positivity vs Testing](images/positivity_vs_testing_scatter.png)
+![Positivity vs Testing](images/positivity_vs_testing_scatter.png.png)
 
 ### Distribution of Cases Across Continents
-![Continental Distribution](images/continent_cases_boxplot.png)
+![Continental Distribution](images/continent_cases_boxplot.png.png)
 
 ### Smoking vs Fatality Relationship
-![Smoking Fatality](images/smoking_vs_fatality_analysis.png)
+![Smoking Fatality](images/smoking_vs_fatality_analysis.png.png)
