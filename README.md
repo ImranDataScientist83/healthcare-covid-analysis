@@ -141,10 +141,6 @@ Master's thesis and academic research documentation
 
 ## 📂 Repository Structure
 
----
-
-## 📂 Repository Structure
-
 ```bash
 healthcare-covid-analysis/
 ├── 01-AI-ENGINEERING-PROJECTS/ # ByteDance RAG system
