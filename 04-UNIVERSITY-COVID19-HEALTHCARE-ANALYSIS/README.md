@@ -229,3 +229,25 @@ Master of Computer Science (Expected Feb 2026)
 ## 📌 Live Notebook
 
 [View on GitHub](https://github.com/ImranDataScientist83/healthcare-covid-analysis)
+
+---
+
+## 📸 Sample Visualizations
+
+### Hospital Beds vs Fatality Rate
+![Hospital Beds Heatmap](images/hospital_beds_fatality_heatmap.png)
+
+### Global Vaccination Trend
+![Vaccination Trend](images/global_vaccination_trend.png)
+
+### Global Fatality Rate Trend
+![Fatality Rate](images/global_fatality_rate_trend.png)
+
+### Positivity Rate vs Testing Volume
+![Positivity vs Testing](images/positivity_vs_testing_scatter.png)
+
+### Distribution of Cases Across Continents
+![Continental Distribution](images/continent_cases_boxplot.png)
+
+### Smoking vs Fatality Relationship
+![Smoking Fatality](images/smoking_vs_fatality_analysis.png)
