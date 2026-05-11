@@ -84,3 +84,26 @@ jupyter notebook notebooks/01_data_prep.ipynb
 ```
 mlflow ui --port 5000
 ```
+
+## 🤖 AI Engineering Projects - Visualizations
+
+### Ticket Demographics
+![Ticket Demographics](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ENGINEERING-PROJECTS/byte-dance-rag-support/images/01_ticket_demographics.png)
+
+### Knowledge Base Analysis
+![Knowledge Base Analysis](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ENGINEERING-PROJECTS/byte-dance-rag-support/images/02_knowledge_base_analysis.png)
+
+### Retrieval Performance
+![Retrieval Performance](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ENGINEERING-PROJECTS/byte-dance-rag-support/images/03_retrieval_performance.png)
+
+### LLM Quality Analysis
+![LLM Quality Analysis](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ENGINEERING-PROJECTS/byte-dance-rag-support/images/04_llm_quality_analysis.png)
+
+### Performance Radar
+![Performance Radar](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ENGINEERING-PROJECTS/byte-dance-rag-support/images/06_performance_radar.png)
+
+### Time Series Analysis
+![Time Series Analysis](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ENGINEERING-PROJECTS/byte-dance-rag-support/images/07_time_series_analysis.png)
+
+### Comprehensive Summary
+![Comprehensive Summary](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ENGINEERING-PROJECTS/byte-dance-rag-support/images/08_comprehensive_summary.png)
