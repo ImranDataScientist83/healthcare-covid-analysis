@@ -21,14 +21,14 @@ Machine Learning Engineer with a completed Master's Degree in Computer Science (
 
 ---
 
-### [🧠 02-LARGE-LANGUAGE-MODEL-ENGINEERING](./02-LARGE-LANGUAGE-MODEL-ENGINEERING/)
+### [🧠 02-LARGE-LANGUAGE-MODEL-ENGINEERING](./02-LARGE-LANGUAGE-MODEL-ENGINEERING-PROJECTS/)
 
 **LLM & GenAI Workflows** - Prompt engineering, RAG concepts, API integration
 
 ---
 
 **LLM & GenAI Workflows** - Prompt engineering, RAG concepts, API integration
-### [⚙️ 03-MACHINE-LEARNING-PIPELINE-PROJECTS](./03-MACHINE-LEARNING-PIPELINE-PROJECTS/)
+### [⚙️ 03-MACHINE-LEARNING-PIPELINE-PROJECTS](./03-MACHINE-LEARNNG-PIPELINE-PROJECTS/)
 
 **End-to-End ML Pipelines** - Customer churn prediction & COVID-19 risk API
 
