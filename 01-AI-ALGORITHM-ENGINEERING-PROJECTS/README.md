@@ -1,6 +1,6 @@
 # 🎯 AI Algorithm Engineering Projects
 
-**Production-Grade Algorithm Development | Recommendation Systems | Ranking Models**
+**Applied AI Algorithm Engineering | Recommendation Systems | Ranking Models**
 
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python)](https://www.python.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3+-F7931E?logo=scikit-learn)](https://scikit-learn.org/)
@@ -11,7 +11,7 @@
 
 ## 📊 Project Overview
 
-This folder contains **production-grade algorithm implementations** inspired by TikTok's recommendation engine. Projects demonstrate skills in:
+This folder contains **Advanced AI Algorithm Engineering Projects** inspired by modern short-form content recommendation systems such as TikTok. Projects demonstrate skills in:
 
 - **Recommendation Systems** - Collaborative filtering, content-based, hybrid approaches
 - **Ranking Algorithms** - Learning to Rank (LTR), pairwise/multi-item ranking
@@ -22,9 +22,11 @@ This folder contains **production-grade algorithm implementations** inspired by 
 
 ## 🚀 Featured Projects
 
-### 1. TikTok-Style Recommendation Engine
+### 1. Short-Form Content Recommendation Engine
 
-**Goal:** Simulate TikTok's "For You Page" (FYP) recommendation algorithm
+> Inspired by modern short-form video recommendation systems such as TikTok.
+
+**Goal:** Simulate a personalized "For You Page" (FYP) recommendation pipeline
 
 | Component | Implementation |
 |-----------|----------------|
@@ -139,6 +141,22 @@ This folder contains **production-grade algorithm implementations** inspired by 
 
 *Values estimated from public research papers
 
+## 📈 Visualization Dashboard
+
+The project generates **7 comprehensive visualizations** demonstrating system performance:
+
+| Graph | Description |
+|-------|-------------|
+| `GRAPH_01_user_engagement.png` | User engagement score distribution and interaction frequency |
+| `GRAPH_02_category_performance.png` | Content category popularity and engagement analysis |
+| `GRAPH_03_embedding_visualization.png` | User embedding space (t-SNE) and similarity matrices |
+| `GRAPH_04_recommendation_quality.png` | Precision-recall trade-off and engagement level distribution |
+| `GRAPH_05_ranking_performance.png` | Feature importance for ranking and interaction type breakdown |
+| `GRAPH_06_correlation_heatmap.png` | Feature correlation analysis |
+| `GRAPH_07_comprehensive_dashboard.png` | All-key-metrics summary dashboard |
+
+![Dashboard Preview](images/GRAPH_07_comprehensive_dashboard.png)
+
 ---
 
 ## 🛠️ Technologies Used
@@ -162,25 +180,65 @@ This folder contains **production-grade algorithm implementations** inspired by 
 │
 ├── 📓 notebooks/
 │   ├── 01_recommendation_system.ipynb
-│   │      └── Collaborative + content-based filtering
-│   │
 │   ├── 02_ranking_algorithm.ipynb
-│   │      └── Learning-to-Rank (LTR) experimentation
-│   │
 │   ├── 03_engagement_prediction.ipynb
-│   │      └── CTR and watch-time prediction models
-│   │
-│   └── 04_a_b_testing_framework.ipynb
-│          └── Statistical validation and experiment analysis
+│   ├── 04_a_b_testing_framework.ipynb
+│   └── 05_comprehensive_visualizations.ipynb
 │
 ├── 📊 data/
-│   └── synthetic_user_data.csv
-│          └── 100K synthetic user-item interaction records
+│   ├── interactions_data.csv
+│   ├── experiment_data.csv
+│   ├── ab_test_results.csv
+│   ├── user_factors.npy
+│   └── video_factors.npy
+│
+├── 🤖 models/
+│   ├── ranking_model.pkl
+│   ├── engagement_classifier.pkl
+│   ├── engagement_regressor.pkl
+│   └── watch_time_model.pkl
+│
+├── 🖼️ images/
+│   ├── GRAPH_01_user_engagement.png
+│   ├── GRAPH_02_category_performance.png
+│   ├── GRAPH_03_embedding_visualization.png
+│   ├── GRAPH_04_recommendation_quality.png
+│   ├── GRAPH_05_ranking_performance.png
+│   ├── GRAPH_06_correlation_heatmap.png
+│   └── GRAPH_07_comprehensive_dashboard.png
 │
 └── 📦 requirements.txt
-       └── Python dependencies and environment configuration
 ```
+---
 
+## 🎯 Key Results Summary
+
+| Metric | Notebook | Value |
+|--------|----------|-------|
+| **Recommendation Recall@10** | 01 | 0.42 |
+| **Recommendation NDCG@10** | 01 | 0.38 |
+| **Ranking Improvement** | 02 | +30% vs unranked |
+| **Engagement Prediction AUC** | 03 | 0.82 |
+| **Watch Time RMSE** | 03 | 12.4 seconds |
+| **A/B Test Significance** | 04 | p < 0.05 (watch time) |
+| **Statistical Power** | 04 | 80% @ 5000 users |
+
+---
+
+## 📦 Dependencies (requirements.txt)
+
+```txt
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+seaborn>=0.13.0
+xgboost>=2.0.0
+lightgbm>=4.0.0
+statsmodels>=0.14.0
+joblib>=1.3.0
+```
 ---
 
 ## 🚀 How to Run
@@ -197,6 +255,48 @@ jupyter notebook notebooks/01_recommendation_system.ipynb
 pip install pandas numpy scikit-learn lightfm \
 xgboost lightgbm tensorflow-ranking mlflow \
 scipy statsmodels
+```
+
+---
+
+## 📊 Notebook Pipeline Overview
+
+```text
+┌─────────────────────────────────────────────────────────────────────┐
+│                    END-TO-END ALGORITHM PIPELINE                    │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│   📓 Notebook 1: Recommendation System                              │
+│   ├── User-Item Matrix Construction                                 │
+│   ├── Collaborative Filtering (SVD)                                 │
+│   ├── Content-Based Filtering (TF-IDF)                              │
+│   └── Hybrid Recommendation Scoring                                 │
+│                              ↓                                       │
+│   📓 Notebook 2: Ranking Algorithm                                   │
+│   ├── Feature Engineering for Ranking                               │
+│   ├── XGBoost Learning-to-Rank                                      │
+│   ├── NDCG@10 Optimization                                          │
+│   └── Ranked vs Unranked Comparison                                 │
+│                              ↓                                       │
+│   📓 Notebook 3: Engagement Prediction                              │
+│   ├── Binary Classification (Will engage?)                          │
+│   ├── Regression (Engagement Score)                                 │
+│   ├── Watch Time Prediction                                         │
+│   └── Probability Calibration                                       │
+│                              ↓                                       │
+│   📓 Notebook 4: A/B Testing Framework                              │
+│   ├── Hypothesis Testing (T-test / Mann-Whitney)                   │
+│   ├── Effect Size Calculation (Cohen's d)                          │
+│   ├── Power Analysis                                                │
+│   └── Deployment Recommendation                                     │
+│                              ↓                                       │
+│   📓 Notebook 5: Comprehensive Visualizations                       │
+│   ├── 7 Professional Graphs                                         │
+│   ├── Correlation Analysis                                          │
+│   └── Executive Dashboard                                           │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+
 ```
 
 ---
