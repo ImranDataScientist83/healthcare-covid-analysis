@@ -168,7 +168,7 @@ Master's thesis and academic research documentation
 ## 📂 Repository Structure
 
 ```bash
-healthcare-covid-analysis/
+AI-ML-ALGORITHM-ENGINEERING-PORTFOLIO/
 ├── 01-AI-ENGINEERING-PROJECTS/ # ByteDance RAG system
 ├── 02-LARGE-LANGUAGE-MODEL-ENGINEERING/ # LLM & GenAI workflows
 ├── 03-MACHINE-LEARNING-PIPELINE-PROJECTS/ # ML pipelines & APIs
