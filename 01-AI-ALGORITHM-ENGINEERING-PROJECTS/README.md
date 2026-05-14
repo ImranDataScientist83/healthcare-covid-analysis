@@ -179,11 +179,11 @@ The project generates **7 comprehensive visualizations** demonstrating system pe
 ├── 📄 README.md
 │
 ├── 📓 notebooks/
-│   ├── 01_recommendation_system.ipynb
-│   ├── 02_ranking_algorithm.ipynb
-│   ├── 03_engagement_prediction.ipynb
-│   ├── 04_a_b_testing_framework.ipynb
-│   └── 05_comprehensive_visualizations.ipynb
+│   ├── AI ALGORITHM ENGINEERING PROJECTS NOTEBOOK 1 RECOMMENDATION SYSTEM.ipynb
+│   ├── AI ALGORITHM ENGINEERING PROJECTS NOTEBOOK 2 LEARNING TO RANK (LTR).ipynb
+│   ├── AI ALGORITHM ENGINEERING PROJECTS NOTEBOOK 3 ENGAGEMENT PREDICTION.ipynb
+│   ├── AI ALGORITHM ENGINEERING PROJECTS NOTEBOOK 4 A B TESTING FRAMEWOK.ipynb
+│   └── AI ALGORITHM ENGINEERING PROJECTS NOTEBOOK 5 COMPREHENSIVE VISUALIZATION DASHBOARD.ipynb
 │
 ├── 📊 data/
 │   ├── interactions_data.csv
