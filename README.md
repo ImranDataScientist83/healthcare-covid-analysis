@@ -56,7 +56,7 @@ Machine Learning Engineer with a completed Master's Degree in Computer Science (
 | Churn Prediction | 97.9% accuracy (Random Forest) |
 | COVID Risk API | FastAPI production service |
 
-📁 [View Project →](./03-MACHINE-LEARNING-PIPELINE-PROJECTS/)
+📁 [View Project →](./03-MACHINE-LEARNNG-PIPELINE-PROJECTS)
 
 ---
 
