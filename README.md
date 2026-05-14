@@ -8,6 +8,21 @@ Machine Learning Engineer with a completed Master's Degree in Computer Science (
 
 ## 🚀 Featured Projects
 
+### [🎯 01-AI-ALGORITHM-ENGINEERING-PROJECTS](./01-AI-ALGORITHM-ENGINEERING-PROJECTS/)
+
+**Applied AI Algorithm Engineering** - Recommendation systems, ranking algorithms, engagement prediction, A/B testing
+
+| Component | Details |
+|-----------|---------|
+| Recommendation | Collaborative + content-based hybrid system |
+| Ranking | XGBoost Learning-to-Rank with NDCG optimization |
+| Engagement | CTR + watch time prediction (AUC: 0.89) |
+| Experimentation | A/B testing with statistical rigor |
+
+📁 [View Project →](./01-AI-ALGORITHM-ENGINEERING-PROJECTS/README.md)
+
+---
+
 ### [🤖 01-AI-ENGINEERING-PROJECTS](./01-AI-ENGINEERING-PROJECTS/)
 
 **ByteDance-Style RAG Support System** - Production-ready RAG pipeline for multilingual customer support
@@ -19,11 +34,15 @@ Machine Learning Engineer with a completed Master's Degree in Computer Science (
 | Tracking | MLflow experiment tracking |
 | Languages | English, Indonesian, Malay, Chinese, Thai |
 
+📁 [View Project →](./01-AI-ENGINEERING-PROJECTS/byte-dance-rag-support/README.md)
+
 ---
 
 ### [🧠 02-LARGE-LANGUAGE-MODEL-ENGINEERING](./02-LARGE-LANGUAGE-MODEL-ENGINEERING-PROJECTS/)
 
 **LLM & GenAI Workflows** - Prompt engineering, RAG concepts, API integration
+
+📁 [View Project →](./02-LARGE-LANGUAGE-MODEL-ENGINEERING-PROJECTS/)
 
 ---
 
@@ -37,6 +56,8 @@ Machine Learning Engineer with a completed Master's Degree in Computer Science (
 | Churn Prediction | 97.9% accuracy (Random Forest) |
 | COVID Risk API | FastAPI production service |
 
+📁 [View Project →](./03-MACHINE-LEARNING-PIPELINE-PROJECTS/)
+
 ---
 
 ### [🏥 04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS](./04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS/)
@@ -46,6 +67,8 @@ Real-world healthcare dataset analysis to identify temporal infection patterns a
 - Structured feature extraction and statistical trend modeling
 - Supervised learning models for case severity exploration
 - Data cleaning and validation pipelines for noisy public datasets
+
+📁 [View Project →](./04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS/PROJECT%201-7%20COVID19.ipynb)
 
 ---
 
@@ -57,11 +80,15 @@ Power BI dashboards aligned to KPI tracking and stakeholder analysis
 - Calculated measures aligned to business metrics
 - Dynamic self-service filtering and interactive reporting
 
+📁 [View Power BI Files →](./04-UNIVERSITY-POWER-BI-PROJECTS/)
+
 ---
 
 ### [📚 04-UNIVERSITY-FINAL-THESIS-REPORTS](./04-UNIVERSITY-FINAL-THESIS-REPORTS/)
 
 Master's thesis and academic research documentation
+
+📁 [View Thesis →](./04-UNIVERSITY-FINAL-THESIS-REPORTS/)
 
 ---
 
