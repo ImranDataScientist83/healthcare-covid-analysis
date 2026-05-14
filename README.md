@@ -68,7 +68,7 @@ Real-world healthcare dataset analysis to identify temporal infection patterns a
 - Supervised learning models for case severity exploration
 - Data cleaning and validation pipelines for noisy public datasets
 
-📁 [View Project →](./04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS/PROJECT%201-7%20COVID19.ipynb)
+📁 [View Project →](./04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS/README.md)
 
 ---
 
