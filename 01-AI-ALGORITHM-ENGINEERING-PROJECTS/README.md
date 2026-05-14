@@ -155,7 +155,7 @@ The project generates **7 comprehensive visualizations** demonstrating system pe
 | `GRAPH_06_correlation_heatmap.png` | Feature correlation analysis |
 | `GRAPH_07_comprehensive_dashboard.png` | All-key-metrics summary dashboard |
 
-![Dashboard Preview]([images/GRAPH_07_comprehensive_dashboard.png](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ALGORITHM-ENGINEERING-PROJECTS/Images/GRAPH_07_comprehensive_dashboard.png))
+![Dashboard Preview](./Images/GRAPH_07_comprehensive_dashboard.png)
 
 ---
 
