@@ -169,19 +169,32 @@ Master's thesis and academic research documentation
 
 ```bash
 AI-ML-ALGORITHM-ENGINEERING-PORTFOLIO/
-├── 01-AI-ENGINEERING-PROJECTS/ # ByteDance RAG system
-├── 02-LARGE-LANGUAGE-MODEL-ENGINEERING/ # LLM & GenAI workflows
-├── 03-MACHINE-LEARNING-PIPELINE-PROJECTS/ # ML pipelines & APIs
-├── 04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS/ # COVID-19 analysis
-├── 04-UNIVERSITY-FINAL-THESIS-REPORTS/ # Master's thesis
-├── 04-UNIVERSITY-POWER-BI-PROJECTS/ # Power BI dashboards
-├── Chapter 4 Final Thesis/ # Academic chapter
-├── WSQ Deep Learning/ # Deep learning coursework
-├── WSQ Generative AI (SF)/ # GenAI coursework
-├── WSQ Machine Learning Algorithms.../ # ML coursework
-└── app.py # API endpoint
+│
+├── 01-AI-ALGORITHM-ENGINEERING-PROJECTS/      # Recommendation systems, ranking, engagement prediction
+├── 01-AI-ENGINEERING-PROJECTS/                # ByteDance-style RAG systems & AI applications
+│
+├── 02-LARGE-LANGUAGE-MODEL-ENGINEERING-PROJECTS/ # LLM workflows, prompt engineering, RAG concepts
+├── 03-MACHINE-LEARNING-PIPELINE-PROJECTS/     # End-to-end ML pipelines, APIs, deployment workflows
+│
+├── 04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS/ # Healthcare analytics & statistical modeling
+├── 04-UNIVERSITY-POWER-BI-PROJECTS/           # Business intelligence dashboards & KPI reporting
+├── 04-UNIVERSITY-FINAL-THESIS-REPORTS/        # Master's thesis & academic research documentation
+│
+├── Chapter 4 Final Thesis/                    # Thesis writing and documentation assets
+├── WSQ Deep Learning/                         # Deep learning coursework and experiments
+├── WSQ Generative AI (SF)/                    # Generative AI coursework and labs
+├── WSQ Machine Learning Algorithms/           # Machine learning algorithm implementations
+│
+└── app.py                                     # API service entry point
 ```
 
+## 📌 Repository Organization
+
+Projects are grouped by specialization domain:
+
+- **01** → Applied AI Engineering & Algorithm Systems
+- **02–03** → LLM and Machine Learning Engineering
+- **04** → University academic projects and research work
 
 ---
 
