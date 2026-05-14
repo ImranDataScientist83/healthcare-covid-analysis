@@ -1,8 +1,8 @@
-# MAS IMRAN'S – AI/ML/Algorithm Engineering Portfolio
+# MAS IMRAN – AI/ML/Algorithm Engineering Portfolio
 
 **Applied Machine Learning Engineer | Production-Oriented AI Systems**
 
-Machine Learning Engineer with a completed Master's Degree in Computer Science (awaiting graduation ceremony) and industry-aligned specialization in Data Science & AI. Experience building end-to-end machine learning pipelines on real-world datasets, including healthcare COVID-19 case data. Skilled in reproducible experimentation, structured feature engineering, model validation, and production-aware system design. Focused on delivering scalable AI systems aligned to measurable business and operational impact.
+Machine Learning Engineer with a completed Master's Degree in Computer Science and industry-aligned specialization in Data Science & AI. Experience building end-to-end machine learning pipelines on real-world datasets, including healthcare COVID-19 case data. Skilled in reproducible experimentation, structured feature engineering, model validation, and production-aware system design. Focused on delivering scalable AI systems aligned to measurable business and operational impact.
 
 ---
 
@@ -46,7 +46,6 @@ Machine Learning Engineer with a completed Master's Degree in Computer Science (
 
 ---
 
-**LLM & GenAI Workflows** - Prompt engineering, RAG concepts, API integration
 ### [⚙️ 03-MACHINE-LEARNING-PIPELINE-PROJECTS](./03-MACHINE-LEARNNG-PIPELINE-PROJECTS/)
 
 **End-to-End ML Pipelines** - Customer churn prediction & COVID-19 risk API
@@ -199,6 +198,6 @@ healthcare-covid-analysis/
 
 ---
 
-*Open to Applied ML Engineer / AI Engineer / AI Algorithm Engineering roles starting Feb 2026*
+**Open to Applied Machine Learning Engineer, AI Engineer, AI/ML Engineer, and AI Algorithm Engineering opportunities from Feb 2026 onward.**
 
 
