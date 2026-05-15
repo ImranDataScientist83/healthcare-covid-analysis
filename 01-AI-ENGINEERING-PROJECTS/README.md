@@ -23,22 +23,7 @@ This project simulates a **production-aware AI support system** with:
 byte-dance-rag-support/
 │
 ├── 📓 notebooks/
-│ ├── 01_data_prep.ipynb # Create synthetic ByteDance tickets
-│ ├── 02_embedding_retrieval.ipynb # Build embedding-based retrieval
-│ ├── 03_llm_response_gen.ipynb # Generate structured JSON-based LLM responses
-│ ├── 04_evaluation_mlflow.ipynb # Track experiments with MLflow
-│ └── 05_visualizations.ipynb # Generate portfolio dashboards
-│
-├── 🖼️ images/ # 8 visualization outputs (.png)
-├── 📄 reports/ # HTML portfolio report
-├── 💾 data/ # JSON knowledge base & tickets
-└── 📦 requirements.txt # Python dependencies
-
-```text
-byte-dance-rag-support/
-│
-├── 📓 notebooks/
-│   ├── 01_data_prep.ipynb            # Create synthetic support tickets
+│   ├── 01_data_prep.ipynb           # Create synthetic support tickets
 │   ├── 02_embedding_retrieval.ipynb # Embedding-based semantic retrieval
 │   ├── 03_llm_response_gen.ipynb    # Generate structured JSON-based LLM responses
 │   ├── 04_evaluation_mlflow.ipynb   # Track experiments with MLflow
