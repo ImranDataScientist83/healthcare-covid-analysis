@@ -34,6 +34,21 @@ byte-dance-rag-support/
 ├── 💾 data/ # JSON knowledge base & tickets
 └── 📦 requirements.txt # Python dependencies
 
+```text
+byte-dance-rag-support/
+│
+├── 📓 notebooks/
+│   ├── 01_data_prep.ipynb            # Create synthetic support tickets
+│   ├── 02_embedding_retrieval.ipynb # Embedding-based semantic retrieval
+│   ├── 03_llm_response_gen.ipynb    # Generate structured JSON-based LLM responses
+│   ├── 04_evaluation_mlflow.ipynb   # Track experiments with MLflow
+│   └── 05_visualizations.ipynb      # Generate portfolio dashboards
+│
+├── 🖼️ images/                       # Visualization outputs (.png)
+├── 📄 reports/                      # HTML portfolio reports
+├── 💾 data/                         # JSON knowledge base and ticket datasets
+└── 📦 requirements.txt              # Python dependencies
+
 ```
 
 ---
