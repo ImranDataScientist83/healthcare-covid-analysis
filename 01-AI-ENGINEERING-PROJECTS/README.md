@@ -25,7 +25,7 @@ byte-dance-rag-support/
 ├── 📓 notebooks/
 │ ├── 01_data_prep.ipynb # Create synthetic ByteDance tickets
 │ ├── 02_embedding_retrieval.ipynb # Build embedding-based retrieval
-│ ├── 03_llm_response_gen.ipynb # Generate structured LLM responses
+│ ├── 03_llm_response_gen.ipynb # Generate structured JSON-based LLM responses
 │ ├── 04_evaluation_mlflow.ipynb # Track experiments with MLflow
 │ └── 05_visualizations.ipynb # Generate portfolio dashboards
 │
@@ -92,7 +92,7 @@ byte-dance-rag-support/
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/ImranDataScientist83/healthcare-covid-analysis.git
-cd healthcare-covid-analysis/byte-dance-rag-support
+cd healthcare-covid-analysis/01-AI-ENGINEERING-PROJECTS/byte-dance-rag-support
 ```
 
 ### 2. Install dependencies
