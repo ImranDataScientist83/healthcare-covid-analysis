@@ -178,27 +178,27 @@ The project generates **7 comprehensive visualizations** demonstrating system pe
 │
 ├── 📄 README.md
 │
-├── 📓 notebooks/
+├── 📓 Notebooks/
 │   ├── AI ALGORITHM ENGINEERING PROJECTS NOTEBOOK 1 RECOMMENDATION SYSTEM.ipynb
 │   ├── AI ALGORITHM ENGINEERING PROJECTS NOTEBOOK 2 LEARNING TO RANK (LTR).ipynb
 │   ├── AI ALGORITHM ENGINEERING PROJECTS NOTEBOOK 3 ENGAGEMENT PREDICTION.ipynb
 │   ├── AI ALGORITHM ENGINEERING PROJECTS NOTEBOOK 4 A B TESTING FRAMEWOK.ipynb
 │   └── AI ALGORITHM ENGINEERING PROJECTS NOTEBOOK 5 COMPREHENSIVE VISUALIZATION DASHBOARD.ipynb
 │
-├── 📊 data/
+├── 📊 Data/
 │   ├── interactions_data.csv
 │   ├── experiment_data.csv
 │   ├── ab_test_results.csv
 │   ├── user_factors.npy
 │   └── video_factors.npy
 │
-├── 🤖 models/
+├── 🤖 Models/
 │   ├── ranking_model.pkl
 │   ├── engagement_classifier.pkl
 │   ├── engagement_regressor.pkl
 │   └── watch_time_model.pkl
 │
-├── 🖼️ images/
+├── 🖼️ Images/
 │   ├── GRAPH_01_user_engagement.png
 │   ├── GRAPH_02_category_performance.png
 │   ├── GRAPH_03_embedding_visualization.png
