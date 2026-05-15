@@ -1,6 +1,6 @@
-# 🤖 ByteDance RAG Support System
+# 🤖 ByteDance-Style Multilingual RAG Support System
 
-Production-ready Retrieval-Augmented Generation (RAG) pipeline for multilingual customer support, designed for high-scale social platforms like ByteDance (TikTok, CapCut, Lark).
+Production-oriented Retrieval-Augmented Generation (RAG) pipeline for multilingual customer support systems inspired by large-scale social media platforms such as TikTok, CapCut, and Lark.
 
 ---
 
@@ -51,6 +51,20 @@ byte-dance-rag-support/
 
 ---
 
+## 🧠 Core AI Engineering Concepts Demonstrated
+
+- Embedding-based semantic retrieval
+- Vector similarity search
+- Retrieval-Augmented Generation (RAG)
+- Structured LLM response pipelines
+- Prompt engineering workflows
+- Confidence-based escalation logic
+- MLflow experiment tracking
+- Multilingual NLP processing
+- Production-aware latency monitoring
+
+---
+
 ## 📊 Key Results
 
 | Metric | Value | Target | Status |
@@ -59,6 +73,17 @@ byte-dance-rag-support/
 | Avg LLM Confidence | 78.5% | >70% | ✅ |
 | Escalation Rate | 21.5% | <30% | ✅ |
 | Recall@3 | 65.2% | >60% | ✅ |
+
+---
+
+## 📏 Evaluation Methodology
+
+| Component | Evaluation Metric |
+|-----------|------------------|
+| Retrieval | Recall@K, cosine similarity |
+| LLM Output | Confidence scoring, escalation rate |
+| Pipeline | Average latency and throughput |
+| System Quality | Manual validation + rule-based checks |
 
 ---
 
