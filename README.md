@@ -8,6 +8,23 @@ Machine Learning Engineer with a completed Master's Degree in Computer Science a
 
 ## 🚀 Featured Projects
 
+### [🤖 01-AI-ML-ENGINEERING-PROJECTS](./01-AI-ML-ENGINEERING-PROJECTS/)
+
+**AI/ML Engineering Mastery Suite** - Complete ML lifecycle with 10 professional notebooks
+
+| Category | Highlights |
+|----------|------------|
+| **EDA & Feature Engineering** | 25+ visualizations, PCA, encoding |
+| **Model Training & Tuning** | 8+ algorithms, Optuna, Grid/Random Search |
+| **Interpretability** | SHAP, LIME, business insights dashboard |
+| **Production** | FastAPI, Docker, cloud-ready |
+| **Advanced Analytics** | Time series, anomaly detection |
+| **Automation** | ML pipelines, MLflow tracking |
+
+📁 [View Project →](./01-AI-ML-ENGINEERING-PROJECTS/README.md)
+
+---
+
 ### [🎯 01-AI-ALGORITHM-ENGINEERING-PROJECTS](./01-AI-ALGORITHM-ENGINEERING-PROJECTS/)
 
 **Applied AI Algorithm Engineering** - Recommendation systems, ranking algorithms, engagement prediction, A/B testing
