@@ -266,11 +266,8 @@ All visualizations are **automatically generated** when you run the notebooks:
 
 ```bash
 # Run Notebook 10 to generate the complete dashboard
-jupyter notebook "AI-ML ENGINEERING PROJECTS NOTEBOOK 10 COMPREHENSIVE VISUALIZATIONS DASHBOARD.ipynb"
+jupyter notebook "01-AI-ML-ENGINEERING-PROJECTS/Notebooks/AI-ML ENGINEERING PROJECTS NOTEBOOK 10 COMPREHENSIVE VISUALIZATIONS DASHBOARD.ipynb"
 ```
-
----
-
 ---
 
 ## 🛠️ Technology Stack
