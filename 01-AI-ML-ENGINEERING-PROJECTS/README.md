@@ -284,4 +284,159 @@ Master of Computer Science (Completed Feb 2026)
 
 ---
 
+## 📈 Comprehensive Visualization Dashboard
 
+### Executive Summary Dashboard
+
+![Master Executive Dashboard](./Images/master_executive_dashboard.png)
+
+*Figure 1: Master Executive Dashboard - Consolidated view of all key metrics from 10 notebooks*
+
+---
+
+### Notebook-by-Notebook Visual Gallery
+
+#### 📓 Notebook 01: Exploratory Data Analysis (EDA)
+
+| Visualization | Description |
+|:-------------|:------------|
+| ![EDA Dashboard](./Images/dashboard_notebook1_eda.png) | **Distribution Analysis**: Age distribution, spend patterns, correlation heatmaps, outlier detection |
+
+#### 📓 Notebook 02: Feature Engineering Lab
+
+| Visualization | Description |
+|:-------------|:------------|
+| ![Feature Engineering](./Images/dashboard_notebook2_feature_eng.png) | **Feature Engineering**: PCA explained variance, encoding methods comparison, feature importance after selection |
+
+#### 📓 Notebook 03 & 04: Model Training & Hyperparameter Tuning
+
+| Visualization | Description |
+|:-------------|:------------|
+| ![Model Performance](./Images/dashboard_notebook3_4_models_tuning.png) | **Model Benchmarking**: F1-score comparison across 8+ algorithms, ROC curves, Optuna optimization history |
+
+#### 📓 Notebook 05: Model Interpretability (SHAP & LIME)
+
+| Visualization | Description |
+|:-------------|:------------|
+| ![Interpretability](./Images/dashboard_notebook5_interpretability.png) | **SHAP Analysis**: Beeswarm plot, feature importance, confusion matrix, confidence distribution |
+
+#### 📓 Notebook 07 & 08: Time Series & Anomaly Detection
+
+| Visualization | Description |
+|:-------------|:------------|
+| ![Time Series & Anomaly](./Images/dashboard_notebook7_8_ts_anomaly.png) | **Advanced Analytics**: Time series decomposition, 90-day forecast, anomaly detection results, outlier scores |
+
+#### 📓 Notebook 09: ML Pipeline Automation
+
+| Visualization | Description |
+|:-------------|:------------|
+| ![Pipeline Automation](./Images/dashboard_notebook9_pipeline.png) | **MLOps**: Cross-validation results, pipeline performance comparison, feature importance, MLflow summary |
+
+---
+
+### 📊 Graph Types Across All Notebooks
+
+| Graph Type | Count | Notebooks |
+|:-----------|:-----:|:----------|
+| 📊 **Distribution Plots** | 12+ | 01, 02, 07, 08 |
+| 🔥 **Correlation Heatmaps** | 5+ | 01, 02, 05 |
+| 📈 **Time Series Plots** | 8+ | 07 |
+| 🎯 **ROC Curves** | 4+ | 03, 04 |
+| 📉 **Confusion Matrices** | 3+ | 03, 05 |
+| 🏆 **Model Comparison Charts** | 6+ | 03, 04, 09 |
+| 🔍 **SHAP Visualizations** | 10+ | 05 |
+| ⚠️ **Anomaly Detection Plots** | 6+ | 08 |
+| 🧠 **PCA & Embedding Plots** | 4+ | 02 |
+| 📊 **Bar Charts & Histograms** | 20+ | All |
+| 🥧 **Pie Charts** | 3+ | 01, 02 |
+| 📦 **Box Plots** | 6+ | 01, 08 |
+| 🌊 **Beeswarm Plots** | 2+ | 05 |
+| 💧 **Waterfall Plots** | 4+ | 05 |
+
+---
+
+### 📸 Sample Visual Outputs
+
+#### SHAP Beeswarm Plot - Feature Impact Analysis
+
+![SHAP Beeswarm](./Images/shap_beeswarm_plot.png)
+
+*Figure 2: SHAP beeswarm plot showing feature impact on churn prediction*
+
+#### Time Series Decomposition
+
+![Time Series Decomposition](./Images/time_series_decomposition.png)
+
+*Figure 3: Time series decomposition showing trend, seasonality, and residual components*
+
+#### Business Insights Dashboard
+
+![Business Insights](./Images/business_insights_dashboard.png)
+
+*Figure 4: Executive business insights dashboard with actionable recommendations*
+
+---
+
+### 🎯 Visualization Technologies Used
+
+| Tool | Purpose | Examples |
+|:-----|:--------|:----------|
+| **Matplotlib** | Static plots | Distribution plots, line charts, bar charts |
+| **Seaborn** | Statistical visualizations | Heatmaps, pair plots, box plots |
+| **Plotly** | Interactive dashboards | 3D scatter plots, interactive time series |
+| **SHAP** | Model explainability | Beeswarm plots, waterfall plots, summary plots |
+| **Yellowbrick** | ML visualization | ROC curves, confusion matrices, feature importances |
+
+---
+
+### 📁 Complete Image Gallery
+
+| File | Description | Notebook |
+|:-----|:------------|:---------|
+| `master_executive_dashboard.png` | Executive summary dashboard | 10 |
+| `dashboard_notebook1_eda.png` | EDA visualizations | 01 |
+| `dashboard_notebook2_feature_eng.png` | Feature engineering plots | 02 |
+| `dashboard_notebook3_4_models_tuning.png` | Model performance charts | 03, 04 |
+| `dashboard_notebook5_interpretability.png` | SHAP/LIME analysis | 05 |
+| `dashboard_notebook7_8_ts_anomaly.png` | Time series & anomaly | 07, 08 |
+| `dashboard_notebook9_pipeline.png` | Pipeline automation | 09 |
+| `shap_beeswarm_plot.png` | SHAP feature impact | 05 |
+| `shap_global_importance.png` | Global feature importance | 05 |
+| `business_insights_dashboard.png` | Business recommendations | 05 |
+| `time_series_decomposition.png` | Trend + seasonality | 07 |
+| `anomaly_detection_results.png` | Outlier detection | 08 |
+| `pipeline_comparison.png` | Pipeline performance | 09 |
+| `model_comparison.png` | Algorithm benchmark | 03 |
+| `optuna_optimization_history.png` | Tuning progress | 04 |
+
+---
+
+### 🖼️ Dashboard Preview
+
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                    MASTER EXECUTIVE DASHBOARD                               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  ┌──────────────┐ ┌──────────────┐ ┌──────────────┐ ┌──────────────┐      │
+│  │ Notebooks    │ │ Visualizations│ │ Models      │ │ Best F1     │      │
+│  │    10        │ │     45+      │ │    8+       │ │   0.92      │      │
+│  └──────────────┘ └──────────────┘ └──────────────┘ └──────────────┘      │
+│                                                                             │
+│  ┌─────────────────────────────────────────────────────────────────────┐   │
+│  │                    Model Performance Comparison                      │   │
+│  │  ████████████████████████████████████████████████████████████████   │   │
+│  │  XGBoost    ████████████████████████████████████████████ 0.92       │   │
+│  │  LightGBM   ███████████████████████████████████████████  0.90       │   │
+│  │  RandomForest ████████████████████████████████████████  0.89        │   │
+│  └─────────────────────────────────────────────────────────────────────┘   │
+│                                                                             │
+│  ┌─────────────────────────────┐ ┌─────────────────────────────────────┐   │
+│  │    Feature Importance       │ │        ROC Curves                    │   │
+│  │    ███ Tenure               │ │    ┌─────────────────────────────┐  │   │
+│  │    ██ Satisfaction          │ │    │        ╱───────              │  │   │
+│  │    ██ Support Tickets       │ │    │     ╱                        │  │   │
+│  │    █ Total Spend            │ │    │  ╱                           │  │   │
+│  └─────────────────────────────┘ └─────────────────────────────────────┘   │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
