@@ -124,16 +124,52 @@ This repository demonstrates **production-grade ML engineering capabilities** ac
 
 ## 📊 Visualization Gallery
 
-| Dashboard | Description |
-|-----------|-------------|
-| `dashboard_notebook1_eda.png` | EDA distributions and correlation analysis |
-| `dashboard_notebook2_feature_eng.png` | Feature engineering, PCA, and encoding workflows |
-| `dashboard_notebook3_4_models_tuning.png` | Model benchmarking and hyperparameter tuning |
-| `dashboard_notebook5_interpretability.png` | SHAP and LIME explainability analysis |
-| `dashboard_notebook7_8_ts_anomaly.png` | Time series forecasting and anomaly detection |
-| `dashboard_notebook9_pipeline.png` | ML pipeline automation and tracking |
-| `master_executive_dashboard.png` | Executive-level consolidated dashboard |
+### 📈 EDA Dashboard
+[![EDA Dashboard](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/dashboard_notebook1_eda.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/dashboard_notebook1_eda.png)
 
+> Distribution analysis, correlation heatmaps, feature relationships, and exploratory visualizations.
+
+---
+
+### ⚙️ Feature Engineering Dashboard
+[![Feature Engineering Dashboard](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/dashboard_notebook2_feature_eng.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/dashboard_notebook2_feature_eng.png)
+
+> PCA analysis, feature transformations, encoding comparisons, and engineered feature evaluation.
+
+---
+
+### 🧠 Model Training & Hyperparameter Tuning
+[![Model Training & Tuning](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/dashboard_notebook3_4_models_tuning.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/dashboard_notebook3_4_models_tuning.png)
+
+> Model benchmarking, ROC analysis, Optuna optimization history, and hyperparameter comparisons.
+
+---
+
+### 🔍 Model Interpretability Dashboard
+[![Interpretability Dashboard](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/dashboard_notebook5_interpretability.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/dashboard_notebook5_interpretability.png)
+
+> SHAP explainability, LIME analysis, feature importance rankings, and business insight visualization.
+
+---
+
+### 📈 Time Series & Anomaly Detection
+[![Time Series & Anomaly Detection](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/dashboard_notebook7_8_ts_anomaly.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/dashboard_notebook7_8_ts_anomaly.png)
+
+> Forecasting models, anomaly detection comparison, seasonality decomposition, and outlier visualization.
+
+---
+
+### 🤖 ML Pipeline Automation Dashboard
+[![Pipeline Automation Dashboard](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/dashboard_notebook9_pipeline.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/dashboard_notebook9_pipeline.png)
+
+> MLflow tracking, pipeline orchestration, cross-validation analysis, and automated workflow monitoring.
+
+---
+
+### 🏆 Master Executive Dashboard
+[![Master Executive Dashboard](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/master_executive_dashboard.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/master_executive_dashboard.png)
+
+> Consolidated executive-level summary dashboard integrating outputs across all ML engineering notebooks.
 ---
 
 ## 📈 Comprehensive Visualization Dashboard
