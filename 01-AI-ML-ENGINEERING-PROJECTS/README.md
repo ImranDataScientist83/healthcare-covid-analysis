@@ -40,11 +40,11 @@ This repository demonstrates **production-grade ML engineering capabilities** ac
 
 ## 📊 Dashboard Previews
 
-### 🏆 Master Executive Dashboard
+### 🏆 Executive Summary Dashboard
 
-[![Master Executive Dashboard](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/master_executive_dashboard.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/master_executive_dashboard.png)
+[![Executive Summary Dashboard](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/executive_summary_dashboard.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/executive_summary_dashboard.png)
 
-> Consolidated KPI dashboard summarizing model performance, evaluation metrics, forecasting outputs, anomaly detection, and deployment insights across all 10 notebooks.
+> High-level operational dashboard presenting customer analytics, churn behavior, satisfaction trends, regional support activity, tenure analysis, and business performance indicators generated from the ML workflow.
 
 ---
 
@@ -169,73 +169,7 @@ This repository demonstrates **production-grade ML engineering capabilities** ac
 ### 🏆 Master Executive Dashboard
 [![Master Executive Dashboard](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/master_executive_dashboard.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/master_executive_dashboard.png)
 
-> Consolidated executive-level summary dashboard integrating outputs across all ML engineering notebooks.
----
-
-## 📈 Comprehensive Visualization Dashboard
-
-### Master Executive Dashboard
-
-> *This dashboard will be generated after running Notebook 10*
-
-The comprehensive dashboard consolidates key metrics from all 10 notebooks:
-
----
-
-### Notebook-by-Notebook Visual Summary
-
-#### 📓 Notebook 01: EDA
-- Distribution plots, correlation heatmaps, box plots
-- Interactive Plotly dashboards
-- Missing values analysis
-
-#### 📓 Notebook 02: Feature Engineering
-- PCA explained variance plots
-- Encoding method comparisons
-- Feature transformation visuals
-- Correlation matrices
-
-#### 📓 Notebooks 03 & 04: Model Training & Tuning
-- Model comparison bar charts
-- ROC curves for all models
-- Optuna optimization history
-- Hyperparameter importance plots
-- Confusion matrices
-
-#### 📓 Notebook 05: Interpretability
-- SHAP beeswarm plots
-- SHAP waterfall plots (individual predictions)
-- LIME explanations
-- Feature importance ranking
-- Business insights dashboard
-
-#### 📓 Notebook 06: Deployment
-- API endpoint documentation
-- Batch prediction results
-- Docker container logs
-
-#### 📓 Notebook 07: Time Series
-- Time series decomposition (trend, seasonal, residual)
-- ACF/PACF plots
-- Prophet forecast with confidence intervals
-- Model comparison (ARIMA vs Prophet vs Holt-Winters)
-
-#### 📓 Notebook 08: Anomaly Detection
-- Isolation Forest results
-- One-Class SVM boundary visualization
-- LOF score distributions
-- Anomaly detection comparison
-
-#### 📓 Notebook 09: Pipeline Automation
-- Cross-validation fold results
-- Pipeline performance comparison
-- Feature importance from best pipeline
-- MLflow tracking UI summary
-
-#### 📓 Notebook 10: Comprehensive Dashboard (This Notebook)
-- Consolidated views from all previous notebooks
-- Master executive summary
-- KPI dashboard with all key metrics
+> Technical performance dashboard consolidating machine learning engineering metrics including model evaluation, deployment readiness, interpretability coverage, forecasting outputs, anomaly detection pipelines, and MLOps tracking across the project suite.
 
 ---
 
@@ -285,27 +219,6 @@ jupyter notebook "01-AI-ML-ENGINEERING-PROJECTS/Notebooks/AI-ML ENGINEERING PROJ
 | ⚠️ **Anomaly Detection** | PyOD, Isolation Forest, One-Class SVM |
 
 ---
-
-## 🚀 Quick Start
-
-### Clone Repository
-
-```bash
-git clone https://github.com/ImranDataScientist83/healthcare-covid-analysis.git
-cd healthcare-covid-analysis/01-AI-ML-ENGINEERING-PROJECTS
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Launch Notebook
-
-```bash
-jupyter notebook
-```
 
 ### Run API Service
 
