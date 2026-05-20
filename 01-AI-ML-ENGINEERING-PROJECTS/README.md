@@ -159,6 +159,8 @@ End-to-end AI/ML engineering architecture demonstrating the complete production 
 
 ## 📁 Project Structure
 
+> All implementation notebooks are available inside the `Notebooks/` directory.
+
 ```text
 01-AI-ML-ENGINEERING-PROJECTS/
 │
