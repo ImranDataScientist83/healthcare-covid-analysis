@@ -19,7 +19,7 @@
 
 > *"Complete ML lifecycle implementation - from data exploration to production deployment"*
 
-This repository demonstrates production-grade ML engineering capabilities across the complete machine learning lifecycle, aligned with workflows commonly used in modern large-scale AI and data platforms.
+This repository demonstrates production-grade ML engineering and MLOps capabilities across the complete machine learning lifecycle, aligned with workflows commonly used in modern large-scale AI and data platforms.
 
 ---
 
