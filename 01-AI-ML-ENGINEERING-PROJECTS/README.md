@@ -1,6 +1,6 @@
 # 🤖 AI/ML Engineering Mastery Suite
 
-**End-to-End Machine Learning Engineering | Production-Grade Pipelines | Advanced Analytics | 10 Comprehensive Notebooks**
+**End-to-End Machine Learning Engineering | MLOps | Production-Grade Pipelines | Advanced Analytics | 10 Comprehensive Notebooks**
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)](https://jupyter.org/)
@@ -22,6 +22,8 @@
 This repository demonstrates production-grade ML engineering capabilities across the complete machine learning lifecycle, aligned with workflows commonly used in modern large-scale AI and data platforms.
 
 ---
+
+The following architecture illustrates the end-to-end AI/ML engineering workflow implemented across the 10 notebooks.
 
 ## 🏗️ End-to-End ML Engineering Workflow Architecture
 
@@ -60,14 +62,14 @@ This repository demonstrates production-grade ML engineering capabilities across
 └──────────┬───────────┘
            │
            ▼
-┌──────────────────────┐
-│ Notebook 04 -        │
-│ Hyperparameter       │
-│ Optimization         │
-│ Grid Search          │
-│ Random Search        │
-│ Optuna Bayesian Tuning
-└──────────┬───────────┘
+┌───────────────────────┐
+│ Notebook 04 -         │
+│ Hyperparameter        │
+│ Optimization          │
+│ Grid Search           │
+│ Random Search         │
+│ Optuna Bayesian Tuning│
+└──────────┬────────────┘
            │
            ▼
 ┌──────────────────────┐
@@ -90,17 +92,17 @@ This repository demonstrates production-grade ML engineering capabilities across
            │                         │
            └────────────┬────────────┘
                         ▼
-┌────────────────────────────────────┐
-│ Notebook 09 - ML Pipeline Automation
-│ Scikit-learn Pipelines             │
-│ Cross Validation                   │
-│ MLflow Tracking                    │
-│ Automated Workflows                │
-└────────────────┬───────────────────┘
+┌─────────────────────────────────────┐
+│ Notebook 09 - ML Pipeline Automation│
+│ Scikit-learn Pipelines              │
+│ Cross Validation                    │
+│ MLflow Tracking                     │
+│ Automated Workflows                 │
+└────────────────┬────────────────────┘
                  │
                  ▼
 ┌────────────────────────────────────┐
-│ Notebook 06 - Production Deployment
+│ Notebook 06 - Production Deployment│
 │ FastAPI REST API                   │
 │ Docker Containerization            │
 │ Batch Prediction Service           │
@@ -116,7 +118,7 @@ This repository demonstrates production-grade ML engineering capabilities across
 │ Consolidated Visualization Layer   │
 └────────────────────────────────────┘
 ```
-End-to-end AI/ML engineering architecture demonstrating the complete production workflow from raw data ingestion and exploratory analysis to feature engineering, model optimization, explainability, deployment, pipeline automation, and executive-level monitoring dashboards.
+End-to-end AI/ML engineering architecture demonstrating the complete production workflow from raw data ingestion and exploratory analysis to feature engineering, model optimization, explainability, deployment, MLOps automation, and executive-level monitoring dashboards.
 
 ---
 
@@ -205,6 +207,8 @@ End-to-end AI/ML engineering architecture demonstrating the complete production 
 ---
 
 ## 🏆 Key Achievements
+
+The project suite emphasizes scalable ML engineering workflows, reproducibility, explainability, deployment readiness, and business-oriented analytics.
 
 | Metric | Value |
 |--------|-------|
