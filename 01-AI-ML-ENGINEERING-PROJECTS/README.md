@@ -19,7 +19,7 @@
 
 > *"Complete ML lifecycle implementation - from data exploration to production deployment"*
 
-This repository demonstrates **production-grade ML engineering capabilities** across the complete machine learning lifecycle. Each notebook showcases specific skills required for modern AI engineering roles at companies like **ByteDance, TikTok, and Meta**.
+This repository demonstrates **production-grade ML engineering capabilities** across the complete machine learning lifecycle. Each notebook showcases specific skills required for modern AI engineering roles at companies such as **ByteDance (TikTok), Meta, and other large-scale AI platforms**.
 
 ### 🎯 Key Competencies Demonstrated
 
@@ -38,57 +38,21 @@ This repository demonstrates **production-grade ML engineering capabilities** ac
 
 ---
 
-## 🚀 Notebook Breakdown
+## 📊 Dashboard Previews
 
-### 📓 Notebook 01: Exploratory Data Analysis (EDA)
-> *"10+ Professional Visualizations"*
+### 🏆 Master Executive Dashboard
 
-Distribution plots, correlation heatmaps, box plots, pair plots, interactive dashboards
+[![Master Executive Dashboard](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/master_executive_dashboard.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/master_executive_dashboard.png)
 
-### 📓 Notebook 02: Feature Engineering Lab
-> *"14 New Features"*
+> Consolidated KPI dashboard summarizing model performance, evaluation metrics, forecasting outputs, anomaly detection, and deployment insights across all 10 notebooks.
 
-Domain-specific features, encoding (One-Hot, Target, Frequency), scaling, PCA, feature selection
+---
 
-### 📓 Notebook 03: Model Training Benchmark
-> *"8+ Algorithms Benchmark"*
+### 📈 Business Insights Dashboard
 
-Logistic Regression, Random Forest, XGBoost, LightGBM, SVM, KNN, Gradient Boosting, Naive Bayes
+[![Business Insights Dashboard](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/business_insights_dashboard.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/business_insights_dashboard.png)
 
-### 📓 Notebook 04: Hyperparameter Tuning
-> *"3 Tuning Methods"*
-
-Grid Search, Random Search, Bayesian Optimization with Optuna
-
-### 📓 Notebook 05: Model Interpretability
-> *"SHAP + LIME"*
-
-Global feature importance, beeswarm plots, waterfall plots, local explanations, business insights dashboard
-
-### 📓 Notebook 06: Production Deployment
-> *"FastAPI + Docker"*
-
-REST API with 5 endpoints, batch predictions, Docker containerization, cloud deployment ready
-
-### 📓 Notebook 07: Time Series Forecasting
-> *"3 Forecasting Models"*
-
-Prophet, ARIMA, Exponential Smoothing with trend/seasonality decomposition
-
-### 📓 Notebook 08: Anomaly Detection
-> *"3 Detection Methods"*
-
-Isolation Forest, One-Class SVM, Local Outlier Factor (LOF)
-
-### 📓 Notebook 09: ML Pipeline Automation
-> *"Production Pipelines"*
-
-Scikit-learn pipelines, cross-validation, MLflow tracking, hyperparameter tuning
-
-### 📓 Notebook 10: Comprehensive Dashboard
-> *"25+ Visualizations"*
-
-Consolidated graphs from all notebooks, master executive dashboard
+> Executive-level analytics dashboard highlighting feature importance, business impact analysis, interpretability insights, and operational metrics generated from the ML pipeline.
 
 ---
 
@@ -265,7 +229,7 @@ The comprehensive dashboard consolidates key metrics from all 10 notebooks:
 All visualizations are **automatically generated** when you run the notebooks:
 
 ```bash
-# Run Notebook 10 to generate the complete dashboard
+# Run Notebook 10 ( for example) to generate the complete dashboard
 jupyter notebook "01-AI-ML-ENGINEERING-PROJECTS/Notebooks/AI-ML ENGINEERING PROJECTS NOTEBOOK 10 COMPREHENSIVE VISUALIZATIONS DASHBOARD.ipynb"
 ```
 ---
@@ -273,59 +237,52 @@ jupyter notebook "01-AI-ML-ENGINEERING-PROJECTS/Notebooks/AI-ML ENGINEERING PROJ
 ## 🛠️ Technology Stack
 
 | Category | Technologies |
-|----------|--------------|
-| Data Processing | Pandas, NumPy, Polars |
-| Visualization | Matplotlib, Seaborn, Plotly |
-| Machine Learning | Scikit-learn, XGBoost, LightGBM |
-| Time Series | Prophet, Statsmodels |
-| Hyperparameter Tuning | Optuna, GridSearchCV, RandomizedSearchCV |
-| Explainability | SHAP, LIME |
-| MLOps | MLflow, Joblib |
-| Deployment | FastAPI, Uvicorn, Docker |
-| Anomaly Detection | PyOD, Isolation Forest, One-Class SVM |
+|:---------|:-------------|
+| 📊 **Data Processing** | Pandas, NumPy, Polars |
+| 📈 **Visualization** | Matplotlib, Seaborn, Plotly |
+| 🧠 **Machine Learning** | Scikit-learn, XGBoost, LightGBM |
+| ⏰ **Time Series** | Prophet, Statsmodels |
+| 🎯 **Hyperparameter Tuning** | Optuna, GridSearchCV, RandomizedSearchCV |
+| 🔍 **Explainability** | SHAP, LIME |
+| 🤖 **MLOps** | MLflow, Joblib |
+| 🚀 **Deployment** | FastAPI, Uvicorn, Docker |
+| ⚠️ **Anomaly Detection** | PyOD, Isolation Forest, One-Class SVM |
 
 ---
 
 ## 🚀 Quick Start
 
-### INSTALLATIONS
+### Clone Repository
 
-### Clone repository
 ```bash
 git clone https://github.com/ImranDataScientist83/healthcare-covid-analysis.git
-```
-
-### Navigate into project folder
 cd healthcare-covid-analysis/01-AI-ML-ENGINEERING-PROJECTS
+```
 
-### Install dependencies
-pip install -r requirements.txt
-```
-```
-### Run Notebooks
+### Install Dependencies
 
 ```bash
-Jupyter Notebook- AI-ML ENGINEERING PROJECTS NOTEBOOK 1 EXPLORATORY DATA  ANALYSIS.ipynb
+pip install -r requirements.txt
 ```
----
 
-### Start API Server
+### Launch Notebook
+
+```bash
+jupyter notebook
+```
+
+### Run API Service
 
 ```bash
 uvicorn app:app --reload --port 8000
 ```
----
 
 ### Docker Deployment
 
 ```bash
-# Build Docker image
 docker build -t churn-prediction-api .
-
-# Run Docker container
 docker run -p 8000:8000 churn-prediction-api
 ```
-
 ---
 
 ## 📈 Performance Highlights
