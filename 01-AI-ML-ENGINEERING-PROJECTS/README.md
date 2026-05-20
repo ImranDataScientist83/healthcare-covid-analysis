@@ -52,7 +52,7 @@ This repository demonstrates **production-grade ML engineering capabilities** ac
 
 [![Business Insights Dashboard](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/business_insights_dashboard.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/business_insights_dashboard.png)
 
-> Executive-level analytics dashboard highlighting feature importance, business impact analysis, interpretability insights, and operational metrics generated from the ML pipeline.
+> Executive-level analytics dashboard highlighting feature importance, business impact analysis, interpretability insights, and operational metrics generated throughout the ML engineering pipeline.
 
 ---
 
@@ -122,7 +122,7 @@ This repository demonstrates **production-grade ML engineering capabilities** ac
 
 ---
 
-## 📊 Visualization Gallery
+## 📊 Technical Dashboard Gallery
 
 ### 📈 EDA Dashboard
 [![EDA Dashboard](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/dashboard_notebook1_eda.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/dashboard_notebook1_eda.png)
@@ -169,7 +169,7 @@ This repository demonstrates **production-grade ML engineering capabilities** ac
 ### 🏆 Master Executive Dashboard
 [![Master Executive Dashboard](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/master_executive_dashboard.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/master_executive_dashboard.png)
 
-> Technical performance dashboard consolidating machine learning engineering metrics including model evaluation, deployment readiness, interpretability coverage, forecasting outputs, anomaly detection pipelines, and MLOps tracking across the project suite.
+> Technical performance dashboard consolidating outputs from Notebooks 1–9, while Notebook 10 serves as the integrated executive visualization layer for the complete AI/ML engineering workflow.
 
 ---
 
