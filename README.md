@@ -187,22 +187,56 @@ Master's thesis and academic research documentation
 ```bash
 AI-ML-ALGORITHM-ENGINEERING-PORTFOLIO/
 │
-├── 01-AI-ALGORITHM-ENGINEERING-PROJECTS/      # Recommendation systems, ranking, engagement prediction
-├── 01-AI-ENGINEERING-PROJECTS/                # ByteDance-style RAG systems & AI applications
+├── 01-AI-ALGORITHM-ENGINEERING-PROJECTS/      
+│   # Recommendation systems, ranking algorithms,
+│   # engagement prediction, and optimization workflows
 │
-├── 02-LARGE-LANGUAGE-MODEL-ENGINEERING-PROJECTS/ # LLM workflows, prompt engineering, RAG concepts
-├── 03-MACHINE-LEARNING-PIPELINE-PROJECTS/     # End-to-end ML pipelines, APIs, deployment workflows
+├── 01-AI-ENGINEERING-PROJECTS/                
+│   # ByteDance-style RAG systems, AI applications,
+│   # retrieval pipelines, and intelligent assistants
 │
-├── 04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS/ # Healthcare analytics & statistical modeling
-├── 04-UNIVERSITY-POWER-BI-PROJECTS/           # Business intelligence dashboards & KPI reporting
-├── 04-UNIVERSITY-FINAL-THESIS-REPORTS/        # Master's thesis & academic research documentation
+├── 01-AI-ML-ENGINEERING-PROJECTS/
+│   # End-to-end ML engineering, MLOps,
+│   # production pipelines, dashboards, and deployment
 │
-├── Chapter 4 Final Thesis/                    # Thesis writing and documentation assets
-├── WSQ Deep Learning/                         # Deep learning coursework and experiments
-├── WSQ Generative AI (SF)/                    # Generative AI coursework and labs
-├── WSQ Machine Learning Algorithms/           # Machine learning algorithm implementations
+├── 02-LARGE-LANGUAGE-MODEL-ENGINEERING-PROJECTS/ 
+│   # LLM workflows, prompt engineering,
+│   # RAG architectures, and generative AI systems
 │
-└── app.py                                     # API service entry point
+├── 03-MACHINE-LEARNING-PIPELINE-PROJECTS/     
+│   # Automated ML pipelines, APIs,
+│   # orchestration, monitoring, and deployment workflows
+│
+├── 04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS/ 
+│   # Healthcare analytics, statistical modeling,
+│   # predictive analysis, and visualization
+│
+├── 04-UNIVERSITY-POWER-BI-PROJECTS/           
+│   # Business intelligence dashboards,
+│   # KPI reporting, and executive analytics
+│
+├── 04-UNIVERSITY-FINAL-THESIS-REPORTS/        
+│   # Master's thesis, research documentation,
+│   # academic reports, and publications
+│
+├── Chapter 4 Final Thesis/                    
+│   # Thesis chapters, diagrams,
+│   # references, and supporting documentation
+│
+├── WSQ Deep Learning/                         
+│   # Deep learning coursework,
+│   # neural networks, and experimentation
+│
+├── WSQ Generative AI (SF)/                    
+│   # Generative AI labs,
+│   # foundation models, and practical exercises
+│
+├── WSQ Machine Learning Algorithms/           
+│   # Classical machine learning algorithms,
+│   # supervised and unsupervised implementations
+│
+└── app.py                                     
+    # API service entry point
 ```
 
 ## 📌 Repository Organization
