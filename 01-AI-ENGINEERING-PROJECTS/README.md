@@ -1,6 +1,6 @@
 # 🤖 ByteDance-Style Multilingual RAG Support System
 
-**Production-Oriented Retrieval-Augmented Generation (RAG) Pipeline | Multilingual AI Support | LLM Engineering | MLflow Tracking | AI Analytics**
+**Production-Oriented Retrieval-Augmented Generation (RAG) System | Multilingual AI Support | LLM & Prompt Engineering | MLflow MLOps Tracking | AI Observability & Analytics**
 
 Production-aware Retrieval-Augmented Generation (RAG) support platform inspired by large-scale AI ecosystems such as TikTok, CapCut, and Lark. This project demonstrates multilingual semantic retrieval, structured LLM workflows, experiment tracking, production-style monitoring, and AI-powered support automation.
 
@@ -22,6 +22,18 @@ The system simulates how enterprise-scale AI support platforms process multiling
 | 📝 **Structured LLM responses** | JSON outputs with confidence scoring |
 | 📊 **MLflow experiment tracking** | Full reproducibility across configurations |
 | ⚡ **Production simulation** | Latency benchmarks and error handling |
+
+---
+
+## 🧠 Skills / Concepts Table
+
+| Capability            | Implementation Example                              | Recruiter Signal                  |
+|-----------------------|-----------------------------------------------------|-----------------------------------|
+| 🌐 Multilingual NLP   | Cross-language query handling, multilingual embeddings | Global AI Support                 |
+| 🔍 Semantic Retrieval | Embedding-based semantic search, vector similarity   | Applied IR & NLP                  |
+| 🧩 System Design      | Modular RAG architecture with production-style workflow design | End-to-end AI system architecture |
+| 🤖 LLM Engineering    | Prompt workflows, structured response pipelines      | Enterprise-scale orchestration    |
+| 📊 Analytics          | MLflow tracking, latency monitoring, AI dashboards   | MLOps & Observability             |
 
 ---
 
