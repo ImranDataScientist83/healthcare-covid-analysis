@@ -12,7 +12,9 @@ Production-aware Retrieval-Augmented Generation (RAG) support platform inspired 
 
 This project demonstrates practical AI engineering workflows involving semantic search, multilingual NLP, structured LLM orchestration, confidence-based escalation logic, and production-oriented analytics dashboards.
 
-The system simulates how enterprise-scale AI support platforms process multilingual customer queries using retrieval pipelines, embedding similarity search, prompt engineering, and response quality evaluation.
+The system simulates how enterprise-scale AI support platforms process multilingual customer queries through semantic retrieval pipelines, embedding similarity search, prompt orchestration, and response quality evaluation workflows.
+
+The project architecture is designed to simulate enterprise-scale AI support workflows commonly used in modern conversational AI, retrieval systems, and production-oriented LLM platforms.
 
 **Production-Aware AI support system** with:
 
