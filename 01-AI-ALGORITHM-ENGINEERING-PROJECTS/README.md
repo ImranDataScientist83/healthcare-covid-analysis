@@ -104,13 +104,13 @@ This folder contains **Advanced AI Algorithm Engineering Projects** inspired by 
 └───────────────────────────────────────────────┘
                          ↓
 ┌───────────────────────────────────────────────┐
-│              Personalization Engine          │
-│      User preference adaptation logic        │
+│              Personalization Engine           │
+│      User preference adaptation logic         │
 └───────────────────────────────────────────────┘
                          ↓
 ┌───────────────────────────────────────────────┐
-│              Diversity Adjustment            │
-│      Novelty + content balancing             │
+│              Diversity Adjustment             │
+│      Novelty + content balancing              │
 └───────────────────────────────────────────────┘
                          ↓
 ┌───────────────────────────────────────────────┐
