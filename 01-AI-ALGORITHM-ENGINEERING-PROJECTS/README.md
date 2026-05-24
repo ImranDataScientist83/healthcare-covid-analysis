@@ -80,27 +80,27 @@ This folder contains **Advanced AI Algorithm Engineering Projects** inspired by 
 ```text
                 USER INTERACTION PIPELINE
 ┌───────────────────────────────────────────────┐
-│               User Activity                  │
+│               User Activity                   │
 └───────────────────────────────────────────────┘
                          ↓
 ┌───────────────────────────────────────────────┐
-│             Feature Extraction               │
-│     Behavioral + contextual signal parsing   │
+│             Feature Extraction                │
+│     Behavioral + contextual signal parsing    │
 └───────────────────────────────────────────────┘
                          ↓
 ┌───────────────────────────────────────────────┐
-│             Embedding Generation             │
-│      User/item vector representation         │
+│             Embedding Generation              │
+│      User/item vector representation          │
 └───────────────────────────────────────────────┘
                          ↓
 ┌───────────────────────────────────────────────┐
-│              Candidate Retrieval             │
-│      Approximate nearest-neighbor search     │
+│              Candidate Retrieval              │
+│      Approximate nearest-neighbor search      │
 └───────────────────────────────────────────────┘
                          ↓
 ┌───────────────────────────────────────────────┐
-│                 Ranking Layer                │
-│        CTR / watch-time prediction           │
+│                 Ranking Layer                 │
+│        CTR / watch-time prediction            │
 └───────────────────────────────────────────────┘
                          ↓
 ┌───────────────────────────────────────────────┐
@@ -114,7 +114,7 @@ This folder contains **Advanced AI Algorithm Engineering Projects** inspired by 
 └───────────────────────────────────────────────┘
                          ↓
 ┌───────────────────────────────────────────────┐
-│                For You Feed                  │
+│                For You Feed                   │
 └───────────────────────────────────────────────┘
 ```
 
@@ -265,36 +265,36 @@ scipy statsmodels
 ┌─────────────────────────────────────────────────────────────────────┐
 │                    END-TO-END ALGORITHM PIPELINE                    │
 ├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│   📓 Notebook 1: Recommendation System                              │
+│                                                                     │
+│   📓 Notebook 1: Recommendation System                             │
 │   ├── User-Item Matrix Construction                                 │
 │   ├── Collaborative Filtering (SVD)                                 │
 │   ├── Content-Based Filtering (TF-IDF)                              │
 │   └── Hybrid Recommendation Scoring                                 │
-│                              ↓                                       │
-│   📓 Notebook 2: Ranking Algorithm                                   │
+│                              ↓                                      │
+│   📓 Notebook 2: Ranking Algorithm                                 │
 │   ├── Feature Engineering for Ranking                               │
 │   ├── XGBoost Learning-to-Rank                                      │
 │   ├── NDCG@10 Optimization                                          │
 │   └── Ranked vs Unranked Comparison                                 │
-│                              ↓                                       │
-│   📓 Notebook 3: Engagement Prediction                              │
+│                              ↓                                      │
+│   📓 Notebook 3: Engagement Prediction                             │
 │   ├── Binary Classification (Will engage?)                          │
 │   ├── Regression (Engagement Score)                                 │
 │   ├── Watch Time Prediction                                         │
 │   └── Probability Calibration                                       │
-│                              ↓                                       │
-│   📓 Notebook 4: A/B Testing Framework                              │
-│   ├── Hypothesis Testing (T-test / Mann-Whitney)                   │
-│   ├── Effect Size Calculation (Cohen's d)                          │
+│                              ↓                                      │
+│   📓 Notebook 4: A/B Testing Framework                             │
+│   ├── Hypothesis Testing (T-test / Mann-Whitney)                    │
+│   ├── Effect Size Calculation (Cohen's d)                           │
 │   ├── Power Analysis                                                │
 │   └── Deployment Recommendation                                     │
-│                              ↓                                       │
-│   📓 Notebook 5: Comprehensive Visualizations                       │
+│                              ↓                                      │
+│   📓 Notebook 5: Comprehensive Visualizations                      │
 │   ├── 7 Professional Graphs                                         │
 │   ├── Correlation Analysis                                          │
 │   └── Executive Dashboard                                           │
-│                                                                      │
+│                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 
 ```
