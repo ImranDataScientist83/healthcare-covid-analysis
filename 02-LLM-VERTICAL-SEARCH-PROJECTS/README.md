@@ -74,7 +74,7 @@ This repository implements a **production-grade vertical search engine** for sho
 
 ### 📌 Executive Summary Dashboard – Key Metrics
 
-[![Executive Summary Dashboard](https://raw.githubusercontent.com/ImranDataScientist83/healthcare-covid-analysis/main/02-LLM-VERTICAL-SEARCH-PROJECTS/Images/executive_summary%20dashboard%20.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/02-LLM-VERTICAL-SEARCH-PROJECTS/Images/executive_summary%20dashboard%20(1).png)
+[![Executive Summary Dashboard](https://raw.githubusercontent.com/ImranDataScientist83/healthcare-covid-analysis/main/02-LLM-VERTICAL-SEARCH-PROJECTS/Images/executive_summary_dashboard.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/02-LLM-VERTICAL-SEARCH-PROJECTS/Images/executive_summary_dashboard.png)
 
 *KPI dashboard with 10K+ documents, 50K+ queries, 100K+ judgments, 0.68 NDCG, 1.8ms latency, and +10.5% A/B uplift.*
 
