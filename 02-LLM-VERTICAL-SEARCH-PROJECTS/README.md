@@ -146,7 +146,7 @@ pip install -r requirements.txt
 
 - AI Engineering Projects
 - AI Algorithm Engineering Projects
-- AI/ML Engeering Projects
+- AI/ML Engineering Projects
 - ByteDance-Style RAG Support System
 - Large Language Model Engineering
 - ML Pipeline Projects
