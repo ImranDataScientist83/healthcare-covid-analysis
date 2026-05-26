@@ -1,6 +1,6 @@
 # 🔍 LLM Vertical Search Engine 
 
-**Production-Grade Multi-Modal Search | RAG Pipeline | Real-Time Inference | A/B Testing Framework**
+**Production-Grade AI Search System | Multi-Modal Retrieval | Vector Search | RAG Pipeline | Real-Time Inference | A/B Testing & Observability**
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?logo=pytorch)](https://pytorch.org/)
@@ -213,17 +213,6 @@ cd healthcare-covid-analysis/02-LLM-VERTICAL-SEARCH-PROJECTS
 
 ### Install dependencies
 pip install -r requirements.txt
-
-## 📈 Visualization Gallery
-
-| Dashboard                          | Description                                |
-|------------------------------------|--------------------------------------------|
-| 🖥️ master_performance_dashboard.png | 🔎 9-in-1 performance overview              |
-| 🎨 embedding_space_visualization.png| 🧩 PCA + t-SNE of multi-modal embeddings    |
-| 📊 ranking_model_deep_dive.png      | ⚖️ Model comparison + feature importance    |
-| 🤖 rag_pipeline_llm.png             | 🧠 RAG architecture + LLM understanding     |
-| 📈 ab_testing_statistical_validation.png | 📐 A/B test results + power analysis   |
-| 🏆 executive_summary_dashboard.png  | 📌 KPI dashboard                            |
 
 ## 🛠️ Technology Stack
 
