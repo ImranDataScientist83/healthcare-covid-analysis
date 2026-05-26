@@ -330,10 +330,11 @@ The notebooks generate the following outputs:
 ## 📝 Author
 
 **MAS IMRAN**  
-Applied Machine Learning Engineer  
-Master of Computer Science (Completed on Feb 2026)
+🎓 Applied Machine Learning Engineer | Master of Computer Science (Feb 2026)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)](https://github.com/ImranDataScientist83)
+[![Email](https://img.shields.io/badge/Email-imranscar%40hotmail.com-blue?logo=gmail&logoColor=white)](mailto:imranscar@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)](https://github.com/ImranDataScientist83)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mas-imran-38360613a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-AI%2FML%20Projects-FF5722?logo=google-chrome&logoColor=white)](https://github.com/ImranDataScientist83/healthcare-covid-analysis)
 
-> Part of the AI / ML / Algorithm Engineering Portfolio
-
+✨ Part of **AI / ML / Algorithm Engineering Portfolio**
