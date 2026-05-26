@@ -44,6 +44,64 @@ This repository implements a **production-grade vertical search engine** for sho
 
 ---
 
+## 📈 Visualization Gallery
+
+> *Click any image to view full resolution*
+
+### 🏆 Executive Dashboard – System Performance at a Glance
+
+[![Master Performance Dashboard](https://raw.githubusercontent.com/ImranDataScientist83/healthcare-covid-analysis/main/02-LLM-VERTICAL-SEARCH-PROJECTS/Images/master_performance_dashboard.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/02-LLM-VERTICAL-SEARCH-PROJECTS/Images/master_performance_dashboard.png)
+
+*9-in-1 dashboard covering genre distribution, search intent, relevance scores, similarity distribution, query length, top keywords, model NDCG, A/B uplift, and search latency.*
+
+---
+
+### 📊 A/B Testing & Statistical Validation – Production Readiness
+
+[![A/B Testing Statistical Validation](https://raw.githubusercontent.com/ImranDataScientist83/healthcare-covid-analysis/main/02-LLM-VERTICAL-SEARCH-PROJECTS/Images/ab_testing_statistical_validation.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/02-LLM-VERTICAL-SEARCH-PROJECTS/Images/ab_testing_statistical_validation.png)
+
+*Treatment effect distribution, power analysis (sample size vs detection power), 95% confidence intervals, and sequential experiment monitoring with p-value tracking.*
+
+---
+
+### 🧠 Ranking Model Deep Dive – Algorithm Excellence
+
+[![Ranking Model Deep Dive](https://raw.githubusercontent.com/ImranDataScientist83/healthcare-covid-analysis/main/02-LLM-VERTICAL-SEARCH-PROJECTS/Images/ranking_model_deep_dive.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/02-LLM-VERTICAL-SEARCH-PROJECTS/Images/ranking_model_deep_dive.png)
+
+*Radar chart comparing Gradient Boosting, Random Forest, and Ridge models; feature importance analysis; predicted vs actual relevance; and prediction error distribution.*
+
+---
+
+### 📌 Executive Summary Dashboard – Key Metrics
+
+[![Executive Summary Dashboard](https://raw.githubusercontent.com/ImranDataScientist83/healthcare-covid-analysis/main/02-LLM-VERTICAL-SEARCH-PROJECTS/Images/executive_summary%20dashboard%20.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/02-LLM-VERTICAL-SEARCH-PROJECTS/Images/executive_summary%20dashboard%20(1).png)
+
+*KPI dashboard with 10K+ documents, 50K+ queries, 100K+ judgments, 0.68 NDCG, 1.8ms latency, and +10.5% A/B uplift.*
+
+---
+
+### 🔬 Multi-Modal Embedding Space – Technical Foundation
+
+[![Embedding Space Visualization](https://raw.githubusercontent.com/ImranDataScientist83/healthcare-covid-analysis/main/02-LLM-VERTICAL-SEARCH-PROJECTS/Images/embedding_space_visualization.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/02-LLM-VERTICAL-SEARCH-PROJECTS/Images/embedding_space_visualization.png)
+
+*PCA and t-SNE projections of text vs title embeddings, showing multi-modal alignment quality and semantic clustering.*
+
+---
+
+### 🎯 Alignment Quality & Retrieval Performance
+
+[![Alignment Quality Retrieval](https://raw.githubusercontent.com/ImranDataScientist83/healthcare-covid-analysis/main/02-LLM-VERTICAL-SEARCH-PROJECTS/Images/alignment_quality_retrieval.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/02-LLM-VERTICAL-SEARCH-PROJECTS/Images/alignment_quality_retrieval.png)
+
+*Top-K alignment accuracy curve (1, 3, 5, 10, 20, 50) and text-title similarity heatmap demonstrating cross-modal retrieval quality.*
+
+---
+
+### 🤖 RAG Pipeline & LLM Understanding
+
+[![RAG Pipeline LLM](https://raw.githubusercontent.com/ImranDataScientist83/healthcare-covid-analysis/main/02-LLM-VERTICAL-SEARCH-PROJECTS/Images/rag_pipeline_llm.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/02-LLM-VERTICAL-SEARCH-PROJECTS/Images/rag_pipeline_llm.png)
+
+*RAG architecture diagram, query intent distribution, retrieval quality by query length, and LLM response confidence distribution.*
+
 ## 📁 Project Structure
 
 ```text
