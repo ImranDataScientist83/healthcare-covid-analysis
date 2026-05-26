@@ -1,5 +1,17 @@
 # MAS IMRAN – AI/ML/Algorithm Engineering Portfolio
 
+[![Email](https://img.shields.io/badge/Email-imranscar%40hotmail.com-blue?logo=gmail&logoColor=white)](mailto:imranscar@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)](https://github.com/ImranDataScientist83)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mas-imran-38360613a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-AI%2FML%20Projects-FF5722?logo=google-chrome&logoColor=white)](https://github.com/ImranDataScientist83/healthcare-covid-analysis)
+
+**Open to Applied Machine Learning Engineer, AI Engineer, AI/ML Engineer, and AI Algorithm Engineering opportunities from Feb 2026 onward.**
+
+### 📊 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=ImranDataScientist83&color=blue)
+
+
 **Applied Machine Learning Engineer | Production-Oriented AI Systems**
 
 Machine Learning Engineer with a completed Master's Degree in Computer Science and industry-aligned specialization in Data Science & AI. Experience building end-to-end machine learning pipelines on real-world datasets, including healthcare COVID-19 case data. Skilled in reproducible experimentation, structured feature engineering, model validation, and production-aware system design. Focused on delivering scalable AI systems aligned to measurable business and operational impact.
@@ -249,19 +261,18 @@ Projects are grouped by specialization domain:
 
 ---
 
-## 🔗 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-ImranDataScientist83-181717?logo=github)](https://github.com/ImranDataScientist83)
-[![Email](https://img.shields.io/badge/Email-imranscar@hotmail.com-red?logo=gmail)](mailto:imranscar@hotmail.com)
-
+✨ Part of **AI / ML / Algorithm Engineering Portfolio**
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ImranDataScientist83&color=blue)
 
 ---
 
-**Open to Applied Machine Learning Engineer, AI Engineer, AI/ML Engineer, and AI Algorithm Engineering opportunities from Feb 2026 onward.**
+## 🌟 Executive Profile
 
+| 💼 Experience | 🎓 Education | 🛠️ Skills |
+|---------------|--------------|-----------|
+| • 🚚 Foreman leading 100 drivers daily <br> • 🦺 Safety Supervisor collaborating with MOM & PSA <br> • 🌍 Sales Consultant managing international agents | • 🎓 Master of Computer Science (AI & Data Science & Security) <br> • 📘 WSQ Professional Diploma in Inforcom Technologies (Data) <br> • ☁️ SCTP Programme + Cloud & Analytics Certifications | • 🐍 Python, SQL, Data Pipelines <br> • 📊 Azure ML, Power BI, MLflow <br> • 🐳 Containerization (Kubernetes, Docker) <br> • 🤖 LLM Deployment & RAG Pipelines <br> • ⚙️ **MLOps**: Experiment Tracking, Reproducible Workflows |
 
