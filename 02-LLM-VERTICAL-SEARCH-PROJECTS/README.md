@@ -13,9 +13,74 @@
 
 ## 📊 Project Overview
 
-This repository implements a **production-grade vertical search engine** for short-form content, demonstrating the complete ML lifecycle from data acquisition to deployment. The system features multi-modal understanding, semantic search, RAG pipeline, and comprehensive A/B testing.
+This repository implements a **production-oriented vertical search engine** for short-form and multi-modal content, demonstrating enterprise-style AI retrieval workflows involving semantic embeddings, vector search, learning-to-rank systems, retrieval-augmented generation (RAG), inference optimization, and experimentation pipelines.
 
-## 🎯 Key Capabilities
+## 🏗️ End-to-End Vertical Search Architecture
+
+```text
+┌──────────────────────────────────────┐
+│         User Search Query            │
+│ Natural Language Search Request      │
+└────────────────┬─────────────────────┘
+                 │
+                 ▼
+┌──────────────────────────────────────┐
+│        Query Understanding Layer     │
+│ Intent Classification                │
+│ Query Expansion                      │
+│ Semantic Normalization               │
+└────────────────┬─────────────────────┘
+                 │
+                 ▼
+┌──────────────────────────────────────┐
+│      Multi-Modal Embedding Engine    │
+│ Text / Title / Genre Embeddings      │
+│ CLIP-style Vector Representation     │
+└────────────────┬─────────────────────┘
+                 │
+                 ▼
+┌──────────────────────────────────────┐
+│         FAISS Vector Retrieval       │
+│ IVF / PQ Index Optimization          │
+│ Approximate Nearest Neighbor Search  │
+└────────────────┬─────────────────────┘
+                 │
+                 ▼
+┌──────────────────────────────────────┐
+│        Relevance Ranking Layer       │
+│ Gradient Boosting / Random Forest    │
+│ Learning-to-Rank Scoring             │
+└────────────────┬─────────────────────┘
+                 │
+                 ▼
+┌──────────────────────────────────────┐
+│      Retrieval-Augmented Generation  │
+│ Context Retrieval                    │
+│ LLM Response Construction            │
+│ Semantic Answer Generation           │
+└────────────────┬─────────────────────┘
+                 │
+                 ▼
+┌──────────────────────────────────────┐
+│      Inference Optimization Layer    │
+│ Batching / Caching / Quantization    │
+│ Real-Time Low Latency Serving        │
+└────────────────┬─────────────────────┘
+                 │
+                 ▼
+┌──────────────────────────────────────┐
+│       A/B Testing & Monitoring       │
+│ Experiment Validation                │
+│ Statistical Significance Testing     │
+│ Search Quality Monitoring            │
+└──────────────────────────────────────┘
+```
+
+End-to-end LLM vertical search architecture demonstrating multi-modal semantic retrieval, vector similarity search, learning-to-rank workflows, retrieval-augmented generation (RAG), inference optimization, and production-oriented search quality monitoring.
+
+The architecture follows a modular AI search engineering design integrating semantic retrieval, ranking optimization, query understanding, RAG orchestration, low-latency inference, and statistical experimentation workflows.
+
+## 🎯 Key AI Search Engineering Capabilities
 
 | Capability               | Implementation                                | Notebook |
 |--------------------------|-----------------------------------------------|----------|
