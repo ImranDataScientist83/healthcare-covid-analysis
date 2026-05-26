@@ -1,6 +1,3 @@
-# COMING SOON....
-
-
 # 🔍 LLM Vertical Search Engine 
 
 **Production-Grade Multi-Modal Search | RAG Pipeline | Real-Time Inference | A/B Testing Framework**
@@ -39,8 +36,8 @@ This repository implements a **production-grade vertical search engine** for sho
 | Metric                  | Value                  |
 |--------------------------|------------------------|
 | 🌟 **Best NDCG@10**      | 0.68                   |
-| ⚡ **Search Latency**    | 1.8ms (FAISS PQ)       |
-| 📈 **A/B Test Uplift**   | +10.5%                 |
+| ⚡ **Search Latency**    | 1.8ms (FAISS PQ optimized)        |
+| 📈 **A/B Test Uplift**   | +10.5% (statistically significant)|
 | 📚 **Documents Indexed** | 10,000+                |
 | 🔍 **Queries Analyzed**  | 50,000+                |
 | ✅ **Relevance Judgments** | 100,000+             |
@@ -50,21 +47,21 @@ This repository implements a **production-grade vertical search engine** for sho
 ## 📁 Project Structure
 
 ```text
-LLM VERTICAL SEARCH/
+02-LLM-VERTICAL-SEARCH-ENGINE/
 │
 ├── 📄 README.md
 │
-├── 📓 Notebooks 1-10/
-│   ├── 01_multi_modal_data_acquisition.ipynb
-│   ├── 02_multi_modal_embedding_generation.ipynb
-│   ├── 03_cross_modal_semantic_alignment.ipynb
-│   ├── 04_relevance_ranking_model.ipynb
-│   ├── 05_llm_query_understanding.ipynb
-│   ├── 06_retrieval_augmented_generation.ipynb
-│   ├── 07_hard_negative_mining.ipynb
-│   ├── 08_online_inference_optimization.ipynb
-│   ├── 09_ab_testing_framework.ipynb
-│   └── 10_comprehensive_visualizations_dashboard.ipynb
+├── 📓 Notebooks/ (10 notebooks)
+│   ├── LLM Machine Learning Engineer, Vertical Search Notebook 1 Multi-Modal Data Acquisition.ipynb
+│   ├── LLM Machine Learning Engineer, Vertical Search Notebook 2 Multi-Modal Embedding Generation CLIP ViT.ipynb
+│   ├── LLM Machine Learning Engineer, Vertical Search Notebook 3  Cross-Modal Semantic Alignment.ipynb
+│   ├── LLM Machine Learning Engineer, Vertical Search Notebook 4 Relevance Ranking Model.ipynb
+│   ├── LLM Machine Learning Engineer, Vertical Search Notebook 5 LLM Query Understanding.ipynb
+│   ├── LLM Machine Learning Engineer, Vertical Search Notebook 6 Retrieval-Augmented Generation RAG.ipynb
+│   ├── LLM Machine Learning Engineer, Vertical Search Notebook 7 Hard Negative Mining.ipynb
+│   ├── LLM Machine Learning Engineer, Vertical Search Notebook 8 Online Inference Optimization.ipynb
+│   ├── LLM Machine Learning Engineer, Vertical Search Notebook 9 A B Testing Framework.ipynb
+│   └── LLM Machine Learning Engineer, Vertical Search Notebook 10 Comprehensive Visualizations Dashboard.ipynb
 │
 ├── 📊 Data/
 │   ├── drama_content.csv (10,000 records)
@@ -89,7 +86,7 @@ LLM VERTICAL SEARCH/
 
 ### Clone repository
 git clone https://github.com/ImranDataScientist83/healthcare-covid-analysis.git
-cd "LLM VERTICAL SEARCH"
+cd healthcare-covid-analysis/02-LLM-VERTICAL-SEARCH-PROJECTS
 
 ### Install dependencies
 pip install -r requirements.txt
@@ -129,15 +126,3 @@ pip install -r requirements.txt
 | 📐 A/B Testing          | Statistical validation + power analysis       |
 | ⚙️ MLOps                | 10 notebooks, experiment tracking             |
 
-
-## 📝 Author
-
-**MAS IMRAN**  
-🎓 Applied Machine Learning Engineer | Master of Computer Science (Feb 2026)
-
-[![Email](https://img.shields.io/badge/Email-imranscar%40hotmail.com-blue?logo=gmail&logoColor=white)](mailto:imranscar@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)](https://github.com/ImranDataScientist83)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mas-imran-38360613a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-AI%2FML%20Projects-FF5722?logo=google-chrome&logoColor=white)](https://github.com/ImranDataScientist83/healthcare-covid-analysis)
-
-✨ Part of **AI / ML / Algorithm Engineering Portfolio**
