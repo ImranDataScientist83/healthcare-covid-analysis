@@ -140,6 +140,24 @@ Master's thesis and academic research documentation
 
 ---
 
+## 📊 Project Dashboards at a Glance
+
+<div align="center">
+  
+| 🤖 AI/ML Engineering Suite | 🎯 AI Algorithm Engineering |
+|:--------------------------:|:---------------------------:|
+| <a href="https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/master_executive_dashboard.png"><img src="https://raw.githubusercontent.com/ImranDataScientist83/healthcare-covid-analysis/main/01-AI-ML-ENGINEERING-PROJECTS/Image%20Files/master_executive_dashboard.png" width="100%" alt="AI/ML Engineering Dashboard"/></a> | <a href="https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ALGORITHM-ENGINEERING-PROJECTS/Images/GRAPH_07_comprehensive_dashboard.png"><img src="https://raw.githubusercontent.com/ImranDataScientist83/healthcare-covid-analysis/main/01-AI-ALGORITHM-ENGINEERING-PROJECTS/Images/GRAPH_07_comprehensive_dashboard.png" width="100%" alt="AI Algorithm Dashboard"/></a> |
+| **10 Notebooks \| 45+ Visualizations** | **Recommendation \| Ranking \| A/B Testing** |
+
+| 🤖 AI Engineering ByteDance-Style RAG | 🔍 LLM Vertical Search |
+|:----------------------:|:-----------------------:|
+| <a href="https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-ENGINEERING-PROJECTS/byte-dance-rag-support/images/08_comprehensive_summary.png"><img src="https://raw.githubusercontent.com/ImranDataScientist83/healthcare-covid-analysis/main/01-AI-ENGINEERING-PROJECTS/byte-dance-rag-support/images/08_comprehensive_summary.png" width="100%" alt="ByteDance RAG Dashboard"/></a> | <a href="https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/02-LLM-VERTICAL-SEARCH-PROJECTS/Images/master_performance_dashboard.png"><img src="https://raw.githubusercontent.com/ImranDataScientist83/healthcare-covid-analysis/main/02-LLM-VERTICAL-SEARCH-PROJECTS/Images/master_performance_dashboard.png" width="100%" alt="LLM Vertical Search Dashboard"/></a> |
+| **Multilingual RAG \| MLflow** | **NDCG@10: 0.68 \| 1.8ms Latency** |
+
+</div>
+
+---
+
 ## 💪 STRENGTHS
 
 | Category | Skills |
