@@ -249,6 +249,10 @@ AI-ML-ALGORITHM-ENGINEERING-PORTFOLIO/
 │   # End-to-end ML engineering, MLOps,
 │   # production pipelines, dashboards, and deployment
 │
+├── 02-LLM-VERTICAL-SEARCH-PROJECTS/           
+│   # LLM Vertical Search Engine, multi-modal search,
+│   # RAG pipeline, FAISS optimization, A/B testing
+│
 ├── 02-LARGE-LANGUAGE-MODEL-ENGINEERING-PROJECTS/ 
 │   # LLM workflows, prompt engineering,
 │   # RAG architectures, and generative AI systems
