@@ -66,6 +66,25 @@ Machine Learning Engineer with a completed Master's Degree in Computer Science a
 📁 [View Project →](./01-AI-ENGINEERING-PROJECTS/byte-dance-rag-support/README.md)
 
 ---
+### [🔍 02-LLM-VERTICAL-SEARCH-ENGINE](./02-LLM-VERTICAL-SEARCH-ENGINE/)
+
+**LLM Vertical Search Engine** - Production-grade multi-modal search with RAG pipeline, FAISS optimization, and A/B testing framework
+
+| Capability | Implementation |
+|------------|----------------|
+| **Multi-Modal Understanding** | CLIP-style embeddings (text + title + genre) |
+| **Cross-Modal Alignment** | Semantic similarity + Top-K accuracy |
+| **Relevance Ranking** | Gradient Boosting, Random Forest, Ridge (NDCG@10: 0.68) |
+| **LLM Query Understanding** | Intent classification + Query expansion |
+| **RAG Pipeline** | Retrieval + Generation with FAISS |
+| **Inference Optimization** | FAISS indexing (1.8ms latency, 25x speedup) |
+| **A/B Testing** | Statistical validation + Power analysis (+10.5% uplift) |
+
+**📊 10 comprehensive notebooks covering full ML lifecycle**
+
+📁 [View Project →](./02-LLM-VERTICAL-SEARCH-ENGINE/README.md)
+
+---
 
 ### [🧠 02-LARGE-LANGUAGE-MODEL-ENGINEERING](./02-LARGE-LANGUAGE-MODEL-ENGINEERING-PROJECTS/)
 
