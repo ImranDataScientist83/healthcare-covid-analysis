@@ -177,6 +177,19 @@ jupyter notebook notebooks/01_snowflake_data_pipeline_wildlife.ipynb
 
 ---
 
+# ✅ Skills Demonstrated
+
+| Skill                 | Evidence                                      |
+|------------------------|-----------------------------------------------|
+| 🤖 Multi-Agent Systems | 3 coordinated agents with orchestrator        |
+| ⚙️ Production ML       | 8 notebooks, full lifecycle                   |
+| 🛡️ Responsible AI      | Governance framework with 5 principles        |
+| 🗄️ Data Engineering    | Snowflake pipeline simulation                 |
+| 🎨 Visualization       | 6 professional dashboards                     |
+| 📈 Streamlit           | Interactive production dashboard              |
+
+---
+
 ## 📝 Author
 
 **MAS IMRAN**  
