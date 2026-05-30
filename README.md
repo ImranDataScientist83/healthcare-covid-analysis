@@ -67,7 +67,7 @@ Machine Learning Engineer with a completed Master's Degree in Computer Science a
 
 ---
 
-### [🏞️ 01-AI-PLATFORM-AGENTIC-WILDLIFE](./01-AI-PLATFORM-AGENTIC-WILDLIFE/)
+### [🏞️ 01-AI-PLATFORM-AGENTIC-WILDLIFE-PROJECTS](https://github.com/ImranDataScientist83/healthcare-covid-analysis/tree/main/01-AI-PLATFORM-AGENTIC-WILDLIFE-PROJECTS)
 
 **Enterprise Agentic AI Platform for Wildlife Conservation** - Multi-agent AI system with Snowflake, Responsible AI, and Streamlit dashboard (IN PROGRESS)
 
@@ -79,7 +79,7 @@ Machine Learning Engineer with a completed Master's Degree in Computer Science a
 
 **8 notebooks covering:** Snowflake pipeline • Multi-agent orchestration • Responsible AI governance • Streamlit dashboard
 
-📁 [View Project →](./01-AI-PLATFORM-AGENTIC-WILDLIFE/README.md)
+📁 [View Project →](https://github.com/ImranDataScientist83/healthcare-covid-analysis/tree/main/01-AI-PLATFORM-AGENTIC-WILDLIFE-PROJECTS)
 
 ---
 
