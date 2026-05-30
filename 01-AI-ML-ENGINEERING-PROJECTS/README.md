@@ -92,22 +92,22 @@ The following architecture illustrates the end-to-end AI/ML engineering workflow
            │                         │
            └────────────┬────────────┘
                         ▼
-┌─────────────────────────────────────┐
-│ Notebook 09 - ML Pipeline Automation│
-│ Scikit-learn Pipelines              │
-│ Cross Validation                    │
-│ MLflow Tracking                     │
-│ Automated Workflows                 │
-└────────────────┬────────────────────┘
+┌──────────────────────────────────────────┐
+│ Notebook 09 - MLOps & Workflow Automation│
+│ Scikit-learn Pipelines                   │
+│ Cross Validation                         │
+│ MLflow Tracking                          │
+│ Automated Workflows                      │
+└────────────────┬─────────────────────────┘
                  │
                  ▼
-┌────────────────────────────────────┐
-│ Notebook 06 - Production Deployment│
-│ FastAPI REST API                   │
-│ Docker Containerization            │
-│ Batch Prediction Service           │
-│ Cloud-Ready Deployment             │
-└────────────────┬───────────────────┘
+┌─────────────────────────────────────────┐
+│ Notebook 06 - Model Serving & Deployment│
+│ FastAPI REST API                        │
+│ Docker Containerization                 │
+│ Batch Prediction Service                │
+│ Cloud-Ready Deployment                  │
+└────────────────┬────────────────────────┘
                  │
                  ▼
 ┌────────────────────────────────────┐
@@ -118,7 +118,9 @@ The following architecture illustrates the end-to-end AI/ML engineering workflow
 │ Consolidated Visualization Layer   │
 └────────────────────────────────────┘
 ```
-End-to-end AI/ML engineering architecture demonstrating the complete production workflow from raw data ingestion and exploratory analysis to feature engineering, model optimization, explainability, deployment, MLOps automation, and executive-level monitoring dashboards.
+End-to-end AI/ML engineering architecture demonstrating production-oriented workflows from data ingestion and exploratory analysis to feature engineering, model optimization, explainability, deployment, MLOps automation, and executive-level analytics dashboards.
+
+The architecture integrates machine learning development, automated pipelines, model serving, experiment tracking, and business-facing monitoring workflows commonly found in modern production AI systems.
 
 ---
 
