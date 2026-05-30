@@ -12,7 +12,7 @@
 
 ## 📊 Executive Summary
 
-This project delivers a **production-grade agentic AI platform** for wildlife conservation and guest experience management, addressing four strategic imperatives:
+This project delivers a **Production-oriented AI platform** for wildlife conservation and guest experience management, addressing four strategic imperatives:
 
 ### 🎯 Strategic AI Objectives
 
