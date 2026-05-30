@@ -67,6 +67,22 @@ Machine Learning Engineer with a completed Master's Degree in Computer Science a
 
 ---
 
+### [🏞️ 01-AI-PLATFORM-AGENTIC-WILDLIFE](./01-AI-PLATFORM-AGENTIC-WILDLIFE/)
+
+**Enterprise Agentic AI Platform for Wildlife Conservation** - Multi-agent AI system with Snowflake, Responsible AI, and Streamlit dashboard (IN PROGRESS)
+
+| Agent | Capability | Performance |
+|-------|------------|-------------|
+| 🦁 Conservation | Animal health monitoring + anomaly detection | 98.5% alert resolution |
+| 🎟️ Guest Experience | LLM-powered personalization engine | 4.2/5 satisfaction |
+| 💰 Commercial | Revenue prediction + upsell optimization | +12% uplift |
+
+**8 notebooks covering:** Snowflake pipeline • Multi-agent orchestration • Responsible AI governance • Streamlit dashboard
+
+📁 [View Project →](./01-AI-PLATFORM-AGENTIC-WILDLIFE/README.md)
+
+---
+
 ### [🔍 02-LLM-VERTICAL-SEARCH-PROJECTS](./02-LLM-VERTICAL-SEARCH-PROJECTS/)
 
 **LLM Vertical Search Engine** - Production-grade multi-modal search with RAG pipeline, FAISS optimization, and A/B testing framework
