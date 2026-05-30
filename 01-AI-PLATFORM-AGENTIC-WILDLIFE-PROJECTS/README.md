@@ -55,7 +55,7 @@ The platform is designed to simulate enterprise AI initiatives commonly required
 
 ### 🏆 Executive Dashboard
 
-[![Master Executive Dashboard](https://raw.githubusercontent.com/ImranDataScientist83/healthcare-covid-analysis/main/01-AI-PLATFORM-AGENTIC-WILDLIFE/images/master_executive_dashboard.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-PLATFORM-AGENTIC-WILDLIFE/images/master_executive_dashboard.png)
+[![Master Executive Dashboard](https://raw.githubusercontent.com/ImranDataScientist83/healthcare-covid-analysis/main/01-AI-PLATFORM-AGENTIC-WILDLIFE-PROJECTS/Images/master_executive_dashboard.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-PLATFORM-AGENTIC-WILDLIFE-PROJECTS/Images/master_executive_dashboard.png)
 
 *6 KPI metrics + Agent performance comparison with dual y-axis*
 
@@ -63,7 +63,7 @@ The platform is designed to simulate enterprise AI initiatives commonly required
 
 ### 🦁 Conservation Agent Dashboard
 
-[![Conservation Dashboard](https://raw.githubusercontent.com/ImranDataScientist83/healthcare-covid-analysis/main/01-AI-PLATFORM-AGENTIC-WILDLIFE/images/dashboard_conservation.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-PLATFORM-AGENTIC-WILDLIFE/images/dashboard_conservation.png)
+[![Conservation Dashboard](https://raw.githubusercontent.com/ImranDataScientist83/healthcare-covid-analysis/main/01-AI-PLATFORM-AGENTIC-WILDLIFE-PROJECTS/Images/dashboard_conservation.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-PLATFORM-AGENTIC-WILDLIFE-PROJECTS/Images/dashboard_conservation.png)
 
 *Alert trends, health status distribution, response times, severity analysis*
 
@@ -71,7 +71,7 @@ The platform is designed to simulate enterprise AI initiatives commonly required
 
 ### 🎟️ Guest Experience Dashboard
 
-[![Guest Experience Dashboard](https://raw.githubusercontent.com/ImranDataScientist83/healthcare-covid-analysis/main/01-AI-PLATFORM-AGENTIC-WILDLIFE/images/dashboard_guest_experience.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-PLATFORM-AGENTIC-WILDLIFE/images/dashboard_guest_experience.png)
+[![Guest Experience Dashboard](https://raw.githubusercontent.com/ImranDataScientist83/healthcare-covid-analysis/main/01-AI-PLATFORM-AGENTIC-WILDLIFE-PROJECTS/Images/dashboard_guest_experience.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-PLATFORM-AGENTIC-WILDLIFE-PROJECTS/Images/dashboard_guest_experience.png)
 
 *Visitor trends, satisfaction distribution, ticket type analysis*
 
@@ -79,7 +79,7 @@ The platform is designed to simulate enterprise AI initiatives commonly required
 
 ### 💰 Commercial Optimization Dashboard
 
-[![Commercial Dashboard](https://raw.githubusercontent.com/ImranDataScientist83/healthcare-covid-analysis/main/01-AI-PLATFORM-AGENTIC-WILDLIFE/images/dashboard_commercial.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-PLATFORM-AGENTIC-WILDLIFE/images/dashboard_commercial.png)
+[![Commercial Dashboard](https://raw.githubusercontent.com/ImranDataScientist83/healthcare-covid-analysis/main/01-AI-PLATFORM-AGENTIC-WILDLIFE-PROJECTS/Images/dashboard_commercial.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-PLATFORM-AGENTIC-WILDLIFE-PROJECTS/Images/dashboard_commercial.png)
 
 *Revenue trends, transaction volume, order value distribution*
 
@@ -87,7 +87,7 @@ The platform is designed to simulate enterprise AI initiatives commonly required
 
 ### 🤖 Agent Orchestration Dashboard
 
-[![Orchestration Dashboard](https://raw.githubusercontent.com/ImranDataScientist83/healthcare-covid-analysis/main/01-AI-PLATFORM-AGENTIC-WILDLIFE/images/dashboard_orchestration.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-PLATFORM-AGENTIC-WILDLIFE/images/dashboard_orchestration.png)
+[![Orchestration Dashboard](https://raw.githubusercontent.com/ImranDataScientist83/healthcare-covid-analysis/main/01-AI-PLATFORM-AGENTIC-WILDLIFE-PROJECTS/Images/dashboard_orchestration.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-PLATFORM-AGENTIC-WILDLIFE-PROJECTS/Images/dashboard_orchestration.png)
 
 *Tasks by agent, success rates, workflow monitoring*
 
@@ -95,7 +95,7 @@ The platform is designed to simulate enterprise AI initiatives commonly required
 
 ### 🛡️ Responsible AI Governance Dashboard
 
-[![Governance Dashboard](https://raw.githubusercontent.com/ImranDataScientist83/healthcare-covid-analysis/main/01-AI-PLATFORM-AGENTIC-WILDLIFE/images/dashboard_governance.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-PLATFORM-AGENTIC-WILDLIFE/images/dashboard_governance.png)
+[![Governance Dashboard](https://raw.githubusercontent.com/ImranDataScientist83/healthcare-covid-analysis/main/01-AI-PLATFORM-AGENTIC-WILDLIFE-PROJECTS/Images/dashboard_governance.png)](https://github.com/ImranDataScientist83/healthcare-covid-analysis/blob/main/01-AI-PLATFORM-AGENTIC-WILDLIFE-PROJECTS/Images/dashboard_governance.png)
 
 *Fairness, transparency, privacy, accountability, safety scores*
 
