@@ -265,6 +265,10 @@ AI-ML-ALGORITHM-ENGINEERING-PORTFOLIO/
 │   # End-to-end ML engineering, MLOps,
 │   # production pipelines, dashboards, and deployment
 │
+├── 01-AI-PLATFORM-AGENTIC-WILDLIFE-PROJECTS/   
+│   # Enterprise Agentic AI Platform, multi-agent orchestration,
+│   # wildlife conservation, guest experience, responsible AI governance
+│
 ├── 02-LLM-VERTICAL-SEARCH-PROJECTS/           
 │   # LLM Vertical Search Engine, multi-modal search,
 │   # RAG pipeline, FAISS optimization, A/B testing
@@ -313,7 +317,7 @@ AI-ML-ALGORITHM-ENGINEERING-PORTFOLIO/
 
 Projects are grouped by specialization domain:
 
-- **01** → Applied AI Engineering & Algorithm Systems
+- **01** → Applied AI Engineering, Algorithm Systems & Agentic AI Platform
 - **02–03** → LLM and Machine Learning Engineering
 - **04** → University academic projects and research work
 
