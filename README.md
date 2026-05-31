@@ -18,111 +18,127 @@ Machine Learning Engineer with a completed Master's Degree in Computer Science a
 
 ---
 
+
 ## 🚀 Featured Projects
 
-### [🤖 01-AI-ML-ENGINEERING-PROJECTS](./01-AI-ML-ENGINEERING-PROJECTS/)
 
-**AI/ML Engineering Mastery Suite** - Complete ML lifecycle with 10 professional notebooks
+### 🤖 [01-AI-ML-ENGINEERING-PROJECTS](./01-AI-ML-ENGINEERING-PROJECTS/)
 
-| Category | Highlights |
-|----------|------------|
-| **EDA & Feature Engineering** | 25+ visualizations, PCA, encoding |
-| **Model Training & Tuning** | 8+ algorithms, Optuna, Grid/Random Search |
-| **Interpretability** | SHAP, LIME, business insights dashboard |
-| **Production** | FastAPI, Docker, cloud-ready |
-| **Advanced Analytics** | Time series, anomaly detection |
-| **Automation** | ML pipelines, MLflow tracking |
+**🎓 AI/ML Engineering Mastery Suite** - Complete ML lifecycle with 10 professional notebooks
+
+| 🏆 Category | ✨ Highlights |
+|:------------|:--------------|
+| 📊 **EDA & Feature Engineering** | 25+ visualizations, PCA, encoding |
+| 🧠 **Model Training & Tuning** | 8+ algorithms, Optuna, Grid/Random Search |
+| 🔍 **Interpretability** | SHAP, LIME, business insights dashboard |
+| 🚀 **Production** | FastAPI, Docker, cloud-ready |
+| 📈 **Advanced Analytics** | Time series, anomaly detection |
+| ⚙️ **Automation** | ML pipelines, MLflow tracking |
 
 📁 [View Project →](./01-AI-ML-ENGINEERING-PROJECTS/README.md)
 
+
 ---
 
-### [🎯 01-AI-ALGORITHM-ENGINEERING-PROJECTS](./01-AI-ALGORITHM-ENGINEERING-PROJECTS/)
 
-**Applied AI Algorithm Engineering** - Recommendation systems, ranking algorithms, engagement prediction, A/B testing
+### 🎯 [01-AI-ALGORITHM-ENGINEERING-PROJECTS](./01-AI-ALGORITHM-ENGINEERING-PROJECTS/)
 
-| Component | Details |
-|-----------|---------|
-| Recommendation | Collaborative + content-based hybrid system |
-| Ranking | XGBoost Learning-to-Rank with NDCG optimization |
-| Engagement | CTR + watch time prediction (AUC: 0.89) |
-| Experimentation | A/B testing with statistical rigor |
+**⚡ Applied AI Algorithm Engineering** - Recommendation systems, ranking algorithms, engagement prediction, A/B testing
+
+| 🧩 Component | 🔧 Details |
+|:------------|:-----------|
+| 🎬 **Recommendation** | Collaborative + content-based hybrid system |
+| 📊 **Ranking** | XGBoost Learning-to-Rank with NDCG optimization |
+| 💡 **Engagement** | CTR + watch time prediction (AUC: 0.89) |
+| 🧪 **Experimentation** | A/B testing with statistical rigor |
 
 📁 [View Project →](./01-AI-ALGORITHM-ENGINEERING-PROJECTS/README.md)
 
+
 ---
 
-### [🤖 01-AI-ENGINEERING-PROJECTS](./01-AI-ENGINEERING-PROJECTS/)
 
-**ByteDance-Style RAG Support System** - Production-ready RAG pipeline for multilingual customer support
+### 🤖 [01-AI-ENGINEERING-PROJECTS](./01-AI-ENGINEERING-PROJECTS/)
 
-| Feature | Details |
-|---------|---------|
-| Retrieval | sentence-transformers with cosine similarity |
-| LLM | Google Gemini / structured JSON outputs |
-| Tracking | MLflow experiment tracking |
-| Languages | English, Indonesian, Malay, Chinese, Thai |
+**🌐 ByteDance-Style RAG Support System** - Production-ready RAG pipeline for multilingual customer support
+
+| ⚙️ Feature | 📝 Details |
+|:-----------|:-----------|
+| 🔍 **Retrieval** | sentence-transformers with cosine similarity |
+| 🧠 **LLM** | Google Gemini / structured JSON outputs |
+| 📊 **Tracking** | MLflow experiment tracking |
+| 🌍 **Languages** | English, Indonesian, Malay, Chinese, Thai |
 
 📁 [View Project →](./01-AI-ENGINEERING-PROJECTS/byte-dance-rag-support/README.md)
 
+
 ---
 
-### [🏞️ 01-AI-PLATFORM-AGENTIC-WILDLIFE-PROJECTS](https://github.com/ImranDataScientist83/healthcare-covid-analysis/tree/main/01-AI-PLATFORM-AGENTIC-WILDLIFE-PROJECTS)
 
-**Enterprise Agentic AI Platform for Wildlife Conservation** - Multi-agent AI system with Snowflake, Responsible AI, and Streamlit dashboard.
+### 🏞️ [01-AI-PLATFORM-AGENTIC-WILDLIFE-PROJECTS](https://github.com/ImranDataScientist83/healthcare-covid-analysis/tree/main/01-AI-PLATFORM-AGENTIC-WILDLIFE-PROJECTS)
 
-| Agent | Capability | Performance |
-|-------|------------|-------------|
-| 🦁 Conservation | Animal health monitoring + anomaly detection | 98.5% alert resolution |
-| 🎟️ Guest Experience | LLM-powered personalization engine | 4.2/5 satisfaction |
-| 💰 Commercial | Revenue prediction + upsell optimization | +12% uplift |
+**🦁 Enterprise Agentic AI Platform for Wildlife Conservation** - Multi-agent AI system with Snowflake, Responsible AI, and Streamlit dashboard
 
-**8 notebooks covering:** Snowflake pipeline • Multi-agent orchestration • Responsible AI governance • Streamlit dashboard
+| 🤖 Agent | 🎯 Capability | 📊 Performance |
+|:---------|:--------------|:---------------|
+| 🦁 **Conservation** | Animal health monitoring + anomaly detection | 🟢 98.5% alert resolution |
+| 🎟️ **Guest Experience** | LLM-powered personalization engine | 🟢 4.2/5 satisfaction |
+| 💰 **Commercial** | Revenue prediction + upsell optimization | 🟢 +12% uplift |
+
+**📚 8 notebooks covering:** Snowflake pipeline • Multi-agent orchestration • Responsible AI governance • Streamlit dashboard
 
 📁 [View Project →](https://github.com/ImranDataScientist83/healthcare-covid-analysis/tree/main/01-AI-PLATFORM-AGENTIC-WILDLIFE-PROJECTS)
 
+
 ---
 
-### [🔍 02-LLM-VERTICAL-SEARCH-PROJECTS](./02-LLM-VERTICAL-SEARCH-PROJECTS/)
 
-**LLM Vertical Search Engine** - Production-grade multi-modal search with RAG pipeline, FAISS optimization, and A/B testing framework
+### 🔍 [02-LLM-VERTICAL-SEARCH-PROJECTS](./02-LLM-VERTICAL-SEARCH-PROJECTS/)
 
-| Capability | Implementation |
-|------------|----------------|
-| **Multi-Modal Understanding** | CLIP-style embeddings (text + title + genre) |
-| **Cross-Modal Alignment** | Semantic similarity + Top-K accuracy |
-| **Ranking Model** | Gradient Boosting, Random Forest, Ridge (NDCG@10: 0.68) |
-| **LLM Query Understanding** | Intent classification + Query expansion |
-| **RAG Pipeline** | Retrieval + Generation with FAISS |
-| **Inference Optimization** | FAISS indexing (1.8ms latency, 25x speedup) |
-| **A/B Testing** | Statistical validation + Power analysis (+10.5% uplift) |
+**🔎 LLM Vertical Search Engine** - Production-grade multi-modal search with RAG pipeline, FAISS optimization, and A/B testing framework
 
-**📊 10 comprehensive notebooks covering full ML lifecycle**
+| ⚙️ Capability | 🔧 Implementation |
+|:--------------|:------------------|
+| 🖼️ **Multi-Modal Understanding** | CLIP-style embeddings (text + title + genre) |
+| 🔗 **Cross-Modal Alignment** | Semantic similarity + Top-K accuracy |
+| 📊 **Ranking Model** | Gradient Boosting, Random Forest, Ridge (NDCG@10: 0.68) |
+| 🧠 **LLM Query Understanding** | Intent classification + Query expansion |
+| 🔄 **RAG Pipeline** | Retrieval + Generation with FAISS |
+| ⚡ **Inference Optimization** | FAISS indexing (1.8ms latency, 25x speedup) |
+| 📐 **A/B Testing** | Statistical validation + Power analysis (+10.5% uplift) |
+
+**📚 10 comprehensive notebooks covering full ML lifecycle**
 
 📁 [View Project →](./02-LLM-VERTICAL-SEARCH-PROJECTS/README.md)
 
+
 ---
 
-### [🧠 02-LARGE-LANGUAGE-MODEL-ENGINEERING](./02-LARGE-LANGUAGE-MODEL-ENGINEERING-PROJECTS/)
 
-**LLM & GenAI Workflows** - Prompt engineering, RAG concepts, API integration
+### 🧠 [02-LARGE-LANGUAGE-MODEL-ENGINEERING](./02-LARGE-LANGUAGE-MODEL-ENGINEERING-PROJECTS/)
+
+**💬 LLM & GenAI Workflows** - Prompt engineering, RAG concepts, API integration
 
 📁 [View Project →](./02-LARGE-LANGUAGE-MODEL-ENGINEERING-PROJECTS/)
 
+
 ---
 
-### [⚙️ 03-MACHINE-LEARNING-PIPELINE-PROJECTS](./03-MACHINE-LEARNNG-PIPELINE-PROJECTS/)
 
-**End-to-End ML Pipelines** - Customer churn prediction & COVID-19 risk API
+### ⚙️ [03-MACHINE-LEARNING-PIPELINE-PROJECTS](./03-MACHINE-LEARNNG-PIPELINE-PROJECTS/)
 
-| Project | Key Result |
-|---------|------------|
-| Churn Prediction | 97.9% accuracy (Random Forest) |
-| COVID Risk API | FastAPI production service |
+**🏭 End-to-End ML Pipelines** - Customer churn prediction & COVID-19 risk API
+
+| 📊 Project | 🎯 Key Result |
+|:-----------|:--------------|
+| 🔮 **Churn Prediction** | 97.9% accuracy (Random Forest) |
+| 🏥 **COVID Risk API** | FastAPI production service |
 
 📁 [View Project →](./03-MACHINE-LEARNNG-PIPELINE-PROJECTS)
 
+
 ---
+
 
 ### [🏥 04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS](./04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS/)
 
