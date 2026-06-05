@@ -156,7 +156,7 @@ The architecture spans **11 integrated layers**, from document ingestion to prod
 
 ```
 
-# 🎯 Key Capabilities
+## 🎯 Key Capabilities
 
 | 🏗️ Layer                | 🚀 Capabilities                          | 🛠️ Technologies                                |
 |--------------------------|------------------------------------------|------------------------------------------------|
@@ -171,7 +171,7 @@ The architecture spans **11 integrated layers**, from document ingestion to prod
 
 ---
 
-# 📁 Project Structure
+## 📁 Project Structure
 
 ```
 enterprise-knowledge-intelligence-platform/
@@ -210,3 +210,5 @@ enterprise-knowledge-intelligence-platform/
 │
 └── 📊 benchmarks/
     └── evaluation_results.csv
+```
+
