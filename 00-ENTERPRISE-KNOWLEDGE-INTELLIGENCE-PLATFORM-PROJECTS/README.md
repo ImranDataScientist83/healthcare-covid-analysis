@@ -1,4 +1,4 @@
-## 🏗️ Enterprise Knowledge Intelligence Platform (IN PROGRESS)
+# 🏗️ Enterprise Knowledge Intelligence Platform (IN PROGRESS)
 
 ### Multimodal Retrieval | Search Ranking | Agentic RAG | AI Evaluation
 
@@ -295,9 +295,25 @@ uvicorn deployment.api:app --reload --port 8000
 ## 📝 Author
 
 **MAS IMRAN**  
-Applied Machine Learning Engineer | Master of Computer Science (Feb 2026)
+🎓 Applied Machine Learning Engineer | Master of Computer Science (Feb 2026)
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)](https://github.com/)  
-[![Email](https://img.shields.io/badge/Email-imranscar@hotmail.com-red?logo=gmail)](mailto:imranscar@hotmail.com)  
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/mas-imran-38360613a/)
+[![Email](https://img.shields.io/badge/Email-imranscar%40hotmail.com-blue?logo=gmail&logoColor=white)](mailto:imranscar@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)](https://github.com/ImranDataScientist83)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mas-imran-38360613a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-AI%2FML%20Projects-FF5722?logo=google-chrome&logoColor=white)](https://github.com/ImranDataScientist83/healthcare-covid-analysis)
 
+✨ Part of **AI / ML / Algorithm Engineering Portfolio**
+
+---
+
+## 📚 Related Projects
+
+- AI Engineering Projects
+- AI Algorithm Engineering Projects
+- AI/ML Engineering Projects
+- AI Platform Agentic Wildlife
+- ByteDance-Style RAG Support System
+- LLM Vertical Search Projects
+- Large Language Model Engineering
+- ML Pipeline Projects
+- COVID-19 Healthcare Analysis
