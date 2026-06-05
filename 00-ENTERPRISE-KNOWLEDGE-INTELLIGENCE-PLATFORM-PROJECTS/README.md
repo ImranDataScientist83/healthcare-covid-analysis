@@ -212,3 +212,92 @@ enterprise-knowledge-intelligence-platform/
     └── evaluation_results.csv
 ```
 
+
+## 🛠️ Technology Stack
+
+| 📂 Category              | 🚀 Technologies                                                                 |
+|--------------------------|---------------------------------------------------------------------------------|
+| 📄 **Document Processing** | 📑 PyPDF2<br>📜 pdfplumber<br>📊 Camelot<br>🧾 DocTR<br>🔍 Tesseract              |
+| 🖼️ **Vision-Language**     | 🗂️ LayoutLMv3<br>🖼️ BLIP-2<br>🎨 FLAVA<br>🎯 CLIP<br>🖌️ ViT                     |
+| 🔎 **Embeddings**          | ✍️ Sentence Transformers<br>📚 BERT<br>🖼️ ResNet                                |
+| 🗄️ **Vector Database**     | 📦 FAISS (IVF-PQ, HNSW)                                                         |
+| 📚 **Retrieval**           | 📖 BM25<br>🔍 Dense Retrieval<br>⚡ Hybrid Fusion                                |
+| 📈 **Ranking**             | 🌲 XGBoost<br>📊 LambdaMART<br>🔎 Cross-encoders                                |
+| 🤖 **LLM & Agents**        | 🧠 GPT-4<br>🤝 Claude<br>🦙 Llama<br>🛠️ ReAct<br>🔗 LangGraph                    |
+| ⚙️ **Optimization**        | 🚀 vLLM<br>⚡ ONNX<br>💾 Redis<br>📉 Quantization                                |
+| 📊 **Evaluation**          | 📏 RAGAS<br>📈 NDCG<br>🔄 MRR<br>🎯 Hit Rate                                    |
+| 🚀 **Deployment**          | 🌐 FastAPI<br>🐳 Docker<br>☸️ Kubernetes<br>📊 MLflow                           |
+
+---
+
+
+## 📊 Evaluation Metrics
+
+| 📏 Metric            | 🎯 Target | 📝 Description                                |
+|----------------------|-----------|-----------------------------------------------|
+| 🎯 **Hit@5**         | >0.85     | Relevant document in top 5                    |
+| 🔄 **MRR**           | >0.75     | Mean reciprocal rank of first relevant        |
+| 📈 **NDCG@10**       | >0.70     | Normalized discounted cumulative gain         |
+| ✅ **Faithfulness**  | >0.90     | Answer grounded in retrieved context          |
+| 🎯 **Answer Relevancy** | >0.85  | Response directly addresses query             |
+| 📚 **Context Recall** | >0.80    | All relevant information retrieved            |
+| ⚡ **Latency**        | <100ms   | End-to-end response time (p95)                |
+
+---
+
+
+## 🚀 Quick Start
+
+```
+### Clone repository
+git clone https://github.com/ImranDataScientist83/enterprise-knowledge-intelligence-platform.git
+cd enterprise-knowledge-intelligence-platform
+
+### Install dependencies
+pip install -r requirements.txt
+
+### Launch Jupyter
+jupyter notebook notebooks/01_data_ingestion.ipynb
+
+### Start API server
+uvicorn deployment.api:app --reload --port 8000
+```
+
+
+## 📈 Performance Benchmarks
+
+| ⚙️ Component          | 📊 Scale        | 🚀 Performance       |
+|-----------------------|-----------------|----------------------|
+| 📄 **OCR Processing** | 10K pages       | 2 pages/sec          |
+| 🔎 **Embedding Generation** | 1M chunks  | 1000 chunks/sec      |
+| 🗄️ **FAISS Index**    | 10M vectors     | <50ms query          |
+| 📚 **Hybrid Retrieval** | 10M documents | <100ms               |
+| 🤖 **RAG Generation** | 4K context      | <5 sec               |
+| 🌐 **API Throughput** | 1000 QPS        | <100ms p95           |
+
+---
+
+
+## ✅ Skills Demonstrated
+
+| 🏛️ Domain              | 🛠️ Skills                                                                 |
+|-------------------------|---------------------------------------------------------------------------|
+| 🖼️ **Computer Vision**   | 📄 OCR<br>📐 Layout Analysis<br>📊 Table Recognition<br>✨ Image Enhancement |
+| 📖 **NLP**              | 📑 Document Understanding<br>🔍 Semantic Search<br>❓ Query Understanding   |
+| 📚 **Information Retrieval** | ⚡ Hybrid Retrieval<br>📈 Learning-to-Rank<br>🗄️ FAISS Indexing        |
+| 🤖 **LLM**              | 🔗 RAG<br>🛠️ Agentic Workflows<br>✍️ Prompt Engineering<br>📏 Evaluation   |
+| ⚙️ **MLOps**            | 🧪 Experiment Tracking<br>🚀 Model Deployment<br>📡 Monitoring             |
+| 🏗️ **System Design**    | 🛠️ End-to-end Architecture<br>💾 Caching<br>⚡ Optimization<br>📈 Scaling   |
+
+---
+
+
+## 📝 Author
+
+**MAS IMRAN**  
+Applied Machine Learning Engineer | Master of Computer Science (Feb 2026)
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)](https://github.com/)  
+[![Email](https://img.shields.io/badge/Email-imranscar@hotmail.com-red?logo=gmail)](mailto:imranscar@hotmail.com)  
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/mas-imran-38360613a/)
+
