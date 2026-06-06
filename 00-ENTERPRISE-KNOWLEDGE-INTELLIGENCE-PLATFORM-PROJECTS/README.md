@@ -289,31 +289,55 @@ uvicorn deployment.api:app --reload --port 8000
 | ⚙️ **MLOps**            | 🧪 Experiment Tracking<br>🚀 Model Deployment<br>📡 Monitoring             |
 | 🏗️ **System Design**    | 🛠️ End-to-end Architecture<br>💾 Caching<br>⚡ Optimization<br>📈 Scaling   |
 
----
 
+---
 
 ## 📝 Author
 
-**MAS IMRAN**  
-🎓 Applied Machine Learning Engineer | Master of Computer Science (Feb 2026)
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-imranscar%40hotmail.com-blue?logo=gmail&logoColor=white)](mailto:imranscar@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)](https://github.com/ImranDataScientist83)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mas-imran-38360613a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-AI%2FML%20Projects-FF5722?logo=google-chrome&logoColor=white)](https://github.com/ImranDataScientist83/healthcare-covid-analysis)
+<h2>✨ MAS IMRAN ✨</h2>
 
-✨ Part of **AI / ML / Algorithm Engineering Portfolio**
+🎓 <b>Applied Machine Learning Engineer</b>  
+📘 Master of Computer Science (Feb 2026)
 
 ---
 
+<!-- Animated typing effect -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineering;Data+Science+%26+Analytics;AI+Algorithm+Engineering;LLM+Engineering;Data+Science+%26+Analytics;Enterprise+Knowledge+Intelligence)
+
+---
+
+<!-- Badges with background styling -->
+[![Email](https://img.shields.io/badge/Email-imranscar%40hotmail.com-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:imranscar@hotmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/ImranDataScientist83)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mas-imran-38360613a/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-AI%2FML%20Projects-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge)](https://github.com/ImranDataScientist83/healthcare-covid-analysis)
+
+---
+
+</div>
+
+
 ## 📚 Related Projects
 
-- AI Engineering Projects
-- AI Algorithm Engineering Projects
-- AI/ML Engineering Projects
-- AI Platform Agentic Wildlife
-- ByteDance-Style RAG Support System
-- LLM Vertical Search Projects
-- Large Language Model Engineering
-- ML Pipeline Projects
-- COVID-19 Healthcare Analysis
+<div align="center">
+
+<!-- Animated typing effect -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F39C12&center=true&vCenter=true&width=600&lines=AI+Engineering+Projects;AI+Algorithm+Engineering+Projects;AI%2FML+Engineering+Projects;AI+Platform+Agentic+Wildlife;ByteDance-Style+RAG+Support+System;LLM+Vertical+Search+Projects;Large+Language+Model+Engineering;ML+Pipeline+Projects;COVID-19+Healthcare+Analysis)
+
+---
+
+<!-- Colorful badges for each project -->
+![AI Engineering](https://img.shields.io/badge/AI_Engineering-3498DB?style=for-the-badge&logo=python&logoColor=white)
+![AI Algorithm](https://img.shields.io/badge/AI_Algorithm_Engineering-2ECC71?style=for-the-badge&logo=pytorch&logoColor=white)
+![AI/ML Engineering](https://img.shields.io/badge/AI%2FML_Engineering-E74C3C?style=for-the-badge&logo=anaconda&logoColor=white)
+![Agentic Wildlife](https://img.shields.io/badge/AI_Platform_Agentic_Wildlife-F39C12?style=for-the-badge&logo=azuredevops&logoColor=white)
+![ByteDance RAG](https://img.shields.io/badge/ByteDance_RAG_Support_System-9B59B6?style=for-the-badge&logo=tencentqq&logoColor=white)
+![LLM Search](https://img.shields.io/badge/LLM_Vertical_Search-1ABC9C?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Engineering](https://img.shields.io/badge/Large_Language_Model_Engineering-FF5722?style=for-the-badge&logo=googlecloud&logoColor=white)
+![ML Pipeline](https://img.shields.io/badge/ML_Pipeline_Projects-34495E?style=for-the-badge&logo=github&logoColor=white)
+![COVID Analysis](https://img.shields.io/badge/COVID-19_Healthcare_Analysis-8E44AD?style=for-the-badge&logo=medapps&logoColor=white)
+
+</div>
+
