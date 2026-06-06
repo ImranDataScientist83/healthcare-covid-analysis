@@ -1,4 +1,18 @@
-# 🏗️ Enterprise Knowledge Intelligence Platform (IN PROGRESS)
+<!-- Split disappearing title into 3 parts -->
+<div align="center">
+
+<!-- Left part -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=30&duration=2000&pause=2000&color=0A66C2&center=true&vCenter=true&width=600&lines=ENTERPRISE+KNOWLEDGE)
+
+<!-- Right part -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=30&duration=2000&pause=2000&color=0A66C2&center=true&vCenter=true&width=600&lines=INTELLIGENCE+PLATFORM)
+
+<!-- Third part -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=30&duration=2000&pause=2000&color=800020&center=true&vCenter=true&width=600&lines=IN+PROGRESS)
+
+</div>
+
+
 
 ### Multimodal Retrieval | Search Ranking | Agentic RAG | AI Evaluation
 
