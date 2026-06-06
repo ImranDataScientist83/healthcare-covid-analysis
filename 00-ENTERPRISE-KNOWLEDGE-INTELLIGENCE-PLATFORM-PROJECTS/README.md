@@ -302,42 +302,51 @@ uvicorn deployment.api:app --reload --port 8000
 📘 Master of Computer Science (Feb 2026)
 
 ---
+---
 
 <!-- Animated typing effect -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineering;Data+Science+%26+Analytics;AI+Algorithm+Engineering;LLM+Engineering;Data+Science+%26+Analytics;Enterprise+Knowledge+Intelligence)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=30&pause=1000&color=006400&center=true&vCenter=true&width=900&lines=AI+ENGINEERING;AI+ALGORITHM+ENGINEERING;AI+/+ML+ENGINEERING;AI+PLATFORM+AGENTIC+WILDLIFE;LLM+VERTICAL+SEARCH;LLM+ENGINEERING;ML+PIPELINE+PROJECTS;COVID19+HEALTHCARE+ANALYSIS;ENTERPRISE+KNOWLEDGE+INTELLIGENCE)
 
----
-
-<!-- Badges with background styling -->
-[![Email](https://img.shields.io/badge/Email-imranscar%40hotmail.com-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:imranscar@hotmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/ImranDataScientist83)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mas-imran-38360613a/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-AI%2FML%20Projects-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge)](https://github.com/ImranDataScientist83/healthcare-covid-analysis)
-
----
-
-</div>
-
-
-## 📚 Related Projects
-
+<!-- Gradient double underline -->
 <div align="center">
 
-<!-- Animated typing effect -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F39C12&center=true&vCenter=true&width=600&lines=AI+Engineering+Projects;AI+Algorithm+Engineering+Projects;AI%2FML+Engineering+Projects;AI+Platform+Agentic+Wildlife;ByteDance-Style+RAG+Support+System;LLM+Vertical+Search+Projects;Large+Language+Model+Engineering;ML+Pipeline+Projects;COVID-19+Healthcare+Analysis)
-
----
-
-<!-- Colorful badges for each project -->
-![AI Engineering](https://img.shields.io/badge/AI_Engineering-3498DB?style=for-the-badge&logo=python&logoColor=white)
-![AI Algorithm](https://img.shields.io/badge/AI_Algorithm_Engineering-2ECC71?style=for-the-badge&logo=pytorch&logoColor=white)
-![AI/ML Engineering](https://img.shields.io/badge/AI%2FML_Engineering-E74C3C?style=for-the-badge&logo=anaconda&logoColor=white)
-![Agentic Wildlife](https://img.shields.io/badge/AI_Platform_Agentic_Wildlife-F39C12?style=for-the-badge&logo=azuredevops&logoColor=white)
-![ByteDance RAG](https://img.shields.io/badge/ByteDance_RAG_Support_System-9B59B6?style=for-the-badge&logo=tencentqq&logoColor=white)
-![LLM Search](https://img.shields.io/badge/LLM_Vertical_Search-1ABC9C?style=for-the-badge&logo=openai&logoColor=white)
-![LLM Engineering](https://img.shields.io/badge/Large_Language_Model_Engineering-FF5722?style=for-the-badge&logo=googlecloud&logoColor=white)
-![ML Pipeline](https://img.shields.io/badge/ML_Pipeline_Projects-34495E?style=for-the-badge&logo=github&logoColor=white)
-![COVID Analysis](https://img.shields.io/badge/COVID-19_Healthcare_Analysis-8E44AD?style=for-the-badge&logo=medapps&logoColor=white)
+<hr style="border: 0; height: 4px; width: 70%; margin: 0 auto; background: linear-gradient(to right, #32CD32, #006400);">
+<hr style="border: 0; height: 4px; width: 70%; margin: 0 auto; margin-top: -6px; background: linear-gradient(to right, #32CD32, #006400);">
 
 </div>
+
+
+
+<div align="centre">
+    
+<!-- Badges with background styling -->
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/ImranDataScientist83)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mas-imran-38360613a/)  [![Portfolio](https://img.shields.io/badge/Portfolio-AI%2FML%20Projects-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge)](https://github.com/ImranDataScientist83/healthcare-covid-analysis)   [![Email](https://img.shields.io/badge/Email-imranscar%40hotmail.com-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:imranscar@hotmail.com)
+
+---
+---
+
+
+<!-- Animated typing effect -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=30&pause=1000&color=800020&center=true&vCenter=true&width=800&lines=RELATED+PROJECTS)
+
+<!-- Gradient double underline -->
+<div align="center">
+  
+<hr style="border: 0; height: 4px; width: 60%; margin: 0 auto; background: linear-gradient(to right, #800020, #0A66C2);">
+<hr style="border: 0; height: 4px; width: 60%; margin: 0 auto; margin-top: -6px; background: linear-gradient(to right, #800020, #0A66C2);">
+
+</div>
+
+
+
+| Project | Description | Key Technologies |
+|:--------|:------------|:-----------------|
+| [**AI Engineering**](https://github.com/ImranDataScientist83/healthcare-covid-analysis/tree/main/01-AI-ENGINEERING-PROJECTS) | ByteDance-style RAG support system | LLM, RAG, MLflow |
+| [**AI Algorithm**](https://github.com/ImranDataScientist83/healthcare-covid-analysis/tree/main/01-AI-ALGORITHM-ENGINEERING-PROJECTS) | Recommendation + ranking + A/B testing | XGBoost, FAISS |
+| [**AI/ML Engineering**](https://github.com/ImranDataScientist83/healthcare-covid-analysis/tree/main/01-AI-ML-ENGINEERING-PROJECTS) | 10-notebook ML mastery suite | SHAP, Optuna, Docker |
+| [**Agentic AI Platform**](https://github.com/ImranDataScientist83/healthcare-covid-analysis/tree/main/01-AI-PLATFORM-AGENTIC-WILDLIFE-PROJECTS) | Wildlife conservation + guest experience | Snowflake, Streamlit |
+| [**LLM Vertical Search**](https://github.com/ImranDataScientist83/healthcare-covid-analysis/tree/main/02-LLM-VERTICAL-SEARCH-PROJECTS) | Multi-modal search engine | CLIP, FAISS, RAG |
+| [**LLM Engineering**](https://github.com/ImranDataScientist83/healthcare-covid-analysis/tree/main/02-LARGE-LANGUAGE-MODEL-ENGINEERING-PROJECTS) | GenAI workflows & API integration | Prompt Engineering |
+| [**ML Pipeline**](https://github.com/ImranDataScientist83/healthcare-covid-analysis/tree/main/03-MACHINE-LEARNNG-PIPELINE-PROJECTS) | Churn prediction + COVID API | Random Forest, FastAPI |
+| [**COVID-19 Analysis**](https://github.com/ImranDataScientist83/healthcare-covid-analysis/tree/main/04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS) | Healthcare analytics | Time Series, Statsmodels |
 
