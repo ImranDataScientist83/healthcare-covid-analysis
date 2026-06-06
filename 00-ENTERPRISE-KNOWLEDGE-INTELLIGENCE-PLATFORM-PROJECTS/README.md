@@ -1,27 +1,26 @@
-<!-- Split disappearing title into 3 parts -->
 <div align="center">
 
-<!-- Left part -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=30&duration=2000&pause=2000&color=0A66C2&center=true&vCenter=true&width=600&lines=ENTERPRISE+KNOWLEDGE)
+<h1 align="center">
+🏗️ ENTERPRISE KNOWLEDGE INTELLIGENCE PLATFORM
+</h1>
 
-<!-- Right part -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=30&duration=2000&pause=2000&color=0A66C2&center=true&vCenter=true&width=600&lines=INTELLIGENCE+PLATFORM)
+<h3 align="center">
+Multimodal Retrieval | Search Ranking | Agentic RAG | AI Evaluation
+</h3>
 
-<!-- Third part -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=30&duration=2000&pause=2000&color=800020&center=true&vCenter=true&width=600&lines=IN+PROGRESS)
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=24&duration=2000&pause=1000&color=800020&center=true&vCenter=true&width=400&lines=IN+PROGRESS" alt="Typing SVG" />
+</a>
 
-</div>
-
-
-
-### Multimodal Retrieval | Search Ranking | Agentic RAG | AI Evaluation
-
+<br><br>
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-0194E2?logo=facebook&logoColor=white)](https://faiss.ai/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-API-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)](https://docker.com/)
 [![MLflow](https://img.shields.io/badge/MLflow-Tracking-0194E2?logo=mlflow&logoColor=white)](https://mlflow.org/)
+
+</div>
 
 ---
 
