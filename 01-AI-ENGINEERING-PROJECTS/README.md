@@ -1,4 +1,4 @@
-# 🤖 ByteDance-Style Multilingual RAG Support System
+# 🤖 Multilingual RAG Support System
 
 **Production-Oriented Retrieval-Augmented Generation (RAG) System | Multilingual AI Support | LLM & Prompt Engineering | MLflow MLOps Tracking | AI Observability & Analytics**
 
