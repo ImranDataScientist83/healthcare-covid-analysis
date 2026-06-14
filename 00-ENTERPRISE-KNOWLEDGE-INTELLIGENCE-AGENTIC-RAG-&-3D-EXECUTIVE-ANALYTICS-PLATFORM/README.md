@@ -402,7 +402,7 @@ uvicorn deployment.api:app --reload --port 8000
 
 | Project | Description | Key Technologies |
 |:--------|:------------|:-----------------|
-| [**AI Engineering**](https://github.com/ImranDataScientist83/healthcare-covid-analysis/tree/main/01-AI-ENGINEERING-PROJECTS) | RAG support system | LLM, RAG, MLflow |
+| [**AI Engineering**](https://github.com/ImranDataScientist83/healthcare-covid-analysis/tree/main/01-AI-ENGINEERING-PROJECTS) | Multilingual RAG support system | LLM, RAG, MLflow |
 | [**AI Algorithm**](https://github.com/ImranDataScientist83/healthcare-covid-analysis/tree/main/01-AI-ALGORITHM-ENGINEERING-PROJECTS) | Recommendation + ranking + A/B testing | XGBoost, FAISS |
 | [**AI/ML Engineering**](https://github.com/ImranDataScientist83/healthcare-covid-analysis/tree/main/01-AI-ML-ENGINEERING-PROJECTS) | 10-notebook ML mastery suite | SHAP, Optuna, Docker |
 | [**Agentic AI Platform**](https://github.com/ImranDataScientist83/healthcare-covid-analysis/tree/main/01-AI-PLATFORM-AGENTIC-WILDLIFE-PROJECTS) | Wildlife conservation + guest experience | Snowflake, Streamlit |
