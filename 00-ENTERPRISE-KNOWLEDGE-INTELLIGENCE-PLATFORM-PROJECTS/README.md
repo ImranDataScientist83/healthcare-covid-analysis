@@ -1,11 +1,12 @@
 <div align="center">
 
 <h1 align="center">
-🏗️ ENTERPRISE KNOWLEDGE INTELLIGENCE PLATFORM
+🏗️ ENTERPRISE KNOWLEDGE INTELLIGENCE,
+AGENTIC RAG & 3D EXECUTIVE ANALYTICS PLATFORM
 </h1>
 
 <h3 align="center">
-Multimodal Retrieval | Search Ranking | Agentic RAG | AI Evaluation
+Multimodal Intelligence | Hybrid Retrieval | Search Ranking | Agentic RAG | Observability | 3D Executive Analytics
 </h3>
 
 <a href="https://git.io/typing-svg">
@@ -26,9 +27,22 @@ Multimodal Retrieval | Search Ranking | Agentic RAG | AI Evaluation
 
 ## 📊 Project Overview
 
-This platform delivers an **end-to-end enterprise knowledge intelligence system** that processes multimodal business documents (PDFs, images, tables, contracts, invoices) and enables sophisticated information retrieval, ranking, and AI-powered question answering.
+This platform delivers an **end-to-end enterprise knowledge intelligence system** that processes multimodal business documents (PDFs, images, tables, contracts, invoices, and reports) and enables advanced information retrieval, ranking, agentic reasoning, and AI-powered knowledge discovery.
 
-The architecture spans **11 integrated layers**, from document ingestion to production monitoring, demonstrating deep engineering expertise across computer vision, natural language processing, information retrieval, and large language models.
+The platform is implemented through **11 interconnected notebooks and architectural layers**, covering the complete lifecycle from multimodal document ingestion and vision-language understanding to retrieval optimization, agent orchestration, production observability, and executive analytics.
+
+The platform combines:
+
+- Multimodal Document Intelligence
+- Vision-Language Understanding
+- Hybrid Information Retrieval
+- Learning-to-Rank Optimization
+- Agentic RAG Workflows
+- Inference Optimization
+- Evaluation & Observability
+- Interactive 2D/3D Analytics Dashboards
+
+The implementation demonstrates enterprise-scale AI platform engineering across multimodal document intelligence, vision-language understanding, information retrieval, search ranking, retrieval-augmented generation, agent orchestration, observability engineering, executive analytics, and production AI operations.
 
 ---
 
@@ -36,14 +50,15 @@ The architecture spans **11 integrated layers**, from document ingestion to prod
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────┐
-│                    ENTERPRISE KNOWLEDGE INTELLIGENCE PLATFORM                        │
-│              (Multimodal Retrieval, Search Ranking, Agentic RAG & AI Evaluation)    │
+│            🏗️ ENTERPRISE KNOWLEDGE INTELLIGENCE & AGENTIC RAG PLATFORM             │
+│    (Multimodal Intelligence | Hybrid Retrieval | Search Ranking | Agentic RAG |     │
+│                     Observability | 3D Executive Analytics)                         │
 ├─────────────────────────────────────────────────────────────────────────────────────┤
 │                                                                                     │
 │  ┌───────────────────────────────────────────────────────────────────────────────┐  │
 │  │                           DATA INGESTION LAYER                                │  │
 │  │                                                                               │  │
-│  │  📄 PDF • 🖼️ Images • 📊 Tables • 📝 Contracts • 🧾 Invoices • 📑 Reports    │  │
+│  │  📄 PDF • 🖼️ Images • 📊 Tables • 📝 Contracts • 🧾 Invoices • 📑 Reports  │  │
 │  │                                                                               │  │
 │  └────────────────────────────────────┬──────────────────────────────────────────┘  │
 │                                       ▼                                             │
@@ -162,6 +177,19 @@ The architecture spans **11 integrated layers**, from document ingestion to prod
 │  │  ⏱️ Latency & Cost Monitoring                                                 │  │
 │  │  🔄 Human Feedback Loop (RLHF Concepts)                                       │  │
 │  │  📉 Production Observability Dashboards                                       │  │
+│  │
+│  │                                                                               │  │
+│  └────────────────────────────────────┬──────────────────────────────────────────┘  │
+│                                       ▼                                             │
+│  ┌───────────────────────────────────────────────────────────────────────────────┐  │
+│  │                  EXECUTIVE ANALYTICS & VISUALIZATION LAYER                    │  │
+│  │                                                                               │  │
+│  │  📊 Unified Executive Dashboard                                               │  │
+│  │  📈 KPI Monitoring & Reporting                                                │  │
+│  │  🌐 Interactive Plotly Dashboards                                             │  │ 
+│  │  🧠 Retrieval Performance Analytics                                           │  │
+│  │  📡 System Observability Views                                                │  │
+│  │  🎯 3D Executive Analytics & Visualizations                                   │  │
 │  │                                                                               │  │
 │  └───────────────────────────────────────────────────────────────────────────────┘  │
 │                                                                                     │
@@ -171,16 +199,33 @@ The architecture spans **11 integrated layers**, from document ingestion to prod
 
 ## 🎯 Key Capabilities
 
-| 🏗️ Layer                | 🚀 Capabilities                          | 🛠️ Technologies                                |
-|--------------------------|------------------------------------------|------------------------------------------------|
-| 📄 **Document Understanding** | OCR, layout analysis, table extraction   | 🧾 DocTR<br>🗂️ LayoutLMv3<br>📊 Table Transformer |
-| 🔀 **Multimodal Fusion**       | Text + image + layout joint understanding | 🖼️ BLIP-2<br>🎨 FLAVA<br>🔗 Cross-attention       |
-| 🔎 **Embedding Generation**    | Semantic, visual, layout-aware vectors   | ✍️ Sentence Transformers<br>🎯 CLIP<br>🖼️ ViT     |
-| ⚡ **Hybrid Retrieval**        | Sparse + dense + fusion                  | 📚 BM25<br>🗄️ FAISS IVF-PQ                       |
-| 📈 **Learning-to-Rank**        | Feature-based ranking optimization       | 🌲 XGBoost<br>📊 LambdaMART<br>🔍 Cross-encoder   |
-| 🤖 **Agentic RAG**             | Multi-step reasoning, tool use           | 🧠 LLM<br>🛠️ ReAct agents                        |
-| ⚙️ **Inference Optimization**  | Caching, batching, quantization          | 💾 Redis<br>⚡ ONNX<br>🚀 vLLM                    |
-| 📊 **Evaluation**              | RAGAS metrics, IR metrics, monitoring    | 📏 RAGAS<br>📡 Prometheus<br>📉 Grafana           |
+| 🏗️ Layer                     | 🚀 Capabilities                                | 🛠️ Technologies                                |
+|-------------------------------|-----------------------------------------------|------------------------------------------------|
+| 📄 **Document Understanding** | OCR, layout analysis, table extraction        | 🧾 DocTR<br>🗂️ LayoutLMv3<br>📊 Table Transformer |
+| 🔀 **Multimodal Fusion**      | Text + image + layout joint understanding     | 🖼️ BLIP-2<br>🎨 FLAVA<br>🔗 Cross-attention       |
+| 🔎 **Embedding Generation**   | Semantic, visual, layout-aware vectors        | ✍️ Sentence Transformers<br>🎯 CLIP<br>🖼️ ViT     |
+| ⚡ **Hybrid Retrieval**       | Sparse + dense + fusion                       | 📚 BM25<br>🗄️ FAISS IVF-PQ                       |
+| 📈 **Learning-to-Rank**       | Feature-based ranking optimization            | 🌲 XGBoost<br>📊 LambdaMART<br>🔍 Cross-encoder   |
+| 🤖 **Agentic RAG**            | Multi-step reasoning, tool orchestration      | 🧠 LLM<br>🛠️ ReAct Agents<br>🔗 LangGraph         |
+| ⚙️ **Inference Optimization** | Caching, batching, quantization               | 💾 Redis<br>⚡ ONNX<br>🚀 vLLM                    |
+| 📊 **Evaluation & Observability** | RAG evaluation, retrieval metrics, production monitoring | 📏 RAGAS<br>📡 Prometheus<br>📉 Grafana |
+| 📈 **Executive Analytics**    | Interactive dashboards, 3D observability, KPI intelligence | 📊 Plotly<br>🌀 3D Analytics<br>📑 Executive Reporting |
+
+## 📊 Executive Analytics & Observability
+
+The platform includes a dedicated analytics layer providing operational visibility across retrieval quality, ranking effectiveness, system health, and inference performance.
+
+### Capabilities & Visualization Stack
+
+| **Category**              | **Details**                                                                 |
+|----------------------------|-----------------------------------------------------------------------------|
+| **Interactive Dashboards** | 2D dashboards, executive KPI dashboards                                     |
+| **3D Exploration**         | Embedding exploration, system health monitoring                             |
+| **Retrieval Analytics**    | Retrieval performance analysis, RAG evaluation dashboards                   |
+| **Ranking Visualization**  | Ranking effectiveness visualization                                         |
+| **Experiment Tracking**    | MLflow experiment tracking, production observability reporting               |
+| **Visualization Tools**    | Plotly interactive dashboards, Matplotlib analytics, 3D monitoring visuals  |
+| **Tech Integration**       | MLflow experiment tracking, retrieval evaluation analytics                   |
 
 ---
 
@@ -203,7 +248,8 @@ enterprise-knowledge-intelligence-platform/
 │   ├── 07_rag_pipeline.ipynb
 │   ├── 08_ai_agent_orchestration.ipynb
 │   ├── 09_inference_optimization.ipynb
-│   └── 10_evaluation_monitoring.ipynb
+│   ├── 10_evaluation_monitoring.ipynb
+│   └── 11_executive_visualization_dashboard.ipynb
 │
 ├── 🐍 src/
 │   ├── ingestion/
@@ -239,6 +285,7 @@ enterprise-knowledge-intelligence-platform/
 | 🤖 **LLM & Agents**        | 🧠 GPT-4<br>🤝 Claude<br>🦙 Llama<br>🛠️ ReAct<br>🔗 LangGraph                    |
 | ⚙️ **Optimization**        | 🚀 vLLM<br>⚡ ONNX<br>💾 Redis<br>📉 Quantization                                |
 | 📊 **Evaluation**          | 📏 RAGAS<br>📈 NDCG<br>🔄 MRR<br>🎯 Hit Rate                                    |
+| 📊 **Analytics & Visualization** | 📈 Plotly<br>📉 Matplotlib<br>🌀 Interactive 3D Analytics |
 | 🚀 **Deployment**          | 🌐 FastAPI<br>🐳 Docker<br>☸️ Kubernetes<br>📊 MLflow                           |
 
 ---
@@ -287,21 +334,22 @@ uvicorn deployment.api:app --reload --port 8000
 | 📚 **Hybrid Retrieval** | 10M documents | <100ms               |
 | 🤖 **RAG Generation** | 4K context      | <5 sec               |
 | 🌐 **API Throughput** | 1000 QPS        | <100ms p95           |
+| 📊 **Executive Analytics** | Enterprise Dashboards | Interactive 2D/3D Visualizations |
 
 ---
 
 
 ## ✅ Skills Demonstrated
 
-| 🏛️ Domain              | 🛠️ Skills                                                                 |
-|-------------------------|---------------------------------------------------------------------------|
-| 🖼️ **Computer Vision**   | 📄 OCR<br>📐 Layout Analysis<br>📊 Table Recognition<br>✨ Image Enhancement |
-| 📖 **NLP**              | 📑 Document Understanding<br>🔍 Semantic Search<br>❓ Query Understanding   |
-| 📚 **Information Retrieval** | ⚡ Hybrid Retrieval<br>📈 Learning-to-Rank<br>🗄️ FAISS Indexing        |
-| 🤖 **LLM**              | 🔗 RAG<br>🛠️ Agentic Workflows<br>✍️ Prompt Engineering<br>📏 Evaluation   |
-| ⚙️ **MLOps**            | 🧪 Experiment Tracking<br>🚀 Model Deployment<br>📡 Monitoring             |
-| 🏗️ **System Design**    | 🛠️ End-to-end Architecture<br>💾 Caching<br>⚡ Optimization<br>📈 Scaling   |
-
+| 🏛️ Domain                  | 🛠️ Skills                                                                                   |
+|-----------------------------|---------------------------------------------------------------------------------------------|
+| 🖼️ **Computer Vision**       | 📄 OCR<br>📐 Layout Analysis<br>📊 Table Recognition<br>✨ Image Enhancement                  |
+| 📖 **NLP**                  | 📑 Document Understanding<br>🔍 Semantic Search<br>❓ Query Understanding                     |
+| 📚 **Information Retrieval** | ⚡ Hybrid Retrieval<br>📈 Learning-to-Rank<br>🗄️ FAISS Indexing                              |
+| 🤖 **LLM**                  | 🔗 RAG<br>🛠️ Agentic Workflows<br>✍️ Prompt Engineering<br>📏 Evaluation                     |
+| ⚙️ **MLOps & Observability** | 🧪 MLflow Tracking<br>🚀 Model Deployment<br>📡 Production Monitoring<br>🔎 Anomaly Detection<br>📊 Operational Analytics |
+| 🏗️ **System Design**        | 🛠️ End-to-end Architecture<br>💾 Caching<br>⚡ Optimization<br>📈 Scaling                     |
+| 📊 **Analytics Engineering** | 📈 Interactive Dashboards<br>🌀 3D Visualizations<br>📊 Executive Reporting<br>💡 System Health Analytics |
 
 ---
 
