@@ -1,0 +1,10 @@
+{
+  "avg_faithfulness": 0.87,
+  "avg_answer_relevancy": 0.84,
+  "best_ndcg@10": 0.78,
+  "best_mrr": 0.75,
+  "hit_rate@5": 0.86,
+  "p95_latency_ms": 92,
+  "cache_hit_rate": 0.72,
+  "total_documents": 50000
+}
