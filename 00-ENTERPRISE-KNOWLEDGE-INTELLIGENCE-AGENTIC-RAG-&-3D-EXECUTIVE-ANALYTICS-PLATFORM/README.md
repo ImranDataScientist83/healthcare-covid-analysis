@@ -251,6 +251,16 @@ enterprise-knowledge-intelligence-platform/
 │   ├── 10_evaluation_monitoring.ipynb
 │   └── 11_executive_visualization_dashboard.ipynb
 │
+├── 🗄️ Data/
+│   ├── document_corpus.csv              
+│   ├── evaluation_dataset.csv            
+│   ├── project_metrics.json             
+│   ├── query_relevance_dataset.csv      
+│   ├── rag_evaluation_results.csv       
+│   ├── optimization_metrics.csv         
+│   ├── agent_execution_logs.csv         
+│   └── project_metrics_complete.json    
+│
 ├── 🐍 src/
 │   ├── ingestion/
 │   ├── ocr/
