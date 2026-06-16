@@ -237,6 +237,7 @@ enterprise-knowledge-intelligence-platform/
 ├── 📄 README.md
 ├── 📦 requirements.txt
 ├── 🐳 docker-compose.yml
+├── 📝 .gitignore
 │
 ├── 📓 notebooks/
 │   ├── 01_data_ingestion.ipynb
@@ -251,7 +252,7 @@ enterprise-knowledge-intelligence-platform/
 │   ├── 10_evaluation_monitoring.ipynb
 │   └── 11_executive_visualization_dashboard.ipynb
 │
-├── 🗄️ Data/
+├── 🗄️ data/
 │   ├── document_corpus.csv              
 │   ├── evaluation_dataset.csv            
 │   ├── project_metrics.json             
@@ -260,6 +261,34 @@ enterprise-knowledge-intelligence-platform/
 │   ├── optimization_metrics.csv         
 │   ├── agent_execution_logs.csv         
 │   └── project_metrics_complete.json    
+│
+├── 🖼️ images/
+│   ├── doc_type_distribution.png
+│   ├── document_quality_dashboard.png
+│   ├── kpi_executive_dashboard.png
+│   ├── core_competencies_radar.png
+│   ├── timeline_achievements.png
+│   ├── master_executive_dashboard_final.png
+│   └── ... (other static visualizations)
+│
+├── 🌀 html_exports/                     ← INTERACTIVE VISUALIZATION HUB
+│   ├── index.html                       ← MAIN GALLERY PAGE
+│   ├── interactive_document_analysis.html
+│   ├── interactive_document_analysis_rotating.html
+│   ├── interactive_ocr_dashboard.html
+│   ├── interactive_ocr_dashboard_dark.html
+│   ├── interactive_ocr_dashboard_rotating.html
+│   ├── interactive_layoutlmv3_embeddings.html
+│   ├── interactive_layoutlmv3_embeddings_controls.html
+│   ├── faiss_performance_3d.html
+│   ├── faiss_performance_3d_scatter.html
+│   ├── faiss_performance_interactive.html
+│   ├── interactive_embedding_dashboard.html
+│   ├── 3d_interactive_visualization.html
+│   ├── 6d_hypercube_interactive.html
+│   ├── interactive_3d_embeddings.html
+│   ├── 3d_agent_coordination.html
+│   └── interactive_executive_dashboard.html
 │
 ├── 🐍 src/
 │   ├── ingestion/
