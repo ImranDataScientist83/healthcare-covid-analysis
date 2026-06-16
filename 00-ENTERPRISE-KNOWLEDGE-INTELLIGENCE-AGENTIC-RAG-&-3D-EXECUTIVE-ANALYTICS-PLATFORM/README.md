@@ -222,47 +222,56 @@ Explore interactive dashboards, retrieval analytics, ranking intelligence, agent
 
 👉 **[LAUNCH INTERACTIVE GALLERY](https://imrandatascientist83.github.io/healthcare-covid-analysis/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/html_exports/)**
 
-### Featured Platform Visualizations
+---
 
-| Area | Preview | Interactive Feature |
-|------|---------|---------------------|
-| 📄 **Document Intelligence** | ![3D Document Complexity Sphere](https://github.com/ImranDataScientist83/healthcare-covid-analysis/raw/main/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/Images/Notebook%202%20Images%20%26%20Gifs/3d_document_complexity_sphere.gif) | Rotating 3D document analysis |
-| 🔍 **OCR & Layout Understanding** | ![3D OCR Performance Cube](https://github.com/ImranDataScientist83/healthcare-covid-analysis/raw/main/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/Images/Notebook%202%20Images%20%26%20Gifs/3d_ocr_performance_cube.gif) | Interactive OCR confidence dashboard |
-| 🧠 **Vision-Language Fusion** | ![3D LayoutLMv3 Embeddings](https://github.com/ImranDataScientist83/healthcare-covid-analysis/raw/main/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/Images/Notebook%203%20Images%20%26%20Gifs/3d_layoutlmv3_embeddings_spiral_orange.gif) | Cross-modal attention visualization |
-| 🔎 **Vector Search & Embeddings** | ![3D Embedding Space](https://github.com/ImranDataScientist83/healthcare-covid-analysis/raw/main/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/Images/Notebook%204%20Images%20%26%20Gifs/3d_embedding_space_spiral.gif) | FAISS 3D embedding space |
-| 📈 **Learning-to-Rank** | ![3D Feature Space](https://github.com/ImranDataScientist83/healthcare-covid-analysis/raw/main/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/Images/Notebook%206%20Images%20%26%20Gifs/3d_feature_space.png) | NDCG optimization surface |
-| 🤖 **Agentic RAG** | ![3D Rotating Hypercube](https://github.com/ImranDataScientist83/healthcare-covid-analysis/raw/main/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/Images/Notebook%207%20Images%20%26%20Gifs/3d_rotating_hypercube.gif) | 6D RAG metrics hypercube |
-| 🛠️ **Agent Orchestration** | ![Agent Communication Network](https://github.com/ImranDataScientist83/healthcare-covid-analysis/raw/main/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/Images/Notebook%208%20Images%20%26%20Gifs/agent_communication_network-checkpoint.png) | Multi-agent workflow network |
-| ⚡ **Inference Optimization** | ![3D Optimization Progress](https://github.com/ImranDataScientist83/healthcare-covid-analysis/raw/main/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/Images/Notebook%209%20Images%20%26%20Gifs/3d_optimization_progress.gif) | Cache & latency optimization |
-| 📊 **Observability & Monitoring** | ![3D Health Monitor](https://github.com/ImranDataScientist83/healthcare-covid-analysis/raw/main/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/Images/Notebook%2010%20Images%20%26%20Gifs/3d_health_rotating.gif) | Production health metrics |
-| 🏆 **Executive Analytics** | ![Master Performance Cube](https://github.com/ImranDataScientist83/healthcare-covid-analysis/raw/main/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/Images/Notebook%2011%20Images%20%26%20Gifs/master_performance_cube.gif) | 360° executive dashboard |
+### 🚀 Featured Interactive Platform Demonstrations
 
-### Interactive Features
-
-| Capability | Description |
-|------------|-------------|
-| 🖱️ **Click + Drag** | Rotate 3D views 360° |
-| 🔍 **Hover** | View detailed tooltips and values |
-| 📌 **Zoom** | Explore specific data points |
-| 📊 **Dashboards** | Live KPI monitoring and analytics |
-| 🧠 **Agent Workflows** | Visualize multi-agent coordination |
-
-📌 **Full Gallery**: All 50+ visualizations from 11 notebooks are available through the **[Interactive Gallery](https://imrandatascientist83.github.io/healthcare-covid-analysis/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/html_exports/)** link above.
+| Area | Preview | Demonstration |
+|------|---------|---------------|
+| 📄 **Document Intelligence** | ![3D Document Complexity Sphere](https://github.com/ImranDataScientist83/healthcare-covid-analysis/raw/main/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/Images/Notebook%202%20Images%20%26%20Gifs/3d_document_complexity_sphere.gif) | Interactive document complexity analysis and ingestion intelligence |
+| 🔍 **OCR & Layout Understanding** | ![OCR Performance Dashboard](https://github.com/ImranDataScientist83/healthcare-covid-analysis/raw/main/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/Images/Notebook%202%20Images%20%26%20Gifs/ocr_performance_dashboard.png) | OCR confidence monitoring, extraction quality, and layout analytics |
+| 🧠 **Vision-Language Fusion** | ![3D LayoutLMv3 Embeddings](https://github.com/ImranDataScientist83/healthcare-covid-analysis/raw/main/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/Images/Notebook%203%20Images%20%26%20Gifs/3d_layoutlmv3_embeddings_spiral_orange.gif) | Cross-modal embedding exploration and multimodal understanding |
+| 🔎 **Vector Search & Embeddings** | ![3D Embedding Space](https://github.com/ImranDataScientist83/healthcare-covid-analysis/raw/main/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/Images/Notebook%204%20Images%20%26%20Gifs/3d_embedding_space_spiral.gif) | Interactive semantic embedding space and vector search analytics |
+| 📈 **Learning-to-Rank** | ![LTR Performance Dashboard](https://github.com/ImranDataScientist83/healthcare-covid-analysis/raw/main/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/Images/Notebook%206%20Images%20%26%20Gifs/ltr_performance_dashboard-checkpoint.png) | Ranking quality evaluation and relevance optimization analytics |
+| 🤖 **Agentic RAG** | ![3D Rotating Hypercube](https://github.com/ImranDataScientist83/healthcare-covid-analysis/raw/main/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/Images/Notebook%207%20Images%20%26%20Gifs/3d_rotating_hypercube.gif) | Multi-dimensional RAG evaluation and retrieval intelligence |
+| 🛠️ **Agent Orchestration** | ![3D Workflow Timeline](https://github.com/ImranDataScientist83/healthcare-covid-analysis/raw/main/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/Images/Notebook%208%20Images%20%26%20Gifs/3d_workflow_timeline.png) | Multi-agent workflow coordination and orchestration monitoring |
+| ⚡ **Inference Optimization** | ![3D Optimization Progress](https://github.com/ImranDataScientist83/healthcare-covid-analysis/raw/main/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/Images/Notebook%209%20Images%20%26%20Gifs/3d_optimization_progress.gif) | Latency reduction, caching effectiveness, and optimization analytics |
+| 📊 **Monitoring & Evaluation** | ![3D Health Monitor](https://github.com/ImranDataScientist83/healthcare-covid-analysis/raw/main/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/Images/Notebook%2010%20Images%20%26%20Gifs/3d_health_rotating.gif) | Production observability, health monitoring, and RAG evaluation |
+| 🏆 **Executive Analytics** | ![Master Performance Cube](https://github.com/ImranDataScientist83/healthcare-covid-analysis/raw/main/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/Images/Notebook%2011%20Images%20%26%20Gifs/master_performance_cube.gif) | Executive KPI intelligence and enterprise performance monitoring |
 
 ---
 
-## 🎯 Key Platform Capabilities
+### ✨ Interactive Features
 
-| Capability | Implementation |
-|------------|----------------|
-| **Multimodal Intelligence** | LayoutLMv3, BLIP-2, CLIP, ViT |
-| **Hybrid Retrieval** | BM25 + Dense + FAISS IVF-PQ |
-| **Learning-to-Rank** | LambdaMART, XGBoost, NDCG optimization |
-| **Agentic RAG** | ReAct agents, LangGraph, multi-step reasoning |
-| **Observability** | RAGAS, MLflow, Prometheus, Grafana |
-| **3D Analytics** | Plotly, interactive executive dashboards |
+| Capability | Description |
+|------------|-------------|
+| 🖱️ **Click & Drag** | Rotate and explore interactive 3D visualizations |
+| 🔍 **Hover Analytics** | Inspect detailed metrics, scores, and metadata |
+| 🔎 **Zoom & Explore** | Navigate large embedding spaces and performance surfaces |
+| 📊 **Interactive Dashboards** | Executive KPI reporting and operational analytics |
+| 🤖 **Agent Intelligence** | Visualize multi-agent workflows and orchestration patterns |
+| 📈 **Performance Monitoring** | Analyze retrieval, ranking, inference, and production metrics |
 
---- 
+---
+
+### 📦 Gallery Coverage
+
+| Platform Layer | Visualizations |
+|----------------|----------------|
+| 📄 Document Processing | Document intelligence and ingestion analytics |
+| 🔍 OCR & Layout Understanding | OCR confidence, extraction quality, layout analysis |
+| 🧠 Vision-Language Intelligence | LayoutLMv3 and multimodal fusion visualizations |
+| 🔎 Semantic Search | Embeddings, vector search, similarity exploration |
+| 📈 Ranking Systems | Learning-to-Rank performance and relevance analytics |
+| 🤖 Agentic RAG | Retrieval intelligence and RAG evaluation |
+| 🛠️ Agent Orchestration | Multi-agent communication and workflow coordination |
+| ⚡ Inference Optimization | Latency, caching, quantization, optimization analytics |
+| 📊 Observability | Monitoring, evaluation, experiment tracking |
+| 🏆 Executive Analytics | Enterprise KPIs, executive reporting, 3D dashboards |
+
+📌 **Full Gallery Available:** Explore all **50+ visualizations** and **interactive HTML dashboards** across **11 enterprise AI engineering modules** via the **Interactive Gallery** link above.
+
+---
 
 
 ## 🎯 Key Capabilities
@@ -517,5 +526,4 @@ uvicorn deployment.api:app --reload --port 8000
 | [**LLM Engineering**](https://github.com/ImranDataScientist83/healthcare-covid-analysis/tree/main/02-LARGE-LANGUAGE-MODEL-ENGINEERING-PROJECTS) | GenAI workflows & API integration | Prompt Engineering |
 | [**ML Pipeline**](https://github.com/ImranDataScientist83/healthcare-covid-analysis/tree/main/03-MACHINE-LEARNNG-PIPELINE-PROJECTS) | Churn prediction + COVID API | Random Forest, FastAPI |
 | [**COVID-19 Analysis**](https://github.com/ImranDataScientist83/healthcare-covid-analysis/tree/main/04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS) | Healthcare analytics | Time Series, Statsmodels |
-
 
