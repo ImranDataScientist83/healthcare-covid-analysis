@@ -199,6 +199,8 @@ The implementation demonstrates enterprise-scale AI platform engineering across 
 
 ## 🎮 Interactive 3D Visualization Gallery
 
+![3D Document Complexity Sphere](https://github.com/ImranDataScientist83/healthcare-covid-analysis/raw/main/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/Images/Notebook%202%20Images%20%26%20Gifs/3d_document_complexity_sphere.gif)
+
 **Explore all 11 notebooks with interactive 3D visualizations!**
 
 👉 **[LAUNCH INTERACTIVE GALLERY](https://imrandatascientist83.github.io/healthcare-covid-analysis/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/html_exports/)**
