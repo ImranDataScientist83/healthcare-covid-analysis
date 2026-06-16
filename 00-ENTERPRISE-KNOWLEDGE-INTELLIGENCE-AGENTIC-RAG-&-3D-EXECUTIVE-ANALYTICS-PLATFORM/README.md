@@ -197,6 +197,55 @@ The implementation demonstrates enterprise-scale AI platform engineering across 
 
 ```
 
+## 🎮 Interactive 3D Visualization Gallery
+
+**Explore all 11 notebooks with interactive 3D visualizations!**
+
+👉 **[LAUNCH INTERACTIVE GALLERY](https://imrandatascientist83.github.io/healthcare-covid-analysis/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/html_exports/)**
+
+### What You'll Find Inside:
+
+| Notebook | Interactive Visualizations |
+|----------|---------------------------|
+| 📓 **NB01** Data Ingestion | Rotating document analysis, quality dashboards |
+| 📓 **NB02** OCR & Layout | Interactive OCR dashboards (light/dark/rotating) |
+| 📓 **NB03** Vision-Language | LayoutLMv3 embeddings with controls |
+| 📓 **NB04** Embeddings | FAISS 3D performance, scatter plots, dashboards |
+| 📓 **NB06** Learning-to-Rank | 3D ranking visualizations |
+| 📓 **NB07** RAG Pipeline | 6D hypercube, interactive embeddings |
+| 📓 **NB08** Agent Orchestration | 3D agent coordination network |
+| 📓 **NB11** Executive Dashboard | Master performance cube, KPI monitoring |
+
+### Features:
+
+- ✅ **Click + Drag** to rotate 3D views
+- ✅ **Hover** for detailed tooltips
+- ✅ **Zoom** to explore specific areas
+- ✅ **16+ interactive visualizations** from 8 notebooks
+
+---
+
+## 📸 Static Visualizations Gallery
+
+For quick reference, here are static previews from all 11 notebooks:
+
+### Notebook 01: Data Ingestion
+![Document Type Distribution](images/doc_type_distribution.png)
+![Document Quality Dashboard](images/document_quality_dashboard.png)
+
+### Notebook 04: Embeddings & FAISS
+![3D Document Distribution](images/3d_document_distribution.png)
+![3D Document Volume](images/3d_document_volume.png)
+
+### Notebook 11: Executive Dashboard
+![Executive Dashboard](images/ingestion_executive_summary.png)
+![Quality Radar Chart](images/quality_radar_chart.png)
+
+*For full interactive experience, click the gallery link above!*
+
+--- 
+
+
 ## 🎯 Key Capabilities
 
 | 🏗️ Layer                     | 🚀 Capabilities                                | 🛠️ Technologies                                |
