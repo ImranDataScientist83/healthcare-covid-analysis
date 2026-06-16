@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enterprise Knowledge Intelligence - Interactive Visualizations</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: system-ui, 'Segoe UI', 'Open Sans', sans-serif;
+            background: #0d1117;
+            color: #c9d1d9;
+            padding: 2rem 1.5rem;
+            line-height: 1.5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .header {
+            text-align: center;
+            border-bottom: 1px solid #30363d;
+            padding-bottom: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        h1 {
+            font-size: 2rem;
+            background: linear-gradient(135deg, #ff8c00, #ffb347);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            letter-spacing: -0.01em;
+        }
+        .subhead {
+            color: #8b949e;
+            margin-top: 0.5rem;
+        }
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-top: 1rem;
+            flex-wrap: wrap;
+        }
+        .stat {
+            background: #161b22;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            border: 1px solid #30363d;
+        }
+        .notebook-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 1.5rem;
+        }
+        .card {
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 16px;
+            padding: 1.25rem;
+            transition: transform 0.1s ease, border-color 0.2s;
+        }
+        .card:hover {
+            border-color: #ff8c00;
+            transform: translateY(-2px);
+        }
+        .notebook-badge {
+            display: inline-block;
+            font-size: 0.7rem;
+            font-weight: 600;
+            padding: 0.2rem 0.6rem;
+            border-radius: 20px;
+            background: #21262d;
+            color: #ffb347;
+            margin-bottom: 0.75rem;
+            letter-spacing: 0.3px;
+        }
+        h2 {
+            font-size: 1.3rem;
+            margin-bottom: 0.5rem;
+            font-weight: 500;
+        }
+        .desc {
+            font-size: 0.8rem;
+            color: #8b949e;
+            margin-bottom: 1rem;
+            border-left: 2px solid #ff8c00;
+            padding-left: 0.75rem;
+        }
+        .file-list {
+            list-style: none;
+            margin-top: 0.75rem;
+        }
+        .file-list li {
+            margin: 0.5rem 0;
+        }
+        .file-list a {
+            color: #58a6ff;
+            text-decoration: none;
+            font-size: 0.85rem;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .file-list a:hover {
+            text-decoration: underline;
+            color: #ff8c00;
+        }
+        .footer {
+            margin-top: 3rem;
+            text-align: center;
+            font-size: 0.8rem;
+            color: #6e7681;
+            border-top: 1px solid #21262d;
+            padding-top: 1.5rem;
+        }
+        code {
+            background: #21262d;
+            padding: 0.2rem 0.4rem;
+            border-radius: 6px;
+            font-size: 0.75rem;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <h1>🏗️ ENTERPRISE KNOWLEDGE INTELLIGENCE</h1>
+        <p class="subhead">Agentic RAG · Hybrid Retrieval · 3D Executive Analytics</p>
+        <div class="stats">
+            <span class="stat">📓 8 Notebooks</span>
+            <span class="stat">🎨 16+ Visualizations</span>
+            <span class="stat">🌀 Interactive 3D</span>
+        </div>
+    </div>
+
+    <div class="notebook-grid">
+
+        <!-- NB01: Data Ingestion -->
+        <div class="card">
+            <div class="notebook-badge">📓 NOTEBOOK 01</div>
+            <h2>Data Ingestion</h2>
+            <div class="desc">Document corpus generation, quality analysis, throughput metrics</div>
+            <ul class="file-list">
+                <li><a href="interactive_document_analysis.html" target="_blank">📊 Document Analysis Dashboard</a></li>
+                <li><a href="interactive_document_analysis_rotating.html" target="_blank">🔄 Rotating Document Analysis</a></li>
+            </ul>
+        </div>
+
+        <!-- NB02: OCR & Layout Understanding -->
+        <div class="card">
+            <div class="notebook-badge">📓 NOTEBOOK 02</div>
+            <h2>OCR & Layout Understanding</h2>
+            <div class="desc">Document text extraction, layout analysis, reading order</div>
+            <ul class="file-list">
+                <li><a href="interactive_ocr_dashboard.html" target="_blank">🔍 OCR Dashboard</a></li>
+                <li><a href="interactive_ocr_dashboard_dark.html" target="_blank">🌙 OCR Dashboard (Dark)</a></li>
+                <li><a href="interactive_ocr_dashboard_rotating.html" target="_blank">🔄 Rotating OCR Dashboard</a></li>
+            </ul>
+        </div>
+
+        <!-- NB03: Vision-Language Fusion -->
+        <div class="card">
+            <div class="notebook-badge">📓 NOTEBOOK 03</div>
+            <h2>Vision-Language Fusion</h2>
+            <div class="desc">LayoutLMv3, cross-modal attention, joint embeddings</div>
+            <ul class="file-list">
+                <li><a href="interactive_layoutlmv3_embeddings.html" target="_blank">🧠 LayoutLMv3 Embeddings</a></li>
+                <li><a href="interactive_layoutlmv3_embeddings_controls.html" target="_blank">🎮 LayoutLMv3 with Controls</a></li>
+            </ul>
+        </div>
+
+        <!-- NB04: Multimodal Embeddings + FAISS -->
+        <div class="card">
+            <div class="notebook-badge">📓 NOTEBOOK 04</div>
+            <h2>Multimodal Embeddings</h2>
+            <div class="desc">FAISS indexing, 3D embedding space, similarity search</div>
+            <ul class="file-list">
+                <li><a href="faiss_performance_3d.html" target="_blank">⚡ FAISS 3D Performance</a></li>
+                <li><a href="faiss_performance_3d_scatter.html" target="_blank">📊 FAISS 3D Scatter</a></li>
+                <li><a href="faiss_performance_interactive.html" target="_blank">🎯 FAISS Interactive</a></li>
+                <li><a href="interactive_embedding_dashboard.html" target="_blank">🎨 Embedding Dashboard</a></li>
+            </ul>
+        </div>
+
+        <!-- NB06: Learning-to-Rank -->
+        <div class="card">
+            <div class="notebook-badge">📓 NOTEBOOK 06</div>
+            <h2>Learning-to-Rank</h2>
+            <div class="desc">LambdaMART, XGBoost ranking, NDCG optimization</div>
+            <ul class="file-list">
+                <li><a href="3d_interactive_visualization.html" target="_blank">📈 3D Ranking Visualization</a></li>
+            </ul>
+        </div>
+
+        <!-- NB07: RAG Pipeline -->
+        <div class="card">
+            <div class="notebook-badge">📓 NOTEBOOK 07</div>
+            <h2>RAG Pipeline</h2>
+            <div class="desc">Retrieval-augmented generation, faithfulness, context recall</div>
+            <ul class="file-list">
+                <li><a href="6d_hypercube_interactive.html" target="_blank">🔲 6D Hypercube (RAG Metrics)</a></li>
+                <li><a href="interactive_3d_embeddings.html" target="_blank">🌀 Interactive 3D Embeddings</a></li>
+            </ul>
+        </div>
+
+        <!-- NB08: Agent Orchestration -->
+        <div class="card">
+            <div class="notebook-badge">📓 NOTEBOOK 08</div>
+            <h2>AI Agent Orchestration</h2>
+            <div class="desc">Multi-agent workflows, ReAct agents, tool use</div>
+            <ul class="file-list">
+                <li><a href="3d_agent_coordination.html" target="_blank">🤖 Agent Coordination 3D</a></li>
+            </ul>
+        </div>
+
+        <!-- NB11: Executive Dashboard -->
+        <div class="card">
+            <div class="notebook-badge">📓 NOTEBOOK 11</div>
+            <h2>Executive Dashboard</h2>
+            <div class="desc">3D performance cube, KPI monitoring, master dashboard</div>
+            <ul class="file-list">
+                <li><a href="interactive_executive_dashboard.html" target="_blank">🏆 Executive Dashboard</a></li>
+            </ul>
+        </div>
+
+    </div>
+
+    <div class="footer">
+        <p>📁 All HTML files in <code>/html_exports</code> | 🌐 GitHub Pages enabled on <code>main</code> branch</p>
+        <p>🎓 Mas Imran — Applied ML Engineering · 11-Notebook Enterprise Knowledge Intelligence Platform</p>
+        <p>💡 <strong>8 notebooks with visualizations</strong> (NB05, NB09, NB10 in progress)</p>
+    </div>
+</div>
+</body>
+</html>
