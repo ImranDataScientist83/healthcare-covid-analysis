@@ -7,11 +7,6 @@ AGENTIC RAG & 3D EXECUTIVE ANALYTICS PLATFORM
 
 <h3 align="center">
 Multimodal Intelligence | Hybrid Retrieval | Search Ranking | Agentic RAG | Observability | 3D Executive Analytics
-</h3>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=24&duration=2000&pause=1000&color=800020&center=true&vCenter=true&width=400&lines=IN+PROGRESS" alt="Typing SVG" />
-</a>
 
 <br><br>
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://python.org/)
@@ -494,7 +489,7 @@ uvicorn deployment.api:app --reload --port 8000
 
 
 
-<div align="centre">
+<div align="center">
     
 <!-- Badges with background styling -->
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/ImranDataScientist83)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mas-imran-38360613a/)  [![Portfolio](https://img.shields.io/badge/Portfolio-AI%2FML%20Projects-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge)](https://github.com/ImranDataScientist83/healthcare-covid-analysis)   [![Email](https://img.shields.io/badge/Email-imranscar%40hotmail.com-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:imranscar@hotmail.com)
