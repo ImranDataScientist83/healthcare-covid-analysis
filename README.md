@@ -1,4 +1,8 @@
-# 🚀 AI • Machine Learning • LLM Engineering Portfolio
+<div align="center">
+  
+#  MAS IMRAN
+
+### AI Engineer • Machine Learning Engineer • LLM Engineer • AI Algorithm Engineer
 
 ### Production AI • Agentic RAG • Enterprise Knowledge Intelligence • Executive Analytics
 
