@@ -214,10 +214,9 @@ This project demonstrates the design and implementation of a production-oriented
 ## 🌀 Interactive 3D Analytics & Visualization Gallery
 
 [![Plotly](https://img.shields.io/badge/Powered%20by-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
-[![3D Analytics](https://img.shields.io/badge/3D-Analytics-FF6B00?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
+[![Plotly 3D](https://img.shields.io/badge/📊-3D_Analytics_&_Dashboards-FF6B00?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/python/3d-charts/)
 
 Explore interactive dashboards, retrieval analytics, ranking intelligence, agent orchestration, and executive monitoring through Plotly-powered visualizations.
-
 
 <div align="center">
   <a href="https://imrandatascientist83.github.io/healthcare-covid-analysis/00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/html_exports/">
