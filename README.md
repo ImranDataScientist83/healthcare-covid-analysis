@@ -2,6 +2,8 @@
   
 #  MAS IMRAN
 
+</div>
+
 ### AI Engineer • Machine Learning Engineer • LLM Engineer • AI Algorithm Engineer
 
 ### Production AI • Agentic RAG • Enterprise Knowledge Intelligence • Executive Analytics
@@ -14,11 +16,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mas-imran-38360613a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)](https://github.com/ImranDataScientist83)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Enterprise_AI_Projects-FF5722?logo=google-chrome&logoColor=white)](https://github.com/ImranDataScientist83/healthcare-covid-analysis)
-
 <br>
-
 <!-- Technologies -->
-
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-Gemini_&_OpenAI-4285F4)
@@ -404,7 +403,7 @@ Master's thesis and academic research documentation
 
 ## 📂 Repository Structure
 
-```text
+```
 AI-ML-ALGORITHM-ENGINEERING-PORTFOLIO/
 │
 ├── 00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-&-3D-EXECUTIVE-ANALYTICS-PLATFORM/
