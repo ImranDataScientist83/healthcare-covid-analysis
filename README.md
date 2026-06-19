@@ -22,6 +22,39 @@ Machine Learning Engineer with a completed Master's Degree in Computer Science a
 ## 🚀 Featured Projects
 
 
+### 🏢 [00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-&-3D-EXECUTIVE-ANALYTICS-PLATFORM](./00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/)
+
+**🧠 Enterprise Knowledge Intelligence Platform** — A production-oriented AI platform integrating Agentic RAG, enterprise knowledge management, intelligent document processing, executive analytics, and immersive 3D knowledge visualization.
+
+| 🧩 Platform Capability | 🚀 Implementation |
+|:-----------------------|:------------------|
+| 🤖 **Agentic AI** | Multi-agent orchestration with enterprise reasoning workflows |
+| 📄 **Knowledge Intelligence** | Enterprise document ingestion, semantic indexing, and retrieval |
+| 🔎 **Agentic RAG** | Context-aware retrieval with grounded LLM responses |
+| 🧠 **LLMs** | Google Gemini-powered enterprise assistants |
+| 📊 **Executive Analytics** | Interactive KPI dashboards and business intelligence |
+| 🌐 **Knowledge Graph** | Connected enterprise knowledge relationships |
+| 🎥 **3D Visualization** | Interactive enterprise knowledge workflow & timeline animations |
+| ⚙️ **Production Engineering** | Modular architecture, reusable workflows, deployment-ready design |
+
+**📚 Comprehensive enterprise portfolio featuring:** Agentic RAG • Enterprise Knowledge Management • Intelligent Document Processing • LLM Engineering • Executive Analytics • Interactive 3D Visualization • Production AI Architecture
+
+📁 **Highlights include:**
+
+- 🏢 Enterprise Knowledge Intelligence Platform
+- 🤖 Agentic RAG Architecture
+- 📄 Intelligent Document Processing
+- 🧠 LLM Engineering Workflows
+- 📊 Executive Analytics Dashboards
+- 🎥 Interactive 3D Knowledge Visualizations
+- 🌐 Knowledge Graph Concepts
+- ⚙️ Production-Ready AI System Design
+
+📁 [View Project →](./00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/README.md)
+
+---
+
+
 ### 🤖 [01-AI-ML-ENGINEERING-PROJECTS](./01-AI-ML-ENGINEERING-PROJECTS/)
 
 **🎓 AI/ML Engineering Mastery Suite** - Complete ML lifecycle with 10 professional notebooks
