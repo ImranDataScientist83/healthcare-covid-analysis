@@ -1,25 +1,126 @@
-# MAS IMRAN – AI/ML/Algorithm Engineering Portfolio
+# 🚀 AI • Machine Learning • LLM Engineering Portfolio
+
+### Production AI • Agentic RAG • Enterprise Knowledge Intelligence • Executive Analytics
+
+<div align="center">
+
+<!-- Contact -->
 
 [![Email](https://img.shields.io/badge/Email-imranscar%40hotmail.com-blue?logo=gmail&logoColor=white)](mailto:imranscar@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)](https://github.com/ImranDataScientist83)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mas-imran-38360613a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-AI%2FML%20Projects-FF5722?logo=google-chrome&logoColor=white)](https://github.com/ImranDataScientist83/healthcare-covid-analysis)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)](https://github.com/ImranDataScientist83)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Enterprise_AI_Projects-FF5722?logo=google-chrome&logoColor=white)](https://github.com/ImranDataScientist83/healthcare-covid-analysis)
 
-**Open to Applied Machine Learning Engineer, AI Engineer, AI/ML Engineer, and AI Algorithm Engineering opportunities from Feb 2026 onward.**
+<br>
 
-### 📊 GitHub Stats
+<!-- Technologies -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=ImranDataScientist83&color=blue)
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-Gemini_&_OpenAI-4285F4)
+![FastAPI](https://img.shields.io/badge/FastAPI-Production_API-009688?logo=fastapi&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure_Machine_Learning-0078D4?logo=microsoftazure&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-success)
 
+</div>
 
-**Applied Machine Learning Engineer | Production-Oriented AI Systems**
+---
 
-Machine Learning Engineer with a completed Master's Degree in Computer Science and industry-aligned specialization in Data Science & AI. Experience building end-to-end machine learning pipelines on real-world datasets, including healthcare COVID-19 case data. Skilled in reproducible experimentation, structured feature engineering, model validation, and production-aware system design. Focused on delivering scalable AI systems aligned to measurable business and operational impact.
+## 👋 About Me
+
+Machine Learning Engineer with a **Master's Degree in Computer Science (Artificial Intelligence & Data Science)**, specializing in building **production-ready AI and Machine Learning solutions**.
+
+My work spans the complete AI engineering lifecycle—from data engineering and predictive modeling to **Large Language Models (LLMs)**, **Agentic AI**, **Retrieval-Augmented Generation (RAG)**, **Enterprise Knowledge Intelligence**, **production APIs**, **executive analytics**, and **interactive 3D visualizations**.
+
+I enjoy designing scalable AI systems that transform complex data into intelligent applications and actionable business insights.
+
+---
+
+## 🎯 Core Specializations
+
+- 🤖 AI Engineering
+- 🧠 Machine Learning Engineering
+- 💬 Large Language Models (LLMs)
+- 🔎 Agentic Retrieval-Augmented Generation (Agentic RAG)
+- 📄 Intelligent Document Processing
+- 🌐 Enterprise Knowledge Intelligence
+- 📊 Executive Analytics & Business Intelligence
+- 🎥 Interactive 2D & 3D Data Visualization
+- ⚙️ Production APIs (FastAPI)
+- ☁️ Azure Machine Learning
 
 ---
 
 
-## 🚀 Featured Projects
+# 📈 Portfolio Summary
+
+<div align="center">
+
+| Category | Portfolio |
+|:---------|---------:|
+| 🤖 AI Engineering Projects | 6 |
+| 🧠 Machine Learning Projects | 20+ |
+| 💬 LLM & Agentic RAG Projects | 15+ |
+| 🌐 Enterprise Knowledge Intelligence | 1 |
+| 📊 Interactive Dashboards | 60+ |
+| 🎥 2D & 3D Visualizations | 50+ |
+| 📚 Jupyter Notebooks | 70+ |
+| ⚙️ Production APIs | FastAPI |
+| ☁️ Cloud Platform | Azure Machine Learning |
+
+</div>
+
+---
+
+## 📂 Featured Portfolio Projects
+
+```
+
+⭐ Enterprise AI (Latest)
+│
+├── Enterprise Knowledge Intelligence Platform
+├── Agentic RAG Document Intelligence
+│
+🤖 AI Engineering
+│
+├── AI Engineering
+├── AI Algorithm Engineering
+├── Wildlife AI Agent
+│
+🧠 Machine Learning
+│
+├── Healthcare ML
+├── Predictive Analytics
+├── Classification
+├── Regression
+│
+💬 LLM & Generative AI
+│
+├── Gemini Projects
+├── OpenAI Projects
+├── RAG
+│
+📊 Dashboards & BI
+│
+├── Power BI
+├── Plotly Dash
+├── Streamlit
+│
+🎥 Interactive Visualizations
+│
+├── 3D Enterprise Visualizations
+├── Interactive Analytics
+│
+📚 Research & Notebooks
+│
+├── Jupyter Collection
+├── Algorithms
+├── Experiments
+```
+
+
+
+## 🔗 Clickable Projects
 
 
 ### 🏢 [00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-&-3D-EXECUTIVE-ANALYTICS-PLATFORM](./00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-%26-3D-EXECUTIVE-ANALYTICS-PLATFORM/)
@@ -299,77 +400,100 @@ Master's thesis and academic research documentation
 
 ## 📂 Repository Structure
 
-```bash
+```text
 AI-ML-ALGORITHM-ENGINEERING-PORTFOLIO/
 │
-├── 01-AI-ALGORITHM-ENGINEERING-PROJECTS/      
-│   # Recommendation systems, ranking algorithms,
-│   # engagement prediction, and optimization workflows
-│
-├── 01-AI-ENGINEERING-PROJECTS/                
-│   # ByteDance-style RAG systems, AI applications,
-│   # retrieval pipelines, and intelligent assistants
+├── 00-ENTERPRISE-KNOWLEDGE-INTELLIGENCE-AGENTIC-RAG-&-3D-EXECUTIVE-ANALYTICS-PLATFORM/
+│   # ⭐ Flagship Enterprise AI Platform
+│   # Agentic RAG • Enterprise Knowledge Intelligence
+│   # Intelligent Document Processing • Executive Analytics
+│   # Knowledge Graph • Interactive 3D Visualization
 │
 ├── 01-AI-ML-ENGINEERING-PROJECTS/
-│   # End-to-end ML engineering, MLOps,
-│   # production pipelines, dashboards, and deployment
+│   # End-to-end Machine Learning Engineering
+│   # Feature Engineering • Model Development
+│   # Explainable AI • FastAPI • MLflow • MLOps
 │
-├── 01-AI-PLATFORM-AGENTIC-WILDLIFE-PROJECTS/   
-│   # Enterprise Agentic AI Platform, multi-agent orchestration,
-│   # wildlife conservation, guest experience, responsible AI governance
+├── 01-AI-ALGORITHM-ENGINEERING-PROJECTS/
+│   # Recommendation Systems
+│   # Learning-to-Rank • Engagement Prediction
+│   # A/B Testing • Optimization Algorithms
 │
-├── 02-LLM-VERTICAL-SEARCH-PROJECTS/           
-│   # LLM Vertical Search Engine, multi-modal search,
-│   # RAG pipeline, FAISS optimization, A/B testing
+├── 01-AI-ENGINEERING-PROJECTS/
+│   # Production AI Applications
+│   # ByteDance-style RAG
+│   # LLM Integration • Intelligent Assistants
 │
-├── 02-LARGE-LANGUAGE-MODEL-ENGINEERING-PROJECTS/ 
-│   # LLM workflows, prompt engineering,
-│   # RAG architectures, and generative AI systems
+├── 01-AI-PLATFORM-AGENTIC-WILDLIFE-PROJECTS/
+│   # Enterprise Multi-Agent AI Platform
+│   # Wildlife Conservation
+│   # Responsible AI • Snowflake • Streamlit
 │
-├── 03-MACHINE-LEARNING-PIPELINE-PROJECTS/     
-│   # Automated ML pipelines, APIs,
-│   # orchestration, monitoring, and deployment workflows
+├── 02-LLM-VERTICAL-SEARCH-PROJECTS/
+│   # Enterprise Vertical Search Engine
+│   # Multi-Modal Search
+│   # FAISS • Agentic RAG • Search Optimization
 │
-├── 04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS/ 
-│   # Healthcare analytics, statistical modeling,
-│   # predictive analysis, and visualization
+├── 02-LARGE-LANGUAGE-MODEL-ENGINEERING-PROJECTS/
+│   # Large Language Model Engineering
+│   # Prompt Engineering
+│   # RAG Architectures • Generative AI
 │
-├── 04-UNIVERSITY-POWER-BI-PROJECTS/           
-│   # Business intelligence dashboards,
-│   # KPI reporting, and executive analytics
+├── 03-MACHINE-LEARNING-PIPELINE-PROJECTS/
+│   # Production Machine Learning Pipelines
+│   # FastAPI Services
+│   # Model Deployment • Workflow Automation
 │
-├── 04-UNIVERSITY-FINAL-THESIS-REPORTS/        
-│   # Master's thesis, research documentation,
-│   # academic reports, and publications
+├── 04-UNIVERSITY-COVID19-HEALTHCARE-ANALYSIS/
+│   # Healthcare Data Science
+│   # Predictive Analytics
+│   # Statistical Modeling • Visualization
 │
-├── Chapter 4 Final Thesis/                    
-│   # Thesis chapters, diagrams,
-│   # references, and supporting documentation
+├── 04-UNIVERSITY-POWER-BI-PROJECTS/
+│   # Executive Dashboards
+│   # Business Intelligence
+│   # KPI Reporting • Data Storytelling
 │
-├── WSQ Deep Learning/                         
-│   # Deep learning coursework,
-│   # neural networks, and experimentation
+├── 04-UNIVERSITY-FINAL-THESIS-REPORTS/
+│   # Master's Research
+│   # Artificial Intelligence & Data Science
+│   # Academic Publications
 │
-├── WSQ Generative AI (SF)/                    
-│   # Generative AI labs,
-│   # foundation models, and practical exercises
+├── Chapter 4 Final Thesis/
+│   # Supporting Thesis Documentation
+│   # Research Figures • References
 │
-├── WSQ Machine Learning Algorithms/           
-│   # Classical machine learning algorithms,
-│   # supervised and unsupervised implementations
+├── WSQ Deep Learning/
+│   # Deep Learning Projects
+│   # Neural Networks • TensorFlow • PyTorch
 │
-└── app.py                                     
-    # API service entry point
+├── WSQ Generative AI (SF)/
+│   # Generative AI Labs
+│   # Foundation Models • Prompt Engineering
+│
+├── WSQ Machine Learning Algorithms/
+│   # Classical Machine Learning
+│   # Supervised & Unsupervised Learning
+│
+└── app.py
+    # Portfolio API Entry Point
+    # FastAPI Application
 ```
 
-## 📌 Repository Organization
+---
 
-Projects are grouped by specialization domain:
+# 📌 Repository Organization
 
-- **01** → Applied AI Engineering, Algorithm Systems & Agentic AI Platform
-- **02–03** → LLM and Machine Learning Engineering
-- **04** → University academic projects and research work
+| Folder | Focus Area |
+|:-------|:-----------|
+| ⭐ **00** | Enterprise Knowledge Intelligence • Agentic RAG • Executive Analytics • 3D Visualization |
+| 🤖 **01** | AI Engineering • Machine Learning Engineering • Algorithm Engineering • Multi-Agent AI Platforms |
+| 💬 **02** | Large Language Models • Agentic RAG • Enterprise Search • Generative AI |
+| ⚙️ **03** | Production ML Pipelines • APIs • Deployment • Automation |
+| 🎓 **04** | Master's Research • Healthcare Analytics • Business Intelligence • Academic Portfolio |
+| 📚 **WSQ** | Professional AI, Machine Learning & Deep Learning Coursework |
 
+> **Portfolio Focus:** Applied AI Engineering • Machine Learning Engineering • LLM Engineering • Agentic AI • Enterprise Knowledge Intelligence • Production AI Systems • Executive Analytics
 ---
 
 ✨ Part of **AI / ML / Algorithm Engineering Portfolio**
