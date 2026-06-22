@@ -1,2 +1,8 @@
+# Collapse Jupyter Notebooks or treat them as data
+*.ipynb linguist-detectable=true
+
+# Ignore HTML files from being counted in the language statistics
+*.html linguist-vendored
+
 # Keep global JSON configs clean
 *.json linguist-detectable=false
