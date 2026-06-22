@@ -1,0 +1,2 @@
+# Keep global JSON configs clean
+*.json linguist-detectable=false
